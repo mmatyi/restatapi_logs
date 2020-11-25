@@ -1,2 +1,3 @@
-install.packages("restatapi")
+install.packages(c("reshape2","cranlogs","DT"))
+devtools::install_github('eurostat/restatapi')
 devtools::install_github('ramnathv/rCharts')
