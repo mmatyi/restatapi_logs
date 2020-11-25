@@ -1,5 +1,6 @@
 # restatapi_logs
-Various tools to analyse logs connected to the restatapi R package
+
+Here you can find some tools to analyse logs connected to the [restatapi](https://eurostat.github.io/restatapi/) R package
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmatyi/restatapi_logs/HEAD)
+Launch a [Binder](https://mybinder.org/) instance with the `restatapi` package: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mmatyi/restatapi_logs/HEAD)
