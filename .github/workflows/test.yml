@@ -5,7 +5,7 @@ jobs:
     container: rocker/verse
     steps:
       - uses: actions/checkout@v1
-      - run: Rscript get_log.R
+      - run: Rscript ./cran_logs/get_log.R
       - name: Upload results
         uses: actions/upload-artifact@main
         with:
