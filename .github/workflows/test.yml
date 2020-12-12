@@ -1,0 +1,13 @@
+on: [push]
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    container: rocker/verse
+    steps:
+      - uses: actions/checkout@v1
+      - run: Rscript get_log.R
+      - name: Upload results
+        uses: actions/upload-artifact@main
+        with:
+          name:  rlogs.RDS
+          path: ./cran_logs
