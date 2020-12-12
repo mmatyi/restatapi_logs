@@ -15,5 +15,5 @@ jobs:
           author_name: Mészáros Mátyás 
           author_email: 34501282+mmatyi@users.noreply.github.com
           push: true
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
