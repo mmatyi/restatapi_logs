@@ -6,14 +6,20 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - run: Rscript ./cran_logs/get_log.R
-      - name: Commit results 
+    #  - name: Commit results 
       # see marketplace: https://github.com/marketplace/actions/add-commit (https://github.com/EndBug/add-and-commit)
-        uses: EndBug/add-and-commit@v5
+     #   uses: EndBug/add-and-commit@v5
+      #  with:
+       #   message: "Automated data update"
+        #  add: './cran_logs/rlogs.*' 
+         # author_name: Mészáros Mátyás 
+         # author_email: 34501282+mmatyi@users.noreply.github.com
+         # push: true
+        #env:
+        #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+      - name: Upload results
+        uses: actions/upload-artifact@main
         with:
-          message: "Automated data update"
-          add: './cran_logs/rlogs.*' 
-          author_name: Mészáros Mátyás 
-          author_email: 34501282+mmatyi@users.noreply.github.com
-          push: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+          name: rlogs.tsv
+          path: ./cranlogs
+          
