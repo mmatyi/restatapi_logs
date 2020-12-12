@@ -8,10 +8,10 @@ jobs:
       - run: Rscript ./cran_logs/get_log.R
       - name: Commit results 
       # see marketplace: https://github.com/marketplace/actions/add-commit (https://github.com/EndBug/add-and-commit)
-      uses: EndBug/add-and-commit@v5
-      with:
-        message: "Automated data update"
-        add: './cran_logs/rlogs.tsv' # CHANGE HERE THE FILENAME IF NEEDED
-        force: true
-      env: # see https://docs.github.com/en/actions/reference/environment-variables
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
+        uses: EndBug/add-and-commit@v5
+        with:
+          message: "Automated data update"
+          add: './cran_logs/rlogs.tsv' # CHANGE HERE THE FILENAME IF NEEDED
+          force: true
+          env: # see https://docs.github.com/en/actions/reference/environment-variables
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
