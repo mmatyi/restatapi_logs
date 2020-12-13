@@ -5,6 +5,9 @@ library(rCharts)
 # library(cranlogs)
 library(data.table)
 
+tmp<-tempfile()
+download.file("https://github.com/mmatyi/restatapi_logs/raw/main/cran_logs/rlogs.RDS",tmp)
+dt<-readRDS(tmp)
 
 shinyServer(function(input, output) {
   
@@ -13,8 +16,7 @@ shinyServer(function(input, output) {
     isolate({
       withProgress({
         setProgress(message = "Filtering data...")
-        d<-readRDS("../../cran_logs/rlogs.RDS")
-        d<-d[date>=input$sdatum & date<=input$edatum]
+        d<-dt[date>=input$sdatum & date<=input$edatum]
         return(d)
       })
     })
