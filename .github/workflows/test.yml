@@ -6,7 +6,12 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - run: Rscript ./cran_logs/get_log.R
-    #  - name: Commit results 
+      - name: Upload results
+        uses: actions/upload-artifact@main
+        with:
+          name: rlogs.tsv
+          path: ./cran_logs
+     #  - name: Commit results 
       # see marketplace: https://github.com/marketplace/actions/add-commit (https://github.com/EndBug/add-and-commit)
      #   uses: EndBug/add-and-commit@v5
       #  with:
@@ -17,9 +22,8 @@ jobs:
          # push: true
         #env:
         #  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} 
-      - name: Upload results
-        uses: actions/upload-artifact@main
+         
+      - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          name: rlogs.tsv
-          path: ./cran_logs
-          
+          commit_message: update tsv
+      
