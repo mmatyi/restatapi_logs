@@ -1,0 +1,15 @@
+on: 
+  schedule:
+    - cron: "0 6 * * *"
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    name: cran log data update
+    container: rocker/verse
+    steps:
+      - uses: actions/checkout@v2
+      - run: Rscript ./cran_logs/get_log.R
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: updating cran logs files
+      

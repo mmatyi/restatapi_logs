@@ -1,6 +1,7 @@
 if (!("data.table" %in% rownames(installed.packages()))){install.packages(data.table)}
 library(data.table)
 old_rlogs<-readRDS("./cran_logs/rlogs.RDS")
+
 tbc<-verbose<-TRUE
 # date<-"2019-04-26"
 start_date<-as.Date(max(old_rlogs$date))+1   #"2019-04-26"
