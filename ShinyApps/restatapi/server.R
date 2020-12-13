@@ -13,7 +13,7 @@ shinyServer(function(input, output) {
     isolate({
       withProgress({
         setProgress(message = "Filtering data...")
-        d<-readRDS("../../cran_logs//rlogs.RDS")
+        d<-readRDS("../../cran_logs/rlogs.RDS")
         d<-d[date>=input$sdatum & date<=input$edatum]
         return(d)
       })
