@@ -1,0 +1,5 @@
+0.8.10	id=lfsq_pganws
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)

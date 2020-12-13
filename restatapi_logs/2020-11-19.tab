@@ -1,0 +1,164 @@
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=data_code	filters=filters
+0.9.5	id=edat_lfse_12	label=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp
+0.8.10	id=demo_r_gind3
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=namq_10_exi
+0.8.10	id=ei_lmjv_q_r2
+0.8.10	id=namq_10_exi
+0.8.10	id=TSC00028
+0.8.10	id=TSC00028
+0.8.10	id=TSC00028
+0.8.10	id=ei_lmjv_q_r2
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=data_code	filters=filters
+0.9.1	id=hsw_mi06	label=TRUE
+0.8.10	id=data_code	filters=filters
+0.9.1	id=hsw_mi06	label=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi03	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.9.1	id=hsw_mi06	label=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=sts_trtu_m	filters=list(nace_r2 = "G47", indic_bt = "TOVV", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	time_format=num
+0.8.10	id=sts_trtu_m	filters=list(nace_r2 = "G47", indic_bt = "TOVV", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=sts_trtu_m	filters=list(nace_r2 = "G47", indic_bt = "TOVV", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=sts_trtu_m	filters=list(nace_r2 = "G47", indic_bt = "TOVV", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=sts_trtu_m	filters=list(nace_r2 = "G47", indic_bt = "TOVV", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=NAMA_10R_3GDP	stringsAsFactors=FALSE
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=NAMA_10R_3GDP	stringsAsFactors=FALSE
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=NAMA_10R_3GDP	stringsAsFactors=FALSE
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=NAMA_10R_3GDP	stringsAsFactors=FALSE

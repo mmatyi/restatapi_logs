@@ -1,0 +1,132 @@
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=NAMA_10_GDP	cache=TRUE
+0.8.10	id=NAMA_10_GDP	cache=TRUE
+0.8.10	id=NAMA_10_GDP	cache=TRUE
+0.8.10	id=NAMA_10_GDP	cache=TRUE
+0.8.10	id=NAMA_10_GDP	cache=TRUE
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=.
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=NAMA_10_GDP	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = c("PC_Y65_MAX", "MEDAGEPOP"))	date_filter=c(2009, 2019)
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = c("PC_Y65_MAX", "MEDAGEPOP"))	date_filter=c(2009, 2019)
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = c("PC_Y65_MAX", "MEDAGEPOP"))	date_filter=c(2009, 2019)
+0.8.10	id=irt_lt_mcby_m	date_filter=2011-01:2020-12
+0.8.10	id=irt_lt_mcby_m	date_filter=2011-01:2020-12
+0.8.10	id=irt_lt_mcby_m	date_filter=1992-01:2020-12
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi06	label=TRUE
+0.9.1	id=hsw_mi06	label=TRUE
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.9.1	id=cens_01rsctz
+0.9.1	id=cens_01rsctz

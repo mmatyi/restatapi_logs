@@ -1,0 +1,56 @@
+0.8.10	id=irt_lt_mcby_m	date_filter=2011-01:2020-12
+0.8.10	id=gov_10dd_edpt1	date_filter=2011-01:2020-12
+0.8.10	id=sdg_17_40	date_filter=2011-01:2020-12
+0.8.10	id=spr_exp_pens	date_filter=2011-01:2020-12
+0.9.0	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.9.0	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.10	id=demo_pjanind	filters=list(geo = "EU27_2020", indic_de = agegroup)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = "EU27_2020", indic_de = agegroup)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = "EU27_2020", indic_de = agegroup)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=c(indic_de = agegroup)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=c(indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=c(indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=c(indic_de = c("PC_Y0_14", "PC_Y15_24", "PC_Y25_49", "PC_Y50_64", "PC_Y65_MAX"))	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	date_filter=c(2009, 2019)	verbose=TRUE	indic_de=c("PC_Y0_14", "PC_Y15_24", "PC_Y25_49", "PC_Y50_64", "PC_Y65_MAX")
+0.8.10	id=demo_pjanind	filters=c(geo = geoentity, indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters	exact_match=T	label=T
+0.8.10	id=data_code	filters=filters	exact_match=T	label=T
+0.8.10	id=data_code	filters=filters	exact_match=T	label=T
+0.8.10	id=data_code	filters=filters	exact_match=T	label=T	keep_flags=T
+0.8.10	id=data_code	filters=filters	exact_match=T	label=T	keep_flags=T
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters

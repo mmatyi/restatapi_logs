@@ -1,0 +1,2 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.10	id=demo_pjanind	filters=list(indic_de = "MEDAGEPOP")	date_filter=c(2010, 2019)	verbose=TRUE

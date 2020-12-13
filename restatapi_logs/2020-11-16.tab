@@ -1,0 +1,209 @@
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses18_04
+0.8.10	id=demo_mlexpec	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=demo_mlexpec	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=nama_10_pc
+0.8.10	id=earn_ses14_04
+0.8.10	id=demo_mlexpec	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses18_04
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=earn_ses18_04
+0.8.10	id=lfsa_egana2d
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=educ_figdp	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=educ_figdp	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=educ_uoe_fine06	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.5	id=ilc_peps11
+0.9.5	id=ilc_peps11
+0.8.10	id=nrg_102m
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=lfsa_egana2d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.9.5	id=edat_lfse_12	label=TRUE
+0.8.10	id=lfsa_egana2d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.9.5	id=edat_lfse_12	label=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_102m	label=TRUE	verbose=TRUE
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=nrg_cb_oilm	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_cb_oilm	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_cb_oilm	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_cb_oilm	label=TRUE	verbose=TRUE
+0.8.10	id=nrg_cb_oilm	label=TRUE	verbose=TRUE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPSURVPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=ilc_pnp3	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_pnp10	filters=list(geo = "PT", geo = "EU")	label=FALSE
+0.8.10	id=ilc_li02	filters=list(geo = "PT", geo = "EU", age = "Y_GE65", age = "Y_GE75", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.8.10	id=ilc_pns8	filters=list(geo = "PT", geo = "EU", unit = "PC", age = "Y_GE60", age = "Y_GE65", age = "Y_GE75")	label=FALSE

@@ -1,0 +1,98 @@
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = age2, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = age2, sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c("2019", "2100")	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = age2, sex = c("M", "F"), projection = "BSL", freq = "A", time = c(2019, 2100))	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", age = age2, sex = c("M", "F"), projection = "BSL", freq = "A", time = c(2019, 2100))	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A", time = c(2019, 2100))	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A", time = c("2019", "2100"))	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A", time = c("2019", "2100"))	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	verbose=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.6	id=namq_10_gdp
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EXT_EU27", GEO = c("EU27"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EXT_EU27", GEO = c("EU27"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EXT_EU27", GEO = c("EU27_2020"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EA19", GEO = c("EU27_2020"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", GEO = c("EU27_2020", "EA19"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(currency = "MIO_EUR", partner = "EXT_EU27", GEO = c("EU27"), stk_flow = "BAL")	date_filter=2007:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19", "EU27_2020"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19", "EU27_2020"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19", "EU27_2020"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19", "EU27_2020"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19", "EU27_2020"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EU27_2020"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2007:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EU27_2020"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EU27_2020"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EU27_2020"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EU27_2020"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EA19"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = "B1GQ", GEO = c("EU27_2020"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=naidq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = c("US"))	date_filter=2008:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	date_filter=c(2019, 2095)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_015_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_015_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = c("B1GQ", "P3_S13", "P31_S14_S15", "P52", "B11"), GEO = c("EA19", "EU27_2020"))	date_filter=2019-2:2020-01	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA"), UNIT = "CON_PPCH_PRE", na_item = c("B1GQ", "P3_S13", "P31_S14_S15", "P51G", "P52", "B11"), GEO = c("EA19", "EU27_2020"))	date_filter=2019-2:2020-01	label=TRUE	select_freq=Q
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	date_filter=c(2019, 2030, 2040, 2050, 2060, 2070, 2080, 2090, 2100)	verbose=TRUE

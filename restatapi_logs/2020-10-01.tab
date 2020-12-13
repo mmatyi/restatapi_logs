@@ -1,0 +1,13 @@
+0.8.10	id=ei_bsco_m	select_freq=M
+0.8.10	id=ei_bsco_m	filters=c("EA19", "DE", "FR", "ES", "IT", "UK", "person")	select_freq=M
+0.8.10	id=ei_bsco_m	filters=c("EA19", "DE", "FR", "ES", "IT", "UK", "person")	select_freq=M
+0.8.10	id=ei_bsco_m	filters=c("EA19", "DE", "FR", "ES", "IT", "UK", "person")	select_freq=M
+0.8.10	id=ei_bsco_m	filters=c("EA19", "DE", "FR", "ES", "IT", "UK", "person")	select_freq=M
+0.8.10	id=ei_bsin_m_r2	filters=c("EA19", "DE", "FR", "ES", "IT", "UK", "person")	select_freq=M
+0.8.10	id=prc_hicp_midx	filters=c("DE", "Index, 2015=100", "All-items HICP")	select_freq=M
+0.8.10	id=sts_esms.sdmx.xml
+0.8.10	id=sts_inpr_m	filters=c("Volume index of production", "C21", "DE", "FR")	select_freq=M
+0.8.10	id=sts_esms.sdmx.xml
+0.8.10	id=sts_esms
+0.8.10	id=sts_inpr_m	filters=c("Volume index of production", "C21", "DE", "FR", "I15")	select_freq=M
+0.8.10	id=sts_inpp_m	filters=c("PRON", "C21", "I15", "DE", "FR")	select_freq=M

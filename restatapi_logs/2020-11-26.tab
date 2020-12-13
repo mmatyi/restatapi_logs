@@ -1,0 +1,53 @@
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.6	id=jvs_code	filters=list(indic_em = "JOBVAC", nace_r2 = "A-S", sizeclas = "TOTAL", s_adj = "NSA")
+0.8.10	id=hlth_cd_asdr2
+0.8.10	id=hlth_cd_asdr2
+0.8.10	id=hlth_cd_asdr
+0.8.10	id=hlth_cd_asdr
+0.8.10	id=hlth_cd_asdr
+0.8.10	id=hlth_cd_asdr	stringsAsFactors=F	verbose=T
+0.8.10	id=hlth_cd_asdr2
+0.8.10	id=hlth_cd_asdr	stringsAsFactors=F	verbose=T
+0.8.10	id=hlth_cd_asdr2
+0.8.10	id=hlth_cd_asdr	stringsAsFactors=F	verbose=T
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=DEMO_R_D3DENS
+0.8.10	id=DEMO_R_D3DENS
+0.9.5	id=hlth_cd_asdr2
+0.9.5	id=hlth_cd_asdr2
+0.9.5	id=tus_00age
+0.9.5	id=tus_00age	filters=c("TIME_SP", "Hungary", "T")
+0.9.5	id=tus_00age	filters=c("TIME_SP", "Hungary", "T")	verbose=TRUE
+0.8.10	id=tus_00age	filters=c("TIME_SP", "Hungary", "T")	verbose=T
+0.9.3	id=tus_00age	filters=c("TIME_SP", "HU")	date_filter=2010	update_cache=TRUE	force_local_filter=TRUE	verbose=TRUE
+0.9.3	id=tus_00age	filters=c("TIME_SP", "TOTAL", "^T$")	date_filter=2010	verbose=TRUE
+0.9.3	=NA	=function (definition = sys.function(sys.parent()), call = sys.call(sys.parent()), expand.dots = TRUE, envir = parent.frame(2))  {     if (!missing(definition)

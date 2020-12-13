@@ -1,0 +1,44 @@
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE

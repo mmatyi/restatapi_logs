@@ -1,0 +1,41 @@
+0.8.10	id=ei_bsin_m_r2	filters=code_list
+0.8.10	id=ei_bsin_m_r2	filters=code_list
+0.8.10	id=ei_bsin_m_r2	filters=code_list
+0.8.10	id=ei_bsin_m_r2	filters=code_list
+0.8.10	id=sts_inpr_m	filters=code_list
+0.8.10	id=sts_inpr_m	filters=code_list
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "NSA", "SA")
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "NSA", "SA")
+0.8.10	id=STS_INPR_M	filters=c("DE", "C21", "Volume index of production", "Index, 2015=100", "NSA", "CA", "NCA")
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "NSA", "SA")
+0.8.10	id=STS_INPR_M	filters=c("DE", "C21", "Volume index of production", "Index, 2015=100", "NSA", "CA", "NCA")
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=STS_INPR_M	filters=c("FR", "C211", "Volume index of production", "Index, 2015=100", "NSA", "CA", "NCA")
+0.8.10	id=STS_INPR_M	filters=c("FR", "C211", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=STS_INPR_M	filters=c("DE", "C21", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=STS_INPR_M	filters=c("DE", "C21", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=STS_INPR_M	filters=c("FR", "C211", "C211", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=STS_INPR_M	filters=c("FR", "C21", "C211", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=STS_INPP_M	filters=c("FR", "C21", "Total output price index - in national currency", "Index, 2015=100")
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "NCA", "SA")
+0.8.10	id=EI_BSCO_M	filters=c("FR", "BS-FS-LY", "Balance", "NSA", "SA")
+0.8.10	id=demo_pjanind	filters=list(indic_de = "MEDAGEPOP")	date_filter=c(2010, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=proj_18np	date_filter=c(2019, 2100)	verbose=TRUE
+0.8.10	id=demo_pjangroup	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	verbose=TRUE
+0.8.10	id=TEIBS020	filters=c("EA19", "BS-SCI-BAL", "NSA")
+0.8.10	id=TEIBS020	filters=c("EA19", "BS-SCI-BAL", "SA")
+0.8.10	id=TEIBS020	filters=c("EA19", "M", "BS-SCI-BAL", "SA")
+0.8.10	id=TEIBS020
+0.8.10	id=TEIBS020	filters=c("BS-SCI-BAL")
+0.8.10	id=TEIBS020	filters=c("BS-SCI-BAL")
+0.8.10	id=TEIBS020	filters=BS-SCI-BAL
+0.8.10	id=TEIBS020	filters=c("EA19", "M", "SA")
+0.8.10	id=TEIBS020	filters=c("EA19", "SA")
+0.8.10	id=TEIBS020	filters=c("SA")
+0.8.10	id=TEIBS020
+0.8.10	id=TEIBS020	filters=c("EA19", "BS-SCI-BAL", "SA")
+0.8.10	id=TEIBS020
+0.8.10	id=TEIBS020

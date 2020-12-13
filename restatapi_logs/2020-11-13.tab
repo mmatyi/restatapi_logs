@@ -1,0 +1,120 @@
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=nama_10_gdp	time_format=num
+0.8.10	id=nama_10_gdp	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi03	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi06	label=TRUE
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.9.1	id=hsw_mi06	label=TRUE
+0.9.1	id=hsw_mi06	label=TRUE
+0.9.1	id=hsw_mi06	label=TRUE
+0.9.1	id=hsw_mi06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses18_04
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30

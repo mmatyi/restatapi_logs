@@ -1,0 +1,25 @@
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=irt_lt_mcby_m	date_filter=2011-01:2020-12
+0.8.10	id=gov_10dd_edpt1	date_filter=2011-01:2020-12
+0.8.10	id=sdg_17_40	date_filter=2011-01:2020-12
+0.8.10	id=spr_exp_pens	date_filter=2011-01:2020-12
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL", freq = "A")	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.6	id=hlth_cd_asdr2

@@ -1,0 +1,114 @@
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi03	label=TRUE
+0.9.1	id=hsw_mi03	label=TRUE
+0.9.1	id=hsw_mi03	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi03	label=TRUE
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.8.10	id=nrg_bal_s
+0.8.10	id=nrg_bal_s	filters=PT$
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", code = "FC_IND_E")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$")	code=FC_IND_E
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", code = "FC_IND_E")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", code = "FC_IND_E", siec = "unique")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", code = "FC_IND_E", siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = "FC_IND_E", siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E"), siec = "TOTAL")
+0.8.10	id=demo_pjanind	filters=c(geo = countries, indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = agegroup)	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=20015<
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=2015<
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=2015>
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=2014>
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH")	date_filter=2014>
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", tax = c("I_TAX", "X_TAX"))	date_filter=2014>
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", tax = c("I_TAX", "X_TAX"))	date_filter=2014>
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", tax = c("I_TAX", "X_TAX"))	date_filter=2014>
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"))	date_filter=2014>
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"), consom = 4161150)	date_filter=2014>
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=nrg_pc_204	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"), consom = 4161150)	date_filter=2014>
+0.8.10	id=nrg_pc_204	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"), consom = 4161903)	date_filter=2014>
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=nama_10_gdp
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=2014>
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"), consom = 4161150)	date_filter=2014>
+0.8.10	id=nrg_pc_204	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"), consom = 4161903)	date_filter=2014>
+0.8.10	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=2014>
+0.8.10	id=nrg_pc_204_h	filters=list(geo = "PT$", unit = "KWH", currency = "EUR", tax = c("I_TAX", "X_TAX"), consom = 4161150)	date_filter=2014>
+0.8.10	id=nrg_bal_s	filters=list(geo = "PT$", unit = "TJ", nrg_bal = c("FC_IND_E", "FC_TRA_E", "FC_OTH_E", "FC_OTH_HH_E"), siec = "TOTAL")	date_filter=2014>
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.9.2	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.9.2	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=TRUE
+0.9.2	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01", "2016-04")	label=TRUE
+0.9.2	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=TRUE
+0.9.2	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=FALSE
+0.9.2	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=FALSE	verbose=TRUE
+0.9.2	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.9.2	id=avia_par_ee	filters=BE$	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.9.2	id=avia_par_ee	filters=BE$	exact_match=FALSE	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.9.2	id=avia_par_ee	filters=BE$	exact_match=FALSE	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=FALSE	select_freq=Q	verbose=TRUE	name=FALSE
+0.9.2	id=avia_par_me	filters=HU	exact_match=FALSE	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=FALSE	select_freq=Q	verbose=TRUE	name=FALSE
+0.9.3	id=NAMA_10_GDP
+0.9.3	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.9.3	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.9.3	id=avia_gonc	select_freq=A	cache=FALSE
+0.9.3	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.9.3	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.9.3	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.9.3	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.9.3	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.9.3	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.9.3	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.9.3	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.9.3	id=NAMA_10_GDP
+0.9.3	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.9.3	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.9.3	id=avia_gonc	select_freq=A	cache=FALSE
+0.9.3	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.9.3	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.9.3	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.9.3	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.9.3	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.9.3	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.9.3	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.9.3	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE

@@ -1,0 +1,142 @@
+0.8.10	id=EI_BSIN_M_R2_Balance_BS-ISFP_ES_SA
+0.8.10	id=EI_BSIN_M_R2_Balance_BS-ISFP_ES_SA
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=EI_BSIN_M_R2_FR_BS-ISPE_Bal_SA
+0.8.10	id=EI_BSIN_M_R2_FR_BS-ISPE_Bal_SA	check_toc=TRUE
+0.8.10	id=ei_bsin_m_r2_fr_bs-ispe_bal_sa	check_toc=TRUE
+0.8.10	id=NAMA_10_GDP
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=EI_BSIN_M_R2_BS-ISPE_Bal_DE_M_SA
+0.8.10	id=EI_BSIN_M_R2_FR_BS-ISPE_Bal_SA
+0.8.10	id=AVIA_PAOC_DE_M_PAS_PAS-CRD_TOT_TOTAL
+0.8.10	id=STS_INPR_M_C21_DE_Index--2015-100_SCA_Volume-index-of-production
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("IT")	date_filter=c("2017", "2018")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	filters=c("IT", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=EI_BSIN_M_R2
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "SA")	exact_match=ger
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = c("CRE", "DEB"), date_filter = "2016", select_freq = "A", label = TRUE, name = FALSE)
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=TRUE	select_freq=A	name=FALSE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=TRUE	select_freq=A	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = "USA", fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA", "BRA"), geo = c("FRA", "DEU"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE")
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-ISPE")
+0.8.10	id=EI_BSIN_M_R2	filters=c("BS-ISPE", "SA")
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "SA")	exact_match=ger
+0.8.10	id=nama_10_a10_e
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA", "BRA"), geo = c("FRA", "DEU"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA"), geo = c("FRA", "DEU"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA", "BMU"), geo = c("FRA", "DEU"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA", "BMU"), geo = c("FRA", "DEU"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	local_filter=FALSE	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA", "BMU"), geo = c("FRA", "DEU"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	force_local_filter=T	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA"), geo = c("FRA"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	force_local_filter=T	name=TRUE
+0.8.10	id=bop_fdi6_inc	filters=list(entity = "TOTAL", currency = "MIO_EUR", partner = c("USA"), geo = c("FRA"), fdi_item = c("DO__D4Q__D__FL", "DI__D4Q__D__FL"), stk_flow = c("CRE", "DEB"))	date_filter=2016	label=F	select_freq=A	cache_dir=tbl	force_local_filter=T
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=ilc_peps11
+0.8.10	id=ei_lmhr_m
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=Fresh vegetables and strawberries by area
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115
+0.8.10	id=TAG00115

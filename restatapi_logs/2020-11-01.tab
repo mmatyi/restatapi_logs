@@ -1,0 +1,75 @@
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))	verbose=TRUE
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("YOUNGDEP1", "OLDDEP1"))	verbose=TRUE
+0.8.10	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), UNIT = "CLV_PCH_PRE", na_item = "B1GQ", GEO = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.10	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), UNIT = "PCH_PRE_PER", na_item = "EMP_DC", GEO = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.9.2	id=demo_faeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.2	id=demo_minfedu	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.9.2	id=demo_minfedu	filters=NULL	exact_match=TRUE	date_filter=NULL	label=TRUE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.2	id=demo_minfedu	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)	verbose=TRUE
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = "PC_Y65_MAX")	date_filter=c(2009, 2019)
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = c("PC_Y65_MAX", "MEDAGEPOP"))	date_filter=c(2009, 2019)

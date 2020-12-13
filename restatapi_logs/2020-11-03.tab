@@ -1,0 +1,21 @@
+0.9.1	id=hsw_mi06	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.8.10	id=ilc_di03
+0.8.10	id=ilc_di03
+0.8.10	id=ilc_di03
+0.8.10	id=ilc_di03
+0.8.10	id=avia_par_me	select_freq=A	cache=FALSE
+0.8.10	id=avia_par_me
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.8.10	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.8.10	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=NAMA_10_GDP	verbose=TRUE
+0.8.10	id=ilc_di03
+0.8.10	id=ilc_di03
+0.8.10	id=ilc_di03
+0.8.10	id=ILC_DI03$DV_405
+0.8.10	id=ILC_DI03$DV_405
+0.8.10	id=ILC_DI03

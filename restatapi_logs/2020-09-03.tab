@@ -1,0 +1,107 @@
+0.8.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = bop, currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = "CRE")	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = bop, currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = "DEB")	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = other_ctries, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = main_partners, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = other_ctries_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = main_partners_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=bop_its6_det	filters=list(bop_item = "SC1", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = "SC1", currency = "MIO_EUR", partner = other_ctries_6_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC1", currency = "MIO_EUR", partner = main_partners_6_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC1", currency = "MIO_EUR", partner = other_ctries_6_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC1", currency = "MIO_EUR", partner = main_partners_6_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=bop_its6_det	filters=list(bop_item = "SC2", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = "SC2", currency = "MIO_EUR", partner = other_ctries_8_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC2", currency = "MIO_EUR", partner = main_partners8_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC2", currency = "MIO_EUR", partner = other_ctries_8_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC2", currency = "MIO_EUR", partner = main_partners8_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=bop_its6_det	filters=list(bop_item = "SC3", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = "SC3", currency = "MIO_EUR", partner = other_ctries_10_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC3", currency = "MIO_EUR", partner = main_partners_10_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC3", currency = "MIO_EUR", partner = other_ctries10_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC3", currency = "MIO_EUR", partner = main_partners10_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=bop_its6_det	filters=list(bop_item = "SC4", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017
+0.8.6	id=id	filters=list(bop_item = "SC4", currency = "MIO_EUR", partner = other_ctries_12_1, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC4", currency = "MIO_EUR", partner = main_partners_12, geo = "EU28", stk_flow = "CRE")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC4", currency = "MIO_EUR", partner = other_ctries_12_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=id	filters=list(bop_item = "SC4", currency = "MIO_EUR", partner = main_partners_12_2, geo = "EU28", stk_flow = "DEB")	date_filter=2017	stringsAsFactors=FALSE
+0.8.6	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.8.6	id=isoc_ci_it_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL", indic_is = "H_BROAD")	date_filter=2008:2018
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE

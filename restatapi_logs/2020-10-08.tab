@@ -1,0 +1,44 @@
+0.8.10	id=TEIBS020
+0.8.10	id=TEIBS020	filters=c("SA", "EA19", "BS-SCI-BAL")
+0.8.10	id=TEIBS020	filters=c("SA", "EA19", "BS-SCI-BAL")
+0.8.10	id=EI_BSCO_M	filters=c("FR", "BS-FS-LY", "Balance", "NSA", "SA")
+0.8.10	id=TEIBS020
+0.8.10	id=TEIBS020
+0.8.10	id=EI_BSSI_M_R2	filters=c("EA19", "NSA", "SA", "BS-SCI-BAL", "M")
+0.8.10	id=AVIA_PAOC	filters=c("DE", "M", "PAS_CRD", "TOTAL", "TOT", "PAS")
+0.8.10	id=AVIA_PAOC	filters=c("IT", "M", "PAS_CRD", "TOTAL", "TOT", "PAS")
+0.8.10	id=UNE_RT_M	filters=c("IT", "TOTAL", "NSA", "SA", "TC", "T", "M", "PC_ACT")
+0.8.10	id=UNE_RT_M	filters=c("IT", "TOTAL", "NSA", "SA", "TC", "T", "M", "PC_ACT")
+0.8.10	id=AVIA_PAOC	filters=c("IT", "M", "PAS_CRD", "TOTAL", "TOT", "PAS")
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=EI_BSIN_M_R2	filters=c("DE", "BS-IPT", "Balance", "NCA", "SA")
+0.8.10	id=STS_INPR_M	filters=c("DE", "C21", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=STS_INPR_M	filters=c("DE", "C21", "Volume index of production", "Index, 2015=100", "NSA", "CA", "SCA")
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters

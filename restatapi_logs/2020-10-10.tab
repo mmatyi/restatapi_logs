@@ -1,0 +1,16 @@
+0.8.10	id=demo_pjangroup	verbose=TRUE
+0.8.10	id=demo_pjangroup	verbose=TRUE
+0.8.10	id=demo_pjangroup	verbose=TRUE
+0.8.10	id=demo_pjangroup	verbose=TRUE
+0.8.10	id=demo_pjangroup	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo == "EU27_2020")	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020")	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass)	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2007", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)	verbose=TRUE

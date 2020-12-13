@@ -1,0 +1,174 @@
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU28"))	date_filter=2020Q1:2020Q1	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU28"))	date_filter=2020:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU28"))	date_filter=2019:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU28"))	date_filter=2019:2021	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU28", "EA19"))	date_filter=2019:2021	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU27", "EA19"))	date_filter=2020:2020	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU27", "EA19"))	date_filter=2020:2017-04	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU27", "EA19"))	date_filter=2020:2020-04	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU27", "EA19"))	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = c("EU27_2020", "EA19"))	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CON_PPCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=tps00010	filters=DE$
+0.8.6	id=tps00010
+0.8.6	id=tps00010	filters=BE	exact_match=FALSE	date_filter=2006-02:2008-06-05	label=TRUE	stringsAsFactors=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=agr_r_milkpr	filters=BE	exact_match=FALSE	date_filter=2006-02:2008-06-05	label=TRUE	stringsAsFactors=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=TRUE	ignore.case=FALSE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = "SCA", unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = "SCA", unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = "SCA", unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = "SCA", unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=FALSE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=FALSE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=FALS
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q	name=FALSE	ignore.case=TRUE
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_name)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_name, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_gdp	filters=list(s_adj = c("SCA", "SA"), unit = "CLV_PCH_PRE", na_item = "B1GQ", geo = geo_code)	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=namq_10_a10_e	filters=list(s_adj = c("SCA", "SA"), unit = "PCH_PRE_PER", na_item = "EMP_DC", geo = geo_code, nace_r2 = "TOTAL")	date_filter=2020:2020-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE

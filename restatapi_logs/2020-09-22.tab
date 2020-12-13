@@ -1,0 +1,19 @@
+0.8.10	id=demo_r_mwk_ts	select_freq=W
+0.8.10	id=demo_r_mwk_ts
+0.8.10	id=dem_r_rmwk_ts
+0.8.10	id=dem_r_rmwk_ts	check_toc=TRUE
+0.8.10	id=demo_r_mwk_20	check_toc=TRUE
+0.8.10	id=demo_r_mwk_ts
+0.8.10	id=demo_r_mwk_ts
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.10	id=demo_r_mwk_ts	update_cache=TRUE	verbose=TRUE
+0.8.10	id=demo_r_mwk_ts
+0.8.10	id=demo_r_mwk_ts
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=id	verbose=private$.verbose
+0.8.10	id=demo_r_mwk_ts	select_freq=W

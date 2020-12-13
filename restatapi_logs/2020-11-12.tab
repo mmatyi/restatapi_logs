@@ -1,0 +1,271 @@
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=ilc_di01	filters=list(quantile = c("Q1", "Q3"), indic_il = "TC", currency = "EUR", geo = "DE")	time_format=date
+0.8.10	id=ilc_di01	filters=list(quantile = c("Q1", "Q3"), indic_il = "TC", currency = "EUR", geo = "DE")
+0.8.10	id=lfsa_egana2d
+0.8.10	id=ilc_di01	filters=list(quantile = c("Q1", "Q3"), indic_il = "TC", currency = "EUR", geo = "DE")
+0.8.10	id=ilc_di01	filters=list(quantile = c("Q1", "Q3"), indic_il = "TC", currency = "EUR", geo = "DE")
+0.8.10	id=ilc_di01	filters=list(quantile = c("Q1", "Q3"), indic_il = "TC", currency = "EUR", geo = "DE")
+0.9.5	id=edat_lfse_12	label=TRUE
+0.8.10	id=earn_ses18_04
+0.9.5	id=edat_lfse_12	label=TRUE
+0.8.10	id=nama_10_gdp
+0.9.1	id=hsw_mi01	label=TRUE
+0.8.10	id=nama_10_gdp
+0.8.10	id=earn_ses14_04
+0.8.10	id=nama_10_gdp
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.9.5	id=edat_lfse_12	label=TRUE
+0.8.10	id=earn_ses10_04
+0.8.10	id=nama_10_gdp
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.9.1	id=hsw_mi01	label=TRUE
+0.9.1	id=hsw_mi02	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.8.10	id=earn_ses06_04
+0.9.1	id=hsw_mi02	label=TRUE
+0.8.10	id=earn_ses06_04
+0.9.1	id=hsw_n2_06	label=TRUE
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))
+0.8.10	id=earn_ses14_30
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("OLDDEP1", "DEPRATIO1"))
+0.8.10	id=earn_ses14_30
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = c("PC_Y0_14", "PC_Y15_24", "PC_Y25_49", "PC_Y50_64", "PC_Y65_MAX", "MEDAGEPOP", "YOUNGDEP1", "OLDDEP1", "DEPRATIO1", "PC_Y80_MAX"))	date_filter=c(2009, 2019)
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=demo_pjangroup	filters=list(geo = "EU27_2020", age = ageclass, sex = c("M", "F"))	date_filter=c(2004, 2019)
+0.8.10	id=proj_19np	filters=list(geo = "EU27_2020", sex = c("M", "F"), projection = "BSL")
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("PC_Y0_14", "PC_Y15_64", "PC_Y65_MAX", "PC_Y80_MAX"))
+0.8.10	id=proj_19ndbi	filters=list(geo = "EU27_2020", projection = "BSL", indic_de = c("OLDDEP1", "DEPRATIO1"))
+0.8.10	id=demo_pjanind	filters=list(geo = countries, indic_de = c("PC_Y0_14", "PC_Y15_24", "PC_Y25_49", "PC_Y50_64", "PC_Y65_MAX", "MEDAGEPOP", "YOUNGDEP1", "OLDDEP1", "DEPRATIO1", "PC_Y80_MAX"))	date_filter=c(2009, 2019)
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=lfsa_egan22d
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjanind3
+0.8.10	id=demo_r_gind3
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00026	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=demo_mlexpec	filters=list(geo = "PT", geo = "EU28", age = "Y_LT1")	label=FALSE
+0.8.10	id=demo_r_pjangroup	filters=list(age = "Y65-69", age = "Y70-74", age = "Y_GE75", age = "TOTAL", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00200	filters=list(geo = "PT", geo = "EU27_2020", projection = "BSL")	label=FALSE
+0.8.10	id=t2020_10	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsi_pt_a	filters=list(geo = "PT", geo = "EU28", age = "Y20-64", unit = "PC_EMP", worktime = "PT")	label=FALSE
+0.8.10	id=lfsi_dwl_a	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=sdg_05_20	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30

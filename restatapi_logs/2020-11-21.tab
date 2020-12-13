@@ -1,0 +1,6 @@
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.10	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017

@@ -1,0 +1,119 @@
+0.8.10	id=nrg_cb_oilm	label=TRUE	verbose=TRUE
+0.8.10	id=naio_10_cp1700
+0.8.10	id=naio_10_cp1750
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=earn_ses18_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses14_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses10_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses06_04
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses18_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses14_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses10_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses06_27
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.9.5	id=ilc_peps11
+0.9.5	id=ilc_peps11
+0.8.10	id=earn_ses18_30
+0.8.10	id=earn_ses18_30
+0.9.5	id=ilc_peps11
+0.8.10	id=earn_ses14_30
+0.9.5	id=ei_lmhr_m
+0.9.5	id=ilc_peps11
+0.9.5	id=ei_lmhr_m
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses14_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=demo_gind
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses10_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=earn_ses06_30
+0.8.10	id=namq_10_gdp
+0.8.10	id=namq_10_gdp
+0.8.10	id=namq_10_gdp
+0.8.10	id=namq_10_gdp	date_filter=2000-01-01<
+0.8.10	id=namq_10_gdp	date_filter=2000-01-01<=
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.10	id=namq_10_gdp	date_filter=1999--01<=
+0.8.10	id=namq_10_gdp	date_filter=1999-10-01<
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[2]	keep_flags=T
+0.8.10	id=toc_search_txt$code[2]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("SP")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("ES")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[2]	filters=c("ES")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[2]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("EST")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("EST")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[2]	filters=c("ES")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural", "LV")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	filters=c("EST")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.6	id=ert_bil_eur_d	filters=list(currency = c(fx_code_eurostat))	select_freq=D	stringsAsFactors=FALSE
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=nama_10_gdp	time_format=num
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	label=TRUE
+0.8.10	id=nama_10_gdp	label=TRUE
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2010:2012
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019

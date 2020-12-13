@@ -1,0 +1,5 @@
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=NAMA_10_GDP
+0.8.10	id=toc_search_txt$code[1]	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=T
+0.8.10	id=toc_search_txt$code[1]	filters=c("RO", "Rural")	exact_match=F	date_filter=c(2013:2015)	label=T	keep_flags=F

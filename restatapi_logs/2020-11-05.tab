@@ -1,0 +1,90 @@
+0.9.1	id=LFST_R_LFE2EN2	label=TRUE
+0.9.1	id=LFST_R_LFE2EN2	label=TRUE
+0.9.1	id=LFST_R_LFE2EN2	label=TRUE
+0.9.1	id=LFST_R_LFE2EN2	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.9.1	id=hsw_mi04	label=TRUE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.9.1	id=hsw_mi06	label=TRUE
+0.8.10	id=ilc_pnp13	filters=c("PT", "EU28")	label=TRUE
+0.8.10	id=ilc_pnp13	filters=c("PT", "EU28")	label=TRUE
+0.8.10	id=ilc_pnp13	filters=c("PT", "EU28")	label=TRUE
+0.8.10	id=ilc_pnp13	filters=c("PT", "EU28")	label=TRUE
+0.8.10	id=ilc_pnp13	filters=c("PT", "EU28")	label=TRUE
+0.9.1	id=hsw_n2_03	label=TRUE
+0.9.1	id=hsw_n2_03	label=TRUE
+0.9.1	id=hsw_n2_03	label=TRUE
+0.9.1	id=hsw_n2_03	label=TRUE
+0.9.1	id=hsw_n2_04	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=hsw_n2_06	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.8.10	id=ilc_pnp13	filters=c("PT", "EU28")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = PT, geo = "EU28")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=ilc_pnp13	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=ilc_di03	filters=list(geo = "PT", geo = "EU", unit = "EUR", indic_il = "MEI_E", age = "Y_GE65", age = "Y_GE75", age = "TOTAL")
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	labels=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=tps00199	cache=TRUE	cache_dir=cache
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "TOTAL", spdepb = "SCPANTPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.8.10	id=spr_pns_ben	filters=list(spdepm = "MEANS", spdepb = "SCPOLDPEN", geo = "AT", geo = "EE", geo = "IT", geo = "PT", geo = "BE", geo = "FI", geo = "LV", geo = "RO", geo = "BG", geo = "FR", geo = "LT", geo = "SK", geo = "HR", geo = "DE", geo = "LU", geo = "SI", geo = "CY", geo = "EL", geo = "MT", geo = "ES", geo = "CZ", geo = "HU", geo = "SE", geo = "IE", geo = "PL", geo = "UK")	label=FALSE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=lfsi_emp_a	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_ph3_02	label=TRUE
+0.9.1	id=hsw_mi05	label=TRUE
+0.9.1	id=hsw_mi05	label=TRUE
+0.8.10	id=lfsq_egan2
+0.8.10	id=lfsq_egan2
+0.8.10	id=lfsa_egan2
+0.8.10	id=lfsa_egan2
+0.8.10	id=lfsa_egan2
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.10	id=lfsa_egan2
+0.8.10	id=lfsa_egan2
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egan22d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=lfsa_egana2d
+0.8.10	id=lfsa_egana2d

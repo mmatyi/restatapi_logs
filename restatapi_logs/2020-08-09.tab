@@ -1,0 +1,37 @@
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
+0.8.6	id=hlth_cd_asdr2	label=TRUE	verbose=TRUE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE
