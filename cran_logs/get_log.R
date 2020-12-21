@@ -1,4 +1,4 @@
-if (!("data.table" %in% rownames(installed.packages()))){install.packages(data.table)}
+if (!("data.table" %in% rownames(installed.packages()))){install.packages("data.table")}
 library(data.table)
 old_rlogs<-readRDS("./cran_logs/rlogs.RDS")
 
