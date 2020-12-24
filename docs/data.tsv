@@ -1,30 +1,30 @@
 country	0	corruption	democracy_2008	democracy_2011	gdp	gini	life_expectancy
 Afghanistan	0	8			1000		49.72
-Albania	0	33	56	56.5	7800	34.5	77.59
-Algeria	0	34			7300	35.3	74.73
+Albania	0	33	56	56.5	7800	34.5.3	77.59
+Algeria	0	34			7300	35.3.3	74.73
 American Samoa					8000		74.44
 Andorra	0				37200		82.5
 Angola	0	22			5900		54.59
 Anguilla					12200		80.98
 Antarctica	0						
 Antigua and Barbuda	0				17100		75.69
-Argentina	0	35	63.3	64	17700	45.8	77.14
-Armenia	0	34	43.9	44.2	5400	30.9	73.49
+Argentina	0	35	63.3	64	17700	45.8.3	77.14
+Armenia	0	34	43.9	44.2	5400	30.9.3	73.49
 Aruba					21800		75.93
-Australia	0	85	78.9	79.6	40800	30.5	81.9
+Australia	0	85	78.9	79.6	40800	30.5.3	81.9
 Austria	0	69	79.7	80.6	41600	26	79.91
-Azerbaijan	0	27			10200	33.7	71.32
+Azerbaijan	0	27			10200	33.7.3	71.32
 Bahamas	0	71			30400		71.44
 Bahrain	0	51	43.2	40.6	27700		78.29
-Bangladesh	0	26	42.6	48.8	1900	33.2	70.06
+Bangladesh	0	26	42.6	48.8	1900	33.2.3	70.06
 Barbados	0	76			25000		74.52
-Belarus	0	31			15000	27.2	71.48
+Belarus	0	31			15000	27.2.3	71.48
 Belgium	0	75	78	80	37800	28	79.65
 Belize	0				8200		68.28
-Benin	0	36	45.5	47.6	1600	36.5	60.26
+Benin	0	36	45.5	47.6	1600	36.5.3	60.26
 Bermuda	0				69900		80.82
 Bhutan	0	63			5800		67.88
-Bolivia	0	34	53.4	54.5	4800	58.2	67.9
+Bolivia	0	34	53.4	54.5	4800	58.2.3	67.9
 Bosnia and Herzegovina	0	42	48.3	48.5	8100	36.2	78.96
 Botswana	0	65	54.7	54	16100	63	55.74
 Brazil	0	43	60.4	62.3	11800	51.9	72.79
