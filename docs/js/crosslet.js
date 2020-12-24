@@ -710,7 +710,7 @@ crosslet.changeSelect = function(select, val) {
 crosslet.defaultConfig = {
   map: {
     leaflet: {
-      url: "http://{s}.tile.cloudmade.com/{key}/{styleId}/256/{z}/{x}/{y}.png",
+     // url: "http://{s}.tile.cloudmade.com/{key}/{styleId}/256/{z}/{x}/{y}.png",
       key: "--your key--",
       styleId: 64657,
       attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://www.openstreetmap.org/copyright">ODbL</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
