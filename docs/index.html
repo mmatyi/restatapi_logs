@@ -12,7 +12,7 @@
 
     <link href="css/bootstrap-responsive.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
     <link rel="stylesheet" href="css/crosslet.css" />
 
    
@@ -25,80 +25,13 @@
       <div id="map">
       </div>
     </div></div>
-<div class="row">
-<div class="span6">
-    <h1>Crosslet</h1>
-    
-<p><strong>Crosslet</strong> is a free small (22k without dependencies) JavaScript widget for interactive visualisation and analysis of geostatistical datasets. You can also use it for visualizing and comparing multivariate datasets.</p>
-
-<p>It is a combination of three very powerful JavaScript libraries:</p>
-
-<ul>
-<li>
-<a href="http://leafletjs.com/">Leaflet</a>, an elegant and beautiful mapping solution, and</li>
-<li>
-<a href="http://square.github.com/crossfilter/">Crossfilter</a>, a library for exploring large multivariate datasets in the browser.</li>
-<li>
-<a href="http://d3js.org/">D3</a>, a data driven way of manipulating objects.</li>
-</ul>
-<p>Crosslet also supports <a href="https://github.com/mbostock/topojson/">TopoJSON</a>, a GeoJSON extension that allows to present geometry in a highly compact way.</p>
-<p>Crosslet is written in <a href="http://coffeescript.org/">CoffeeScript</a> and uses <a href="http://lesscss.org/">less</a> for styling.</p>
   
-<a href="https://github.com/sztanko/crosslet/blob/master/dist/crosslet-1.1.zip?raw=true" class="btn btn-primary btn-large" >Download crosslet-1.1.zip (44k js and css)</a>  
-  
-  </div>
-  <div class="span6">
-      
-    
-<h2>Documentation &amp; Tutorials</h2>
-
-<ul>
-<li><a href="https://github.com/sztanko/crosslet/wiki">Introduction, download and installation instructions</a></li>
-<li><a href="https://github.com/sztanko/crosslet/wiki/Developer's-Reference">Developer's Reference</a></li>
-<li>Tutorials:
-<ul>
-  <li>TODO</li>
- /ul>
-</li>
-</ul>
-<h3>Examples</h3>
-<ul>
-  <li><a href="examples/us/">US election results per county</a></li>
-  <li><a href="examples/nhs/">GP patients satisfaction survey (England)</a> - 9000 areas, might be very slow in non webkit browsers.</li>
-  <li><a href="examples/census/">UK census 2011: religions in England and Wales</a></li>
-</ul>
-
-  
-<h3>Github</h3>
-<ul>
-  <li><a href="https://github.com/sztanko/crosslet/">Github page</a></li>
-  <li><a href="https://github.com/sztanko/crosslet/wiki">Wiki</a></li>
-<li><a href="https://github.com/sztanko/crosslet/tree/gh-pages">Source of this website and examples</a></li>
-</ul>
-
-  </div>
-</div>
-  
-    <div class="row">
-<div class="span6"><h2>Useful links</h2>
-<ul>
-  <li><a href="http://visual.ly/using-color-maps">Using Color in Maps</a>, by Visual.ly</li>
-  <li><a href="http://bost.ocks.org/mike/map/">Let's make a map</a>, from Mike Bostock</li>
-  <li><a href="http://bost.ocks.org/mike/leaflet/">D3 + Leaflet</a>, the basic concept behind Crosslet</li>
-  <li><a href="http://www.guardian.co.uk/science/blog/2012/jan/06/correlation-causation">Correlation is not causation</a>, Nathan Greens' article on the fact that <a href="http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation">correlation does not imply causation</a>.</li>
-</ul></div>
-      <div class="span6">
-        <h2>Disclaimer</h2>
-        <p>Crosslet uses some latest web technologies including SVG, therefore it is not compatible with older browsers and browser which do not support SVG. Complex maps with more then a thousand items might cause Crosslet perform slower on non webkit based maps.</p>
-      </div>
-    </div>
-    
   </div>
 
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script src="js/bootstrap.js"></script>
-<script src="https://cdn.leafletjs.com/leaflet-0.7.2/leaflet-src.js"></script>
+<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet-src.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.2/underscore-min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.0.1/d3.v3.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/0.9.2/backbone-min.js"></script>
@@ -118,7 +51,7 @@ var config = {
       zoom: 2
     },
     geo: {
-      url: "examples/world/data/world.topo.json",
+      url: "world.topo.json",
       name_field: "NAME",
       id_field: "NAME",
       topo_object: "world"
@@ -133,7 +66,7 @@ var config = {
       title: "Corruption index",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "examples/world/data/data.tsv",
+        dataSet: "data.tsv",
         field: "corruption",
 
       },
@@ -148,7 +81,7 @@ var config = {
       title: "GDP per capita, $",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "examples/world/data/data.tsv",
+        dataSet: "data.tsv",
         field: "gdp",
         exponent:0.4,
         ticks: [2000,10000,25000,50000,80000]
@@ -167,7 +100,7 @@ var config = {
       title: "Gini coefficient",
       data: {
         //colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "examples/world/data/data.tsv",
+        dataSet: "data.tsv",
         field: "gini"
       },
     },
@@ -175,7 +108,7 @@ var config = {
       title: "Life expectancy, years",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "examples/world/data/data.tsv",
+        dataSet: "data.tsv",
         field: "life_expectancy",
         exponent: 2.4
       },
@@ -191,7 +124,7 @@ var config = {
       title: "Democracy Index",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "examples/world/data/data.tsv",
+        dataSet: "data.tsv",
         field: "democracy_2011",
       },
     },  
@@ -200,7 +133,7 @@ var config = {
   defaults: {
     //colorscale: d3.scale.linear().domain([1, 10, 20]).range(["green", "yellow", "red"]).interpolate(d3.cie.interpolateLab),
     opacity: 0.9,
-    order: ["corruption","gdp","le"],
+    order: ["corruption","gdp","le","gini"],
     active: "corruption"
   },
 };
