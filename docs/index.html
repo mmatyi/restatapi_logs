@@ -78,7 +78,8 @@ var config = {
         dataSet: "logs_map.tsv",
         field: "fday",
       //  preformat: function() {return function(d) {return Date(d).getTime()}},
-
+        exponent:0.1,
+        ticks: [2,10,50,200]
       },
       format: {
        // short: function() {return Math.round},
@@ -102,7 +103,7 @@ var config = {
       format: {
         short: function(){return Math.round},
         input: function(){return Math.round},
-        axis: function(){return Math.round},
+        axis: function(){return function(d) {return Math.floor(d/10000)+"-"+(Math.floor(d/100)-Math.floor(d/10000))}}
       // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
       //  axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
       }
