@@ -46,8 +46,8 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/0.9.2/backbone-min.js"></script>
 <script type="text/javascript" src="js/crosslet.js"></script>
 <script type="text/javascript">
-var axisf=function(){ return function(d){return Math.round(d*10)/10+"%";}};
-var yearsf =function(){ return Math.round};
+//var axisf=function(){ return function(d){return Math.round(d*10)/10+"%";}};
+//var yearsf =function(){ return Math.round};
 
 var config = {
   map: {
@@ -77,7 +77,7 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "fday",
-        preformat: function() {function(d) {return Date(d).getTime()}},
+        preformat: function() {function(d) {return d.replace("-","")}},
 
       },
       format: {
