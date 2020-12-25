@@ -99,7 +99,7 @@ var config = {
       format: {
        // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
 
-     //   input: function(){return Math.round},
+        input: function(){return Math.round},
       //  axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
 
       }
@@ -112,6 +112,8 @@ var config = {
         dataSet: "logs_map.tsv",
         field: "versions"
       },
+      format:{
+        input: function(){return Math.round},
     },
     downloads: {
       title: "Total downloads",
@@ -124,7 +126,7 @@ var config = {
       format:{
     //    short: function(dd) { return function(d){return Math.round(d)+" years"}},
     //   long: function(dd) { return function(d){return Math.round(d)+" years"}},
-    //    input: function() {return Math.round},
+         input: function() {return Math.round},
     //    axis: function(dd) { return function(d){return Math.round(d)+"y"}},
 
       }
