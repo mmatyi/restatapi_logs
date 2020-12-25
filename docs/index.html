@@ -46,8 +46,8 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/0.9.2/backbone-min.js"></script>
 <script type="text/javascript" src="js/crosslet.js"></script>
 <script type="text/javascript">
-var axisf=function(){ return function(d){return Math.round(d*10)/10+"%";}};
-var yearsf =function(){ return Math.round};
+//var axisf=function(){ return function(d){return Math.round(d*10)/10+"%";}};
+//var yearsf =function(){ return Math.round};
 
 var config = {
   map: {
@@ -75,13 +75,14 @@ var config = {
       title: "First day",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "fday",
+        preformat: function() {return function(d) {return Date(d).getTime()}},
 
       },
       format: {
        // short: function() {return Math.round},
-       // input: function() {return Math.round},
+       // input: function() {function(d) {return Date(d).getTime()}}, d.replace("-","")
 
       }
       
@@ -90,46 +91,51 @@ var config = {
       title: "Number of days with download",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "days",
-       // exponent:0.4,
-       // ticks: [2000,10000,25000,50000,80000]
-
+        exponent:0.1,
+        ticks: [2,10,50,200]
       },
       format: {
-       // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
-
-     //   input: function(){return Math.round},
+        short: function(){return Math.round},
+        input: function(){return Math.round},
+        axis: function(){return Math.round},
+      // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
       //  axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
-
       }
-    
     },  
     versions: {
       title: "Number of versions",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "versions"
+      },
+      format:{
+        short: function(){return Math.round},
+        input: function(){return Math.round},
+        axis: function(){return Math.round},
       },
     },
     downloads: {
       title: "Total downloads",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "downloads",
-    //    exponent: 2.4
+        exponent: 0.1,
+        ticks: [10,100,1000]
+
       },
       format:{
+        short: function(){return Math.round},
+        input: function(){return Math.round},
+        axis: function(){return Math.round},
     //    short: function(dd) { return function(d){return Math.round(d)+" years"}},
     //   long: function(dd) { return function(d){return Math.round(d)+" years"}},
-    //    input: function() {return Math.round},
     //    axis: function(dd) { return function(d){return Math.round(d)+"y"}},
-
       }
     },
-     
            
   },
   defaults: {
