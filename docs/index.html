@@ -77,7 +77,7 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "fday",
-        preformat: function() {function(d) {return d.replace("-","")}},
+        preformat: function() {return function(d) {return d.replace("-","")}},
 
       },
       format: {
