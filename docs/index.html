@@ -71,21 +71,22 @@ var config = {
     id_field: "country"
   },
   dimensions: {
- /*   fday: {
+    fday: {
       title: "First day",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "fday",
+        preformat: function() {function(d) {return Date(d).getTime()}},
 
       },
       format: {
        // short: function() {return Math.round},
-        input: function() {return Date.getTime},
+        input: function() {function(d) {return Date(d).getTime()}},
 
       }
       
-    },  */
+    },  
     days: {
       title: "Number of days with download",
       data: {
