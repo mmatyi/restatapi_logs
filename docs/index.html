@@ -79,14 +79,14 @@ var config = {
         field: "fday",
       //  preformat: function() {return function(d) {return Date(d).getTime()}},
         exponent:0.1,
-        ticks: [20190401,20200101]
+        ticks: [20190501,20200101]
       },
       format: {
        // short: function() {return Math.round},
        // input: function() {function(d) {return Date(d).getTime()}}, d.replace("-","")
         short: function(){return Math.round},
         input: function(){return Math.round},
-        axis: function(){return Math.round},
+        axis: function(){return function(d) {return Math.floor(d/10000)+"-"+(Math.floor(d/100)-Math.floor(d/10000))}},
 
       }
       
@@ -103,7 +103,7 @@ var config = {
       format: {
         short: function(){return Math.round},
         input: function(){return Math.round},
-        axis: function(){return function(d) {return Math.floor(d/10000)+"-"+(Math.floor(d/100)-Math.floor(d/10000))}}
+        axis: function(){return Math.round},
       // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
       //  axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
       }
