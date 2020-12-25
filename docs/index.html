@@ -75,7 +75,7 @@ var config = {
       title: "First day",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "fday",
 
       },
@@ -90,7 +90,7 @@ var config = {
       title: "Number of days with download",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "days",
        // exponent:0.4,
        // ticks: [2000,10000,25000,50000,80000]
@@ -109,7 +109,7 @@ var config = {
       title: "Number of versions",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "versions"
       },
     },
@@ -117,7 +117,7 @@ var config = {
       title: "Total downloads",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "../cran_logs/logs_map.tsv",
+        dataSet: "logs_map.tsv",
         field: "downloads",
     //    exponent: 2.4
       },
