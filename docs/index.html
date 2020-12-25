@@ -92,7 +92,7 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "days",
-        exponent:0.4,
+        exponent:0.1,
        // ticks: [2000,10000,25000,50000,80000]
 
       },
@@ -123,7 +123,7 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "downloads",
-        exponent: 2.4
+        exponent: 0.1
       },
       format:{
         short: function(){return Math.round},
