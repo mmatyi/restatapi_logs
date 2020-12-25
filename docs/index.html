@@ -84,7 +84,7 @@ var config = {
       format: {
        // short: function() {return Math.round},
        // input: function() {function(d) {return Date(d).getTime()}}, d.replace("-","")
-        long: function()(return function(d){return "first download on: "+d.toString().substr(0,4)+"-"+d.toString().substr(3,2)+"-"+d.toString().substr(-2,2)}},
+        long: function(){return function(d){return "first download on: "+d.toString().substr(0,4)+"-"+d.toString().substr(3,2)+"-"+d.toString().substr(-2,2)}},
         short: function(){return Math.round},
         input: function(){return Math.round},
         axis: function(){return function(d) {return Math.floor(d/10000)+"-"+(Math.floor(d/100)-Math.floor(d/10000)*100)}},
