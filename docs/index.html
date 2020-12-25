@@ -62,7 +62,7 @@ var config = {
     geo: {
       url: "world.topo.json",
       name_field: "NAME",
-      id_field: "NAME",
+      id_field: "ISO2",
       topo_object: "world"
     }
   },
@@ -71,79 +71,72 @@ var config = {
     id_field: "country"
   },
   dimensions: {
-    corruption: {
-      title: "Corruption index",
+    fday: {
+      title: "First day",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "data.tsv",
-        field: "corruption",
+        dataSet: "../cran_logs/logs_map.tsv",
+        field: "fday",
 
       },
       format: {
-        short: function() {return Math.round},
-        input: function() {return Math.round},
+       // short: function() {return Math.round},
+       // input: function() {return Math.round},
 
       }
       
     },  
-    gdp: {
-      title: "GDP per capita, $",
+    days: {
+      title: "Number of days with download",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "data.tsv",
-        field: "gdp",
-        exponent:0.4,
-        ticks: [2000,10000,25000,50000,80000]
+        dataSet: "../cran_logs/logs_map.tsv",
+        field: "days",
+       // exponent:0.4,
+       // ticks: [2000,10000,25000,50000,80000]
 
       },
       format: {
-        short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
+       // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
 
-        input: function(){return Math.round},
-        axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
+     //   input: function(){return Math.round},
+      //  axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
 
       }
     
     },  
-    gini: {
-      title: "Gini coefficient",
-      data: {
-        //colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "data.tsv",
-        field: "gini"
-      },
-    },
-    le: {
-      title: "Life expectancy, years",
+    versions: {
+      title: "Number of versions",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "data.tsv",
-        field: "life_expectancy",
-        exponent: 2.4
+        dataSet: "../cran_logs/logs_map.tsv",
+        field: "versions"
+      },
+    },
+    downloads: {
+      title: "Total downloads",
+      data: {
+        colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
+        dataSet: "../cran_logs/logs_map.tsv",
+        field: "downloads",
+    //    exponent: 2.4
       },
       format:{
-        short: function(dd) { return function(d){return Math.round(d)+" years"}},
-        long: function(dd) { return function(d){return Math.round(d)+" years"}},
-        input: function() {return Math.round},
-        axis: function(dd) { return function(d){return Math.round(d)+"y"}},
+    //    short: function(dd) { return function(d){return Math.round(d)+" years"}},
+    //   long: function(dd) { return function(d){return Math.round(d)+" years"}},
+    //    input: function() {return Math.round},
+    //    axis: function(dd) { return function(d){return Math.round(d)+"y"}},
 
       }
     },
-    democracy: {
-      title: "Democracy Index",
-      data: {
-        colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
-        dataSet: "data.tsv",
-        field: "democracy_2011",
-      },
-    },  
+     
            
   },
   defaults: {
     //colorscale: d3.scale.linear().domain([1, 10, 20]).range(["green", "yellow", "red"]).interpolate(d3.cie.interpolateLab),
     opacity: 0.9,
-    order: ["corruption","gdp","le","gini"],
-    active: "corruption"
+    order: ["fday","days","versions","downloads"],
+    active: "downloads"
   },
 };
 
