@@ -71,7 +71,7 @@ var config = {
     id_field: "country"
   },
   dimensions: {
-    fday: {
+ /*   fday: {
       title: "First day",
       data: {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
@@ -85,7 +85,7 @@ var config = {
 
       }
       
-    },  
+    },  */
     days: {
       title: "Number of days with download",
       data: {
@@ -135,7 +135,7 @@ var config = {
   defaults: {
     //colorscale: d3.scale.linear().domain([1, 10, 20]).range(["green", "yellow", "red"]).interpolate(d3.cie.interpolateLab),
     opacity: 0.9,
-    order: ["fday","days","versions","downloads"],
+    order: ["days","versions","downloads"],
     active: "downloads"
   },
 };
