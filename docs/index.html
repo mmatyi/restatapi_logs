@@ -92,18 +92,17 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "days",
-       // exponent:0.4,
+        exponent:0.4,
        // ticks: [2000,10000,25000,50000,80000]
 
       },
       format: {
-       // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
-
+        short: function(){return Math.round},
         input: function(){return Math.round},
+        axis: function(){return Math.round},
+      // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
       //  axis: function(){return function(d) {return "$"+Math.round(d/1000)+"k"}},
-
       }
-    
     },  
     versions: {
       title: "Number of versions",
@@ -113,7 +112,9 @@ var config = {
         field: "versions"
       },
       format:{
+        short: function(){return Math.round},
         input: function(){return Math.round},
+        axis: function(){return Math.round},
       },
     },
     downloads: {
@@ -122,17 +123,17 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "downloads",
-    //    exponent: 2.4
+        exponent: 2.4
       },
       format:{
+        short: function(){return Math.round},
+        input: function(){return Math.round},
+        axis: function(){return Math.round},
     //    short: function(dd) { return function(d){return Math.round(d)+" years"}},
     //   long: function(dd) { return function(d){return Math.round(d)+" years"}},
-         input: function() {return Math.round},
     //    axis: function(dd) { return function(d){return Math.round(d)+"y"}},
-
       }
     },
-     
            
   },
   defaults: {
