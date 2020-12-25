@@ -77,12 +77,15 @@ var config = {
         colorscale: d3.scale.linear().domain([1, 10, 20]).range([ "red", "yellow","green"]).interpolate(d3.cie.interpolateLab),
         dataSet: "logs_map.tsv",
         field: "fday",
-        preformat: function() {return function(d) {return Date(d).getTime()}},
+      //  preformat: function() {return function(d) {return Date(d).getTime()}},
 
       },
       format: {
        // short: function() {return Math.round},
        // input: function() {function(d) {return Date(d).getTime()}}, d.replace("-","")
+        short: function(){return Math.round},
+        input: function(){return Math.round},
+        axis: function(){return Math.round},
 
       }
       
