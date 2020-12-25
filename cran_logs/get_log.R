@@ -45,5 +45,5 @@ rlogs<-rbind(old_rlogs,rlogs_new)
 saveRDS(rlogs,"./cran_logs/rlogs.RDS")
 fwrite(rlogs,"./cran_logs/rlogs.tsv",sep="\t")
 alog<-rlogs[!is.na(country),.(days=length(unique(date)),downloads=.N,by=country]
-fwrite(rlogs,"./cran_logs/logs_map.tsv",sep="\t")  
+fwrite(alog,"./cran_logs/logs_map.tsv",sep="\t")  
                               
