@@ -15,7 +15,7 @@ shinyUI(
       column(2,
              dateInput('datum',
                        label = 'Starting from: yyyy-mm-dd',
-                       value = (Sys.Date()-30)
+                       value = (Sys.Date()-7)
                        )
             ),
       column(2,style='padding:25px;',actionButton("update","Update page",icon("refresh")) 
