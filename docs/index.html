@@ -124,6 +124,7 @@ var config = {
       },
       format:{
         short: function(){return Math.round},
+        long: function(){return function(d) {return Math.round(d)+" different versions"}},
         input: function(){return Math.round},
         axis: function(){return Math.round},
       },
@@ -152,7 +153,7 @@ var config = {
   defaults: {
     //colorscale: d3.scale.linear().domain([1, 10, 20]).range(["green", "yellow", "red"]).interpolate(d3.cie.interpolateLab),
     opacity: 0.9,
-    order: ["fday","days","versions","downloads"],
+    order: ["downloads","fday","days","versions"],
     active: "downloads"
   },
 };
