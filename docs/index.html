@@ -108,7 +108,7 @@ var config = {
       },
       format: {
         short: function(){return Math.round},
-        long: function(){return function(d) {return Math.round(d)+" days with download"}},
+        long: function(){return function(d) {if (d>1) {return Math.round(d)+" days with download"} else {return Math.round(d)+" day with download"}}},
         input: function(){return Math.round},
         axis: function(){return Math.round},
       // short: function(){return function(d) {return "$"+d3.format(",")(Math.round(d))}},
@@ -124,7 +124,7 @@ var config = {
       },
       format:{
         short: function(){return Math.round},
-        long: function(){return function(d) {return Math.round(d)+" different versions"}},
+        long: function(){return function(d) {if (d>1) {return Math.round(d)+" different versions"} else {return "only "+Math.round(d)+" version"}}},
         input: function(){return Math.round},
         axis: function(){return Math.round},
       },
