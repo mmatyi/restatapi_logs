@@ -15,6 +15,7 @@ shinyUI(
       column(2,
              dateInput('datum',
                        label = 'Starting from: yyyy-mm-dd',
+                       weekstart = 1,
                        value = (Sys.Date()-7)
                        )
             ),
