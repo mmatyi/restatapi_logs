@@ -15113,3 +15113,8 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2021-04-05	18:20:32	14524				restatapi	0.10.0	US	2100
 2021-04-05	18:21:13	14526				restatapi	0.10.0	US	5090
 2021-04-05	11:02:04	191936				restatapi	0.10.0		3
+2021-04-06	09:30:39	60324				restatapi	0.10.0	IT	24454
+2021-04-06	12:36:39	60394				restatapi	0.10.0	US	8742
+2021-04-06	14:24:19	191936	3.5.2	x86_64	linux-gnu	restatapi	0.10.0	US	3176
+2021-04-06	13:31:11	190585				restatapi	0.10.0	US	47
+2021-04-06	11:47:53	14523				restatapi	0.10.0	US	30835
