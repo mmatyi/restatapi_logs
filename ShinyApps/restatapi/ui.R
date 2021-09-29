@@ -16,12 +16,14 @@ shinyUI(
       column(3,
              dateInput('sdatum',
                        label = 'Starting from: yyyy-mm-dd',
+                       weekstart = 1,
                        value = (Sys.Date()-30)
                        )
             ),
       column(3,
              dateInput('edatum',
                        label = 'End date: yyyy-mm-dd',
+                       weekstart = 1,
                        value = (Sys.Date())
              )
       ),

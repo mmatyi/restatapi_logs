@@ -1,5 +1,6 @@
 install.packages(c("reshape2","cranlogs","DT","chron","googleVis","roxygen2","testthat"))
 devtools::install_github('eurostat/restatapi')
 devtools::install_github('ramnathv/rCharts')
+devtools::install_github('rCharts', 'ramnathv')
 system("git config --global user.email '34501282+mmatyi@users.noreply.github.com'")
 system("git config --global user.name 'Mészáros Mátyás Tamás'")
