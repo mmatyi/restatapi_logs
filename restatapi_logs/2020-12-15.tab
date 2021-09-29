@@ -1,0 +1,13 @@
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.8.10	id=demo_r_pjangrp3	cache_dir=tempdir	stringsAsFactors=FALSE
+0.9.5	id=ilc_peps11
+0.9.5	id=ei_lmhr_m
+0.9.5	id=ilc_peps11
+0.9.5	id=ei_lmhr_m
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=cod
+0.8.10	id=cod_munca
+0.8.10	id=cod_munca	label=TRUE
+0.8.10	id=ei_lmlc_q	label=TRUE
+0.8.10	id=ei_lmlc_q	label=TRUE
+0.8.10	id=ei_lmlc_q	label=TRUE

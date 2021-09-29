@@ -1,0 +1,24 @@
+0.10.0	id=tolower("PRC_HICP_MIDX")	filters=list(geo = "EA19", s_adj = "SA", unit = "HICP2015")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=tolower("PRC_HICP_MIDX")	filters=list(geo = "EA19", s_adj = "SA", unit = "I15")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=tolower("STS_COPR_M")	filters=list(geo = "EA19", s_adj = "SA", unit = "I15")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=tolower("STS_COPR_M")	filters=list(geo = "EA19", unit = "I15")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=tolower("STS_COPR_M")	filters=list(geo = "EA19", unit = "I15")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=tolower("STS_COPR_M")	filters=list(geo = "DE", unit = "I15")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=tolower("STS_TRTU_M")	filters=list(geo = "DE", unit = "I15")	date_filter=>1999-12-31	label=TRUE	select_freq=M	stringsAsFactors=FALSE
+0.10.0	id=demo_gind
+0.8.10	id=demo_gind
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.8.10	id=demo_gind
+0.10.0	id=demo_gind
+0.8.10	id=demo_gind
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE

@@ -1,0 +1,21 @@
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind

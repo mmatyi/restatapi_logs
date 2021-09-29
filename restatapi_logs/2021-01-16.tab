@@ -1,0 +1,106 @@
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EU15", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EU15", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTCASH", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EU15", spdep = "STTCASH", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTCASH", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EU15", spdep = "STTCASH", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EU15", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EU15", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EU15", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EU15", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EU15", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EU15", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "EU15", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EU15", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "EU15", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EU15", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "EU15", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=ilc_li02	filters=list(geo = "PT", geo = "eu15", sex = "T", age = "TOTAL", indic_il = "LI_R_M60", unit = "PC")	label=FALSE
+0.8.6	id=ilc_li02	filters=list(geo = "PT", geo = "eu15", sex = "T", age = "TOTAL", indic_il = "LI_R_M60", unit = "PC")	label=FALSE
+0.8.6	id=ilc_li02	filters=list(geo = "PT", geo = "EU15", sex = "T", age = "TOTAL", indic_il = "LI_R_M60", unit = "PC")	label=FALSE
+0.8.6	id=ilc_li02	filters=list(geo = "PT", geo = "EU15", sex = "T", age = "TOTAL", indic_il = "LI_R_M60", unit = "PC")	label=FALSE
+0.8.6	id=ilc_li02	filters=list(geo = "PT", geo = "EU15", sex = "T", age = "TOTAL", indic_il = "LI_R_M60", unit = "PC")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EA18", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "EA18", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "EA18", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STTKIND", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE

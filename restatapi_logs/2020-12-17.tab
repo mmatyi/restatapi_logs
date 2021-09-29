@@ -1,0 +1,46 @@
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=teszt_id1	filters=^BE$	date_filter=c(2002, "2008", 2015:2017)
+0.8.10	id=teszt_id1	filters=BE	date_filter=c(2008, "2002", 2015:2017)
+0.8.10	id=teszt_id2	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-05")	label=TRUE	select_freq=A	cflags=TRUE	verbose=FALSE
+0.8.10	id=teszt_id2	date_filter=c(2016, "2017-03", "2017-05", "2017-07-01")	select_freq=Q	cflags=TRUE
+0.8.10	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.8.10	id=teszt_id2	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2017-07-01")	label=TRUE	stringsAsFactors=FALSE
+0.8.10	id=teszt_id2	filters=c("ZHULIANY", "BUDAPEST", "Quarterly", "Monthly")	exact_match=FALSE	date_filter=c("2016-08", "2017-07-01")	name=TRUE
+0.8.10	id=teszt_id2	filters=BE$	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.8.10	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=2017	select_freq=M	cflags=TRUE
+0.8.10	id=teszt_id2	filters=list(freq = "Q", airp_pr = c("ME_LYPG_HU_LHBP", "ME_LYTV_UA_UKKK"))	date_filter=c("2017")	select_freq=M	cflags=TRUE
+0.8.10	id=teszt_id3	select_freq=Q
+0.8.10	id=teszt_id3	select_freq=Q
+0.8.10	id=teszt_id4	filters=Monthly	exact_match=FALSE	date_filter=c("<2018-07-01")	label=TRUE	select_freq=A	name=FALSE
+0.8.10	id=teszt_id5	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.8.10	id=teszt_id6	keep_flags=TRUE	verbose=TRUE
+0.8.10	id=teszt_id6	stringsAsFactors=FALSE	verbose=TRUE
+0.8.10	id=teszt_id6	keep_flags=TRUE	verbose=TRUE
+0.8.10	id=teszt_id7	stringsAsFactors=FALSE
+0.8.10	id=teszt_id1	filters=^BE$	date_filter=c(2002, "2008", 2015:2017)
+0.8.10	id=teszt_id1	filters=BE	date_filter=c(2008, "2002", 2015:2017)
+0.8.10	id=teszt_id2	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-05")	label=TRUE	select_freq=A	cflags=TRUE	verbose=FALSE
+0.8.10	id=teszt_id2	date_filter=c(2016, "2017-03", "2017-05", "2017-07-01")	select_freq=Q	cflags=TRUE
+0.8.10	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.8.10	id=teszt_id2	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2017-07-01")	label=TRUE	stringsAsFactors=FALSE
+0.8.10	id=teszt_id2	filters=c("ZHULIANY", "BUDAPEST", "Quarterly", "Monthly")	exact_match=FALSE	date_filter=c("2016-08", "2017-07-01")	name=TRUE
+0.8.10	id=teszt_id2	filters=BE$	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.8.10	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=2017	select_freq=M	cflags=TRUE
+0.8.10	id=teszt_id2	filters=list(freq = "Q", airp_pr = c("ME_LYPG_HU_LHBP", "ME_LYTV_UA_UKKK"))	date_filter=c("2017")	select_freq=M	cflags=TRUE
+0.8.10	id=teszt_id3	select_freq=Q
+0.8.10	id=teszt_id3	select_freq=Q
+0.8.10	id=teszt_id4	filters=Monthly	exact_match=FALSE	date_filter=c("<2018-07-01")	label=TRUE	select_freq=A	name=FALSE
+0.8.10	id=teszt_id5	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.8.10	id=teszt_id6	keep_flags=TRUE	verbose=TRUE
+0.8.10	id=teszt_id6	stringsAsFactors=FALSE	verbose=TRUE
+0.8.10	id=teszt_id6	keep_flags=TRUE	verbose=TRUE
+0.8.10	id=teszt_id7	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE

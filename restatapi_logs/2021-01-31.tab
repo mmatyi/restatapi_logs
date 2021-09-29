@@ -1,0 +1,17 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "GE10")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<	verbose=TRUE
+0.8.10	id=dataset	filters=filter_list
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<

@@ -1,0 +1,30 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.10.3	id=demo_r_pjangroup
+0.10.3	id=demo_r_pjangroup
+0.10.3	id=demo_r_pjangroup
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE

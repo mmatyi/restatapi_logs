@@ -1,0 +1,2 @@
+0.10.7	id=sts_trtu_m	filters=list(NACE_R2 = "G47", INDIC_BT = "TOVV", S_ADJ = "SCA", UNIT = "I15", GEO = "EA19")
+0.10.7	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")

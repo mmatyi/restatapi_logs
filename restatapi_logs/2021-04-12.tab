@@ -1,0 +1,54 @@
+0.10.0	id=sts_trtu_m	filters=c("PL")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15")	exact_match=FALSE	date_filter=date_filter(2010:2021)	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15")	exact_match=FALSE	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15", nace_r2 = "G47")	exact_match=FALSE	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15", nace_r2 = "G47", indic_bt = "TOVV")	exact_match=FALSE	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15", nace_r2 = "G47", indic_bt = "TOVV")	exact_match=TRUE	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15", nace_r2 = "G47", indic_bt = "TOVV", time = "2015:2021")	exact_match=TRUE	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=sts_trtu_m	filters=list(geo = c("PL", "EU27_2020"), s_adj = "SCA", unit = "I15", nace_r2 = "G47", indic_bt = "TOVV")	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "EA18", spdep = "SNONTARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "EA18", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.10	id=demo_gind
+0.9.8	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV")	label=FALSE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020"), s_adj = "SA", unit = "BAL", indic = c("BS-RPBS", "BS-RAS", "BS-ROP", "BS-REBS", "BS-REM", "BS-RCI"))	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.9.8	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020"), s_adj = "SA", unit = "BAL", indic = c("BS-RPBS", "BS-RAS", "BS-ROP", "BS-REBS", "BS-REM", "BS-RCI"))	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020", "PL", "CZ", "FR", "ES", "DE", "IT", "HU", "ROM"), s_adj = "SA", unit = "BAL", indic = "BS-RCI")	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020", "PL", "CZ", "FR", "ES", "DE", "IT", "HU", "RO"), s_adj = "SA", unit = "BAL", indic = "BS-RCI")	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020", "PL", "FR", "ES", "DE", "IT", "HU", "RO"), s_adj = "SA", unit = "BAL", indic = "BS-RCI")	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020", "PL", "FR", "ES", "DE", "IT", "HU", "RO"), s_adj = "SA", unit = "BAL", indic = "BS-RCI")	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020", "PL", "FR", "ES", "DE", "IT", "HU", "RO", "CZ"), s_adj = "SA", unit = "BAL", indic = "BS-RCI")	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.10.0	id=ei_bsrt_m_r2	filters=list(geo = c("EU27_2020"), s_adj = "SA", unit = "BAL", indic = c("BS-RPBS", "BS-RAS", "BS-ROP", "BS-REBS", "BS-REM", "BS-RCI"))	exact_match=TRUE	date_filter=2015-01<	label=TRUE	select_freq=M	ignore.case=TRUE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind

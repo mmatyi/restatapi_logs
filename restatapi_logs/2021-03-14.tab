@@ -1,0 +1,13 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE

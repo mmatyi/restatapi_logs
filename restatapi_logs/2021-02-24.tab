@@ -1,0 +1,26 @@
+0.8.6	id=hbs_exp_t111
+0.8.6	id=hbs_exp_t121
+0.8.6	id=ilc_di01
+0.8.6	id=ilc_li02
+0.8.6	id=hbs_exp_t111
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.6	id=hbs_exp_t111
+0.8.6	id=hbs_exp_t121
+0.8.6	id=hbs_exp_t133
+0.8.6	id=ilc_di01
+0.8.6	id=ilc_li02
+0.8.6	id=hbs_exp_t111
+0.8.6	id=hbs_exp_t121
+0.8.6	id=hbs_exp_t133
+0.8.6	id=ilc_di01
+0.8.6	id=ilc_li02
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.6	id=hbs_exp_t111
+0.8.6	id=hbs_exp_t121
+0.8.6	id=hbs_exp_t133
+0.8.6	id=ilc_di01
+0.8.6	id=ilc_li02
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE

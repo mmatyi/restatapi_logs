@@ -1,0 +1,21 @@
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.8.10	id=namq_10_gdp	date_filter=1999-10-01<
+0.8.10	id=namq_10_gdp	date_filter=1999-10-01<
+0.10.7	id=demo_r_d3dens	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_r_pjanind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_r_gind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_r_pjanaggr3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=nama_10r_3gdp	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_gind
+0.10.7	id=demo_pjan
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.9.5	id=DEMO_FAEDUC
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=c("EC1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE

@@ -1,0 +1,101 @@
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=EC1001V	stringsAsFactors=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=EC1001V	stringsAsFactors=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=EC1001V	stringsAsFactors=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_llma	filters=EC1001V	stringsAsFactors=FALSE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.8	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M3")	exact_match=FALSE	date_filter=2002:2020	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.9.8	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M6")	exact_match=FALSE	date_filter=2002:2020	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.9.8	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M1")	exact_match=TRUE	date_filter=2002:2020	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.9.8	id=PRC_HICP_MV12R	filters=list(geo = c("EA"), unit = "RCH_MV12MAVR", coicop = "CP00")	exact_match=TRUE	date_filter=2002:2020	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.9.8	id=STS_INPR_M	filters=list(geo = c("EA19"), s_adj = "SCA", unit = c("I15"), indic_bt = "PROD", nace_r2 = "B-D_F")	exact_match=FALSE	date_filter=2002:2020	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.9.8	id=STS_INPR_M	filters=list(geo = c("EA19"), s_adj = "CA", unit = c("PCH_SM"), indic_bt = "PROD", nace_r2 = "B-D_F")	exact_match=FALSE	date_filter=2002:2020	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.9.5	id=demo_minfind
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_2gdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_3popgdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_2hhinc	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_2gdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_3popgdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_3popgdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_3popgdp	stringsAsFactors=FALSE
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc	filters=list(time == 2018
+0.10.4	id=nama_10r_2hhinc	filters=list(time = 2018, na_item = "B5N", unit = "PPS_EU27_2020_HAB")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = 2018, na_item = "B5N", unit == "MIO_EUR")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = 2018, na_item = "B5N", unit = "MIO_EUR")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = "2018", unit = "MIO_EUR", geo = "^(?!(ESZZ|FRZZ).*$")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = "2018", unit = "MIO_EUR", geo = "^(?!(ESZZ|FRZZ)).*$")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = "2018", unit = "MIO_EUR", geo = "^(?!ESZZ|FRZZ).*$")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = "2018", unit = "MIO_EUR", geo = "^(?!(ESZZ|FRZZ)).*$")	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	verbose=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	verbose=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc
+0.10.4	id=nama_10r_2gdp
+0.10.4	id=nama_10r_3popgdp
+0.10.4	id=nama_10r_2hhinc	filters=list(time = 2018, na_item = "B5N", unit = "PPS_EU27_2020_HAB")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = 2018, na_item = "B5N", unit = "MIO_EUR")
+0.10.4	id=nama_10r_2hhinc	filters=list(time = "2018", unit = "MIO_EUR", geo = "^(?!(ESZZ|FRZZ)).*$")	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(na_item = "B5N", unit = "PPS_EU27_2020_HAB", geo = "^(?!(ESZZ|FRZZ)).*$")	date_filter=2000:2018	force_local_filter=TRUE	perl=TRUE
+0.10.4	id=nama_10r_2hhinc	filters=list(time = 2018, na_item = "B5N", unit = "PPS_EU27_2020_HAB")

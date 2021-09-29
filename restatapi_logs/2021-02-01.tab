@@ -1,0 +1,38 @@
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.8.10	id=demo_gind
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.8.10	id=demo_gind
+0.9.5	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=demo_gind
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(indic_em = "JOBVAC", geo = eu27, isco08 = "TOTAL", sizeclas = "TOTAL", nace_r2 = "[A-Z]")	date_filter=2018<

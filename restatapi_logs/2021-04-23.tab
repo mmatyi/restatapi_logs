@@ -1,0 +1,152 @@
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=tespm050	filters=list(geo = "PT")	label=FALSE
+0.9.8	id=tespm050	filters=list(geo = "PT", sex = "T")	label=FALSE
+0.9.8	id=tespm050	filters=list(geo = "PT", sex = "T")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=tespm050	filters=list(geo = "PT", sex = "T")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE

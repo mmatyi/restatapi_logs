@@ -1,0 +1,142 @@
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0	id=demo_r_pjangroup
+0.10.3	id=bd_9bd_sz_cl_r2	stringsAsFactors=FALSE
+0.10.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.3	id=tgs00052	stringsAsFactors=FALSE
+0.10.3	id=tgs00047	stringsAsFactors=FALSE
+0.10.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.3	id=tgs00052	stringsAsFactors=FALSE
+0.10.3	id=tgs00047	stringsAsFactors=FALSE
+0.10.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.3	id=tgs00052	stringsAsFactors=FALSE
+0.10.3	id=tgs00047	stringsAsFactors=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.3	id=bd_9bd_sz_cl_r2	stringsAsFactors=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.10.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.3	id=tgs00052	stringsAsFactors=FALSE
+0.10.3	id=tgs00047	stringsAsFactors=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.3	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.10.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.3	id=tgs00052	stringsAsFactors=FALSE
+0.10.3	id=tgs00047	stringsAsFactors=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=tps00208	date_filter=2018
+0.10.3	id=tps00208	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018

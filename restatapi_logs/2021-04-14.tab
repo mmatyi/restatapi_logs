@@ -1,0 +1,156 @@
+0.8.10	id=demo_gind
+0.10.0	id=demo_r_pjangroup
+0.10.0	id=demo_r_pjangroup
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.0	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.0	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.0	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.0	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.0	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.0	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.0	id=tour_cap_nuts3	stringsAsFactors=FALSE
+0.8.10	id=demo_gind
+0.10.0	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.0	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.0	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.0	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.0	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.0	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.0	id=tour_cap_nuts3	stringsAsFactors=FALSE
+0.10.0	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.0	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.0	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=filters("sleeping")	label=TRUE
+0.10.0.3	id=tus_00age	filters=c("sleeping")	label=TRUE
+0.10.0.3	id=tus_00age	filters=c("sleeping")	label=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=c("sleep")	label=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=c("sleep")	label=TRUE	time_filter=2010	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=c("sleep")	label=TRUE	time_filter=2010	ignore.case=TRUE
+0.10.0	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=c("sleep")	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.10.0	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=c("sleep", "total")	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=c("sleep", "total")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=list(acl00 = "sleep", age = "total")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0	id=tour_cap_nuts3	stringsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=list(acl00 = "sleep", age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "ptp", age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time", age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time", age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time_sp", age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time_sp", age = "total", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time_sp", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time_sp", sex = "T")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time_sp", age = "total")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "time_sp")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent")	date_filter=2010	label=FALSE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent")	date_filter=2010	label=FALSE	verbose=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent")	date_filter=2010	label=TRUE	verbose=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent")	exact_match=FALSE	date_filter=2010	label=TRUE	verbose=TRUE	ignore.case=TRUE
+0.10.0	id=tour_cap_nuts3	stringsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	verbose=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	verbose=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t", acl00 = "!total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t", acl00 = "T(?!otal)")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t", acl00 = "T\\(\\?\\!otal\\)")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t", acl00 = "\\(\\?\\!total\\)")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t", acl00 = "\\^\\(\\(\\?\\!total\\)\\.\\)\\*\\$")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "t", acl00 = "\\^\\(\\(\\?\\!Total\\)\\.\\)\\*\\$")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$", geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$", geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$", geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$", geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2", "ac3$", "ac4-8", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$", geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = "^(?!total).*$", geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "job", "care", "social", "study", "", "$", ""), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "job", "care", "social", "study"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "job", "(family|personal) care", "social", "^study"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", "(family|personal) care", "^leisure", "^study", "except travel"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", ".*(family|personal) care", "^leisure", "^study", "except travel"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("ac01", "ac02", "ac03", "ac1a", "ac1b", "ac2$", "ac3$", "ac4-8$", "ac9a"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"), geo = "be")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	strinsAsFactors=FALSE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	strinsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	strinsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.0.3	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.1	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.1	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.1	id=tus_00age	filters=list(unit = "spent", age = "total")	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	verbose=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.1	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=c(2018:2020)	verbose=TRUE
+0.10.1	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, "2005-01", 2013:2018)
+0.10.1	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, "2005-01", 2013:2018)
+0.10.1	id=agr_r_milkpr	filters=eu$NMS10	date_filter=2017-03:2019-06-05	label=TRUE	keep_flags=TRUE
+0.10.1	id=agr_r_milkpr	filters=BE	date_filter=2017-03:2019-06-05	label=TRUE	keep_flags=TRUE
+0.10.1	id=agr_r_milkpr	filters=BE	date_filter=2017-03:2019-06-05	label=TRUE	keep_flags=TRUE
+0.10.1	id=agr_r_milkpr	filters=BE	exact_match=FALSE	date_filter=<2009-07	label=TRUE	keep_flags=TRUE
+0.10.1	id=agr_r_milkpr	filters=BE	exact_match=FALSE	date_filter=<2009-07	label=TRUE	stringsAsFactors=FALSE	keep_flags=TRUE
+0.10.1	id=NAMA_10_GDP
+0.10.1	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.10.1	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.10.1	id=avia_gonc	select_freq=A	cache=FALSE
+0.10.1	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.10.1	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.10.1	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.10.1	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.10.1	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.10.1	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.10.1	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.10.1	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.10.1	id=NAMA_10_GDP
+0.10.1	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.10.1	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.10.1	id=avia_gonc	select_freq=A	cache=FALSE
+0.10.1	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.10.1	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.10.1	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.10.1	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.10.1	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.10.1	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.10.1	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.10.1	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE

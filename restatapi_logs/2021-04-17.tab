@@ -1,0 +1,6 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE

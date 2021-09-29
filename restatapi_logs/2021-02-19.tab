@@ -1,0 +1,5 @@
+0.9.8	id=NAMA_10_GDP
+0.9.8	id=NAMA_10_GDP
+0.9.8	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "CA", unit = "PCH_SM", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "SCA", unit = "PCH_PRE", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))	stringsAsFactors=FALSE

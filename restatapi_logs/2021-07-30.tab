@@ -1,0 +1,14 @@
+0.10.7	id=ei_bsin_m_r2
+0.10.7	id=ei_bsin_m_r2
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")	check_toc=TRUE
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")	date_filter=c("2013-01-01":"2018-01-01")
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")	date_filter=c(2013 - 1 - 1:2018 - 1 - 1)
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")	date_filter=c(2013 - 1:2018 - 1)
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")	date_filter=c(2013:2018)
+0.10.7	id=ei_bsin_m_r2	filters=c("BS-ICI", "NSA", "BAL", "HU")	date_filter=c(2020:2021)
+0.10.7	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050
+0.10.7	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.10.7	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050
+0.10.7	id=une_rt_m	filters=list(age = "TOTAL", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19", "US", "JP"), unit = "PC_ACT")	date_filter=2000:2050
+0.10.7	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050

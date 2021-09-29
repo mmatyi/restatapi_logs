@@ -1,0 +1,3 @@
+0.10.7	id=une_rt_m	filters=list(age = "TOTAL", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19", "US", "JP"), unit = "PC_ACT")	date_filter=2000:2050
+0.10.7	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050
+0.10.7	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")

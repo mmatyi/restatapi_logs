@@ -1,0 +1,21 @@
+0.9.5	id=tec00118	filters=list(geo = "EA")	select_freq=M
+0.9.5	id=tec00118	filters=EA	select_freq=M
+0.9.5	id=tec00118	filters=GR	select_freq=M
+0.9.5	id=tec00118	filters=list(geo = "EU28")	select_freq=M
+0.9.5	id=avia_par_me	select_freq=A	cache=FALSE
+0.9.5	id=tec00118	select_freq=M	cache=FALSE
+0.9.5	id=prc_hicp_midx	select_freq=M	cache=FALSE
+0.9.5	id=prc_hicp_midx	filters=list(geo = "EA")	select_freq=M	cache=FALSE
+0.9.5	id=tec00118	filters=list(geo = "EA")	select_freq=A	cache=FALSE
+0.9.5	id=tec00118	filters=list(geo = "EA")	select_freq=A
+0.9.5	id=prc_hicp	filters=list(geo = "EA")	select_freq=M
+0.9.5	id=prc_hicp	filters=list(geo = "EA")	select_freq=M
+0.9.5	id=prc_hicp	filters=list(geo = "EA")	select_freq=M	check_toc=TRUE
+0.9.5	id=prc_hicp	filters=list(geo = "EA")	select_freq=M	check_toc=TRUE
+0.9.5	id=prc_hicp_manr	filters=list(geo = "EA")	select_freq=M
+0.9.5	id=prc_hicp_manr	filters=list(geo = "EA", coicop = "CP00")	select_freq=M
+0.9.5	id=prc_hicp_manr	filters=list(geo = "EA19", coicop = "CP00")	select_freq=M
+0.9.5	id=prc_hicp_manr	filters=list(geo = "EA", coicop = "CP00")	select_freq=M
+0.8.10	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_ninat

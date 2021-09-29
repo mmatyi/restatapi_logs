@@ -1,0 +1,15 @@
+0.9.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18", )	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18", )	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=prc_hicp_inw	filters=HR
+0.9.8	id=prc_hicp_inw	filters=HR	date_filter=2000<
+0.9.8	id=prc_hicp_inw	filters=HR	date_filter=2000<=
+0.9.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.9.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.9.8	id=naidq_10_gdp	date_filter=1999-10-01<

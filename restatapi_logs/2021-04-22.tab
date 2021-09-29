@@ -1,0 +1,30 @@
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "M")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=tps00208	filters=list(sex = "F")	date_filter=2018
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=sdg_11_31	filters=get("cc", envir = .restatapi_env)$EU28	label=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE

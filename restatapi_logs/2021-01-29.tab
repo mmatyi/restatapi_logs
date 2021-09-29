@@ -1,0 +1,40 @@
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.8.10	id=demo_gind
+0.9.8	id=lfsq_pganws	filters=Q.THS.T.TOTAL.Y15-74..LT.
+0.9.8	id=lfsq_pganws	filters=BE$
+0.9.8	id=lfsq_pganws
+0.9.8	id=lfsq_pganws	select_freq=Q
+0.9.8	id=lfsq_pganws	date_filter=c("1998-Q1")	select_freq=Q
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.8	id=lfsq_pganws
+0.9.8	id=lfsq_pganws
+0.9.8	id=lfsq_pganws
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=c(2018:2020)	verbose=TRUE
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list
+0.9.8	id=toc_search_txt$code[1]	keep_flags=TRUE	check_toc=TRUE
+0.9.8	id=toc_search_txt$code[1]	filters=c("AT")	date_filter=c("2017")	keep_flags=TRUE
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.9.8	id=toc_search_txt$code[1]	filters=c("FR")	date_filter=c("2015")	keep_flags=TRUE
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050

@@ -1,0 +1,155 @@
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.10.10	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.10	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15", age = "Y16", age = "Y17", age = "Y18")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "OLD", spdeps = "SURVIV")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.9.8	id=ilc_li09	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BTP", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li10	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60BT", unit = "PC")	label=FALSE
+0.9.8	id=ilc_li02	filters=list(geo = "PT", sex = "T", age = "TOTAL", indic_il = "LI_R_MD60", unit = "PC")	label=FALSE
+0.9.8	id=ilc_di12b	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12c	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.9.8	id=ilc_di12	filters=list(geo = "PT", indic_il = "GINI_HND")	label=FALSE
+0.10.7	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")

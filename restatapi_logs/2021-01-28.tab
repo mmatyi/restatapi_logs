@@ -1,0 +1,34 @@
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<	verbose=TRUE
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<	verbose=TRUE
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.8.10	id=data_code	filters=filters
+0.8.10	id=data_code	filters=filters
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.9.8	id=demo_maeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_maeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_mlexpecedu	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_mlexpecedu	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=lfsa_pgaed	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=demo_maeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.8	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.9.10	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<

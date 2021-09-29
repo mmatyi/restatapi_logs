@@ -1,0 +1,43 @@
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), s_adj = "SCA", unit = "I16", nace_r2 = "B")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=LFST_R_LFU3RT	filters=list(geo = c("ES62", "ES30"), s_adj = "SCA", unit = "I16", nace_r2 = "B", lcstruct = "D11")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=A	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), s_adj = "SCA", unit = "I16", nace_r2 = "B", lcstruct = "D11")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), s_adj = "SCA", unit = "I16", nace_r2 = "B", lcstruct = "D11")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), s_adj = "SCA", unit = "I16", nace_r2 = "B", lcstruct = "D11")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), s_adj = "SCA", unit = "I16", nace_r2 = "B", lcstruct = "D11")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id= LC_LCI_R2_Q	filters=list(geo = c("ES", "UK"), s_adj = "SCA", unit = "I16", nace_r2 = "B", lcstruct = "D11")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "D11")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=NAMA_10_GDP
+0.9.8	id=NAMA_10_GDP
+0.9.8	id=TGS00039	update_cache=TRUE	check_toc=TRUE
+0.9.8	id=TGS00042	update_cache=TRUE	check_toc=TRUE
+0.9.8	id=RD_P_PERSREG	update_cache=TRUE	check_toc=TRUE
+0.9.8	id=TGS00004	update_cache=TRUE	check_toc=TRUE
+0.9.8	id=htec_emp_reg2	update_cache=TRUE	check_toc=TRUE
+0.9.8	id=RD_E_GERDREG
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11", unit = "CP_MNAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "PD15_NAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.5	id=lfsa_pgaed	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.5	id=demo_maeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11", unit = "CP_MNAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "PD15_NAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11", unit = "CP_MNAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "PD15_NAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "D11", unit = "CP_MNAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "PD15_NAC")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "UK"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=NAMA_10R_2GVAGR	filters=list(geo = c("ES62", "ES30"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=LFST_R_LFU3RT	filters=list(geo = c("ES62", "ES30"), sex = "T", unit = "PC", age = "Y15-74")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=A	verbose=FALSE	name=FALSE

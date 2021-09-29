@@ -1,0 +1,32 @@
+0.9.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.9.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.9.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.9.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.9.8	id=namq_10_gdp	date_filter=1999-10-01<
+0.9.8	id=namq_10_gdp	date_filter=1999-10-01<
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=demo_gind
+0.10.7	id=teicp000	date_filter=2000:2021
+0.10.7	id=teicp000	date_filter=2000:2021
+0.10.7	id=teicp000	date_filter=2000:2021
+0.10.7	id=teicp000	date_filter=2000 - 1:2021 - 8
+0.10.7	id=teicp000	date_filter=2000 - 1:2021 - 8
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=HICP	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=HCIP	date_filter=2000:2021	select_freq=M
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=HICP	date_filter=2000:2021	select_freq=M
+0.10.7	id=HICP	date_filter=2000 - 1:2021 - 8	select_freq=M
+0.10.7	id=HICP	select_freq=M
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=teicp000	date_filter="2000-01":"2021-08"
+0.10.7	id=HICP	select_freq=M

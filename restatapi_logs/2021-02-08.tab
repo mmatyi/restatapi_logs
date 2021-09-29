@@ -1,0 +1,2 @@
+0.9.8	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, "2005-01", 2013:2018)
+0.9.10	id=fish_ca_main	filters=c("^F00$", "^0$", "^TLW$")	date_filter=c(2017)	label=FALSE	keep_flags=TRUE

@@ -1,0 +1,6 @@
+0.8.10	id=avia_par_me	select_freq=A	cache=FALSE
+0.8.10	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.8.10	id=demo_r_d2jan	date_filter=c("2019")	select_freq=M
+0.8.10	id=demo_r_d2jan	date_filter=c("2019")	select_freq=M
+0.8.10	id=demo_r_d2jan	filters=c("BE$", "Poland")	date_filter=c("2019")	select_freq=M
+0.8.10	id=demo_r_d2jan	filters=c("Poland")	date_filter=c("2019")	select_freq=A

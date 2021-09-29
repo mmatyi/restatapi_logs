@@ -1,0 +1,14 @@
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_gdp	filters=list(geo = "PT", spdep = "STARGETNOREROUTE", spfunc = "DISA", spfunc = "OLD", spfunc = "SURVIV", spfunc = "FAM", spfunc = "UNEMPLOY", spfunc = "HOUSE", spfunc = "EXCLU")	label=FALSE
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.6	id=spr_net_ben	filters=list(geo = "PT", indic_sp = "NSP_PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.8.10	id=dataset	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.9.5	id=lfsa_pgaed	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.5	id=demo_maeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE

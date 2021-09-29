@@ -1,0 +1,14 @@
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.8.10	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=num
+0.9.8	id=nama_10_gdp
+0.9.8	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.9.8	id=nama_10_gdp
+0.9.8	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.9.8	id=rd_e_gerdreg
+0.9.8	id=rd_e_gerdreg	filters=list(sectperf = "TOTAL", unit = "MIO_EUR", )

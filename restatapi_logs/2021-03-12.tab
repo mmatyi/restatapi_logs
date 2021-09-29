@@ -1,0 +1,3 @@
+0.8.10	id=nama_10_gdp
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.8.10	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EU28"))	date_filter=2000:2020

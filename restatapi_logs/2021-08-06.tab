@@ -1,0 +1,3 @@
+0.10.7	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.10.7	id=une_rt_m	filters=list(age = "TOTAL", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19", "US", "JP"), unit = "PC_ACT")	date_filter=2000:2050
+0.10.7	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050

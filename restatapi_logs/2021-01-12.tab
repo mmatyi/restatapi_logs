@@ -1,0 +1,169 @@
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=demo_gind
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=demo_gind
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=demo_gind
+0.8.10	id=tour_dem_tttot
+0.8.10	id=tour_dem_totot
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=demo_gind
+0.8.10	id=tour_dem_tttot
+0.8.10	id=tour_dem_totot
+0.8.10	id=tour_dem_tntot
+0.8.10	id=tour_occ_ninat
+0.8.10	id=tour_occ_nim
+0.8.10	id=tour_cap_nat
+0.8.10	id=demo_gind
+0.8.10	id=tour_dem_tttot
+0.8.10	id=tour_dem_totot
+0.8.10	id=tour_dem_tntot
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "WRL_REST")	time_filter=2018
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "WRL_REST")	date_filter=2018
+0.8.10	id=demo_gind
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "WRL_REST")	date_filter=2018	verbose=TRUE	name=FALSE
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=2018	verbose=TRUE	name=FALSE
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.9.8	id=nama_10_gdp
+0.9.8	id=bop_eu6_q	time_format=function (length = 0)  .Internal(vector("raw", length))
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.9.8	id=nama_10_gdp
+0.9.8	id=bop_eu6_q	select_freq=A
+0.9.5	id=lfsa_pgaed	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.5	id=lfsa_pgaed	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.5	id=demo_maeduc	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.5	id=lfsa_pgaed	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.9.8	id=irt_lt_mcby_m
+0.9.8	id=gov_10dd_edpt1
+0.9.8	id=sdg_17_40
+0.9.8	id=spr_exp_pens
+0.9.8	id=DEMO_PJAN
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.8.10	id=demo_gind
+0.9.8	id=irt_lt_mcby_m
+0.9.8	id=gov_10dd_edpt1
+0.9.8	id=sdg_17_40
+0.9.8	id=spr_exp_pens
+0.9.8	id=DEMO_PJAN
+0.9.8	id=tour_occ_ninat
+0.9.8	id=tour_occ_nim
+0.9.8	id=tour_cap_nat
+0.9.8	id=demo_gind
+0.9.8	id=tour_dem_tttot
+0.9.8	id=tour_dem_totot
+0.9.8	id=tour_dem_tntot
+0.9.8	id=demo_pjanbroad
+0.9.8	id=bop_c6_a	filters=c("CRE", "DEB", "BAL", "MIO_EUR", "SD", "S1", "WRL_REST")	date_filter=c(2013, 2018)	verbose=TRUE	name=FALSE
+0.9.8	id=nama_10_gdp
+0.9.8	id=bop_eu6_q	select_freq=A
+0.8.6	id=ilc_di12	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.6	id=ilc_di12	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.6	id=ilc_di12b	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.6	id=ilc_di12	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.6	id=ilc_di12	filters=list(geo = "PT", geo = "EU28")	label=FALSE
+0.8.6	id=ilc_di12b	filters=list(geo = "PT", geo = "EU28")	label=FALSE

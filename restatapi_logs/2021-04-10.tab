@@ -1,0 +1,3 @@
+0.10.0	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.10.0	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.10.0	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P3", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE

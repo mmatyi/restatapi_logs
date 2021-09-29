@@ -1,0 +1,73 @@
+0.10.7	id=lfsa_agaed	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_egaed	select_freq=A	cache=FALSE
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = c("PC", "THS_PER"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=lfsa_agaed	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_egaed	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_pganws	select_freq=A	cache=FALSE
+0.10.7	id=edat_lfse_20	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpnig	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpshi	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpsun	select_freq=A	cache=FALSE
+0.10.7	id=ilc_iw01	select_freq=A	cache=FALSE
+0.10.7	id=trng_lfs_09	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_agaed	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_egaed	select_freq=A	cache=FALSE

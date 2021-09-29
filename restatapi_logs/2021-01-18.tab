@@ -1,0 +1,9 @@
+0.9.5	id=lfsa_pgaed
+0.8.10	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list

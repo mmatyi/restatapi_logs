@@ -1,0 +1,27 @@
+0.10.7	id=sdg_01_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = c("PC", "PC_Y_LT60"), geo = "ES", age = "TOTAL", sex = "T", incgrp = "TOTAL")	date_filter=c("2014", "2019")
+0.9.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.9.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.10.10	id=NAMA_10_GDP
+0.10.10	id=MIGR_IMMI
+0.10.10	id=MIGR_EMI1CTZ
+0.10.10	id=ISOC_EC_ESELN2

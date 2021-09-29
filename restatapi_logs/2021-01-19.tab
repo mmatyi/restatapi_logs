@@ -1,0 +1,24 @@
+0.9.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.9.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.9.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.8.10	id=demo_pjan	filters=list(age = "TOTAL", sex = "T", time = 2019)	date_filter=2019
+0.9.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.8.10	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.8.10	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.9.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.8.6	id=demo_pjan	filters=list(geo = "PT")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "\tT", age = "\tY_LT1", age = "\tY_1", age = "\tY_2", age = "\tY_3", age = "\tY_4", age = "\tY_5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y_1", age = "Y_2", age = "Y_3", age = "Y_4", age = "Y_5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y_1", age = "Y_2", age = "Y_3", age = "Y_4", age = "Y_5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y_1", age = "Y_2", age = "Y_3", age = "Y_4", age = "Y_5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y_1", age = "Y_2", age = "Y_3", age = "Y_4", age = "Y_5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y5", age = "Y5", age = "Y5", age = "Y5", age = "Y5", )	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5", age = "Y6", age = "Y7", age = "Y8", age = "Y9", age = "Y10", age = "Y11", age = "Y12", age = "Y13", age = "Y14", age = "Y15")	label=FALSE
+0.8.6	id=demo_pjan	filters=list(geo = "PT", sex = "T", age = "Y_LT1", age = "Y1", age = "Y2", age = "Y3", age = "Y4", age = "Y5")	label=FALSE

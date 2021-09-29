@@ -1,0 +1,1 @@
+0.9.8	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")

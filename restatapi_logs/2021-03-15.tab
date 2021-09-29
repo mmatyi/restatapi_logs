@@ -1,0 +1,76 @@
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.8	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.8	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.8	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "CA", unit = "PCH_SM", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "SCA", unit = "PCH_PRE", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))	stringsAsFactors=FALSE
+0.9.8	id=sts_trtu_m	filters=list(NACE_R2 = "G47", INDIC_BT = "TOVV", S_ADJ = "SCA", UNIT = "I15", GEO = "EA19")
+0.9.8	id=une_rt_m	filters=list(age = "TOTAL", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19", "US", "JP"), unit = "PC_ACT")	date_filter=2000:2050
+0.9.8	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV_I10")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=RD_E_GERDREG	filters=list(sectperf = "TOTAL", unit = "MIO_PPS")	date_filter=2000:2019
+0.9.8	id=RD_E_GERDREG	filters=list(sectperf = "TOTAL", unit = "MIO_PPS")	date_filter=2017
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_I10")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=2012:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=UNE_RT_Q	filters=list(geo = c("ES", "FR"), s_adj = "SA", sex = "T", unit = "PC_ACT", age = "Y15-74")	exact_match=TRUE	date_filter=2011-10:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=NAMA_10R_2GVAGR	filters=list(geo = c("ES62", "ES30"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=LFST_R_LFU3RT	filters=list(geo = c("ES62", "ES30"), sex = "T", unit = "PC", age = "Y15-74")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=A	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=2012:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=UNE_RT_Q	filters=list(geo = c("ES", "FR"), s_adj = "SA", sex = "T", unit = "PC_ACT", age = "Y15-74")	exact_match=TRUE	date_filter=2011-10:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=NAMA_10R_2GVAGR	filters=list(geo = c("ES62", "ES30"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=LFST_R_LFU3RT	filters=list(geo = c("ES62", "ES30"), sex = "T", unit = "PC", age = "Y15-74")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=A	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE

@@ -1,0 +1,11 @@
+0.10.7	id=demo_r_d3dens	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_r_pjanind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_r_gind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_r_pjanaggr3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=NAMA_10_GDP
+0.10.7	id= ERT_BIL_EUR_M
+0.10.7	id= ERT_BIL_EUR_D
+0.10.7	id= ERT_BIL_EUR_D	filters=HU
+0.10.7	id= ERT_BIL_EUR_D	filters=list(currency = "HUF")	date_filter=c("2020-01-01", "2021-06-30")
+0.10.7	id= ERT_BIL_EUR_D	date_filter=c("2020-01-01", "2021-06-30")
+0.10.7	id= ERT_BIL_EUR_D

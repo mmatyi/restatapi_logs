@@ -1,0 +1,12 @@
+0.9.5	id=edat_lfse_12	label=TRUE
+0.9.5	id=educ_uoe_enra01	label=TRUE
+0.9.5	id=educ_uoe_enra02	label=TRUE
+0.9.5	id=educ_uoe_enra02	label=TRUE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.9.5	id=educ_uoe_enra02	label=FALSE
+0.9.5	id=educ_uoe_enra02	label=TRUE
+0.9.5	id=educ_uoe_enra01	label=TRUE
+0.9.5	id=edat_lfse_03	label=TRUE
+0.9.5	id=edat_lfse_03	label=TRUE
+0.9.5	id=demo_mlifetable	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=TRUE	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	local_filter=TRUE	force_local_filter=FALSE	verbose=FALSE

@@ -1,0 +1,128 @@
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2020	label=0
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group2))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "TOTAL", gsub(" to ", "-", age_group1))	exact_match=FALSE	date_filter=(year - 1)
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^prof", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "THS", "OC2", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("EU27_2020", "THS", "TOTAL", "^Scien", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019
+0.11.3	id=hrst_st_nocc	filters=c("HRSTO$", "EU27_2020", "^tech", "^perc", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=list(geo = eu_cc, isco08 = "oc2", category = "hrsto", unit = "pc", age = gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019	label=1	stringsAsFactors=0	verbose=0	name=0	ignore.case=1
+0.11.3	id=hrst_st_nocc	filters=c("THS", "HRSTO", "^Scient", "OC", gsub(" to ", "-", age_group1))	exact_match=0	date_filter=2019	label=0

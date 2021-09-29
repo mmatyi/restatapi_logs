@@ -1,0 +1,36 @@
+0.9.8	id=demo_r_mwk_05	filters=c("LV", "EE", "CZ")
+0.9.8	id=demo_r_mwk_05	filters=c("LV", "EE", "CZ")
+0.9.8	id=demo_r_mwk_05	filters=c("LV", "EE", "CZ")
+0.9.8	id=demo_mmonth	filters=c("LV", "EE", "LT", "CZ")
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.9.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.9.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.9.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.9.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.9.8	id=help 	date_filter=1999-10-01<
+0.9.8	id=help 	date_filter=1999-10-01<
+0.9.8	id=namq_10_gdp	date_filter=1999-10-01<
+0.9.8	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "CA", unit = "PCH_SM", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "SCA", unit = "PCH_PRE", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	keep_flags=FALSE	cflags=TRUE
+0.8.6	id=teszt_id0	stringsAsFactors=FALSE
+0.8.6	id=teszt_id0	verbose=FALSE
+0.8.6	id=teszt_id1	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2008	stringsAsFactors=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=2018	stringsAsFactors=FALSE
+0.8.6	id=teszt_id1	date_filter=22020
+0.8.6	id=teszt_id1	date_filter=<2006<	cache_dir=tempdir()
+0.8.6	id=teszt_id2	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.8.6	id=teszt_id1	filters=2018	cflags=TRUE
+0.8.6	id=teszt_id1	filters=AT
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE
+0.8.6	id=teszt_id1	date_filter=2016
+0.8.6	id=teszt_id1	date_filter=2016	keep_flags=TRUE
+0.8.6	id=teszt_id1	filters=AT	exact_match=FALSE	keep_flags=TRUE	ignore.case=TRUE
+0.8.6	id=teszt_id1	filters=BE$	date_filter=2006-02:2008-06-05	label=TRUE
+0.8.6	id=teszt_id1	filters=BE	date_filter=<2008	cflags=TRUE
+0.8.6	id=teszt_id2	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2017-07-01")	select_freq=M	cflags=TRUE

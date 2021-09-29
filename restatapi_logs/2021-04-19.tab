@@ -1,0 +1,56 @@
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = "DE", indic_bt = "PROD", nace_r2 = "C", s_adj = "SCA", unit = "I15")	date_filter=2020	label=TRUE	name=FALSE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = "DE", indic_bt = "PROD", nace_r2 = "C", s_adj = "SCA", unit = "I15")	date_filter=c(2013:2020)	label=TRUE	name=FALSE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = "DE", indic_bt = "PROD", nace_r2 = "C", s_adj = "SCA", unit = "I15")	date_filter=c(2013:2021)	label=TRUE	name=FALSE
+0.10.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.10.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P3", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.10.0	id=isoc_ci_in_h	filters=list(geo = "EU27", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2020
+0.10.0	id=isoc_ci_in_h	filters=list(geo = "EU27", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2020
+0.10.0	id=isoc_ci_in_h	filters=list(geo = "EU27", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2020
+0.10.0	id=isoc_ci_it_h	filters=list(geo = "EU27", unit = "PC_HH", hhtyp = "TOTAL", indic_is = "H_BROAD")	date_filter=2008:2020
+0.10.0	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.10.0	id=isoc_ci_it_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL", indic_is = "H_BROAD")	date_filter=2008:2018
+0.10.0	id=isoc_ci_in_h	filters=list(geo = "EU27_2020", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2020
+0.10.0	id=isoc_ci_it_h	filters=list(geo = "EU27_2020", unit = "PC_HH", hhtyp = "TOTAL", indic_is = "H_BROAD")	date_filter=2008:2020
+0.10.0	id=isoc_ci_in_h	filters=list(geo = "EU27_2020", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2020
+0.10.0	id=isoc_ci_it_h	filters=list(geo = "EU27_2020", unit = "PC_HH", hhtyp = "TOTAL", indic_is = "H_BROAD")	date_filter=2008:2020
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=tus_00age	filters=list(unit = "spent", age = "total", sex = "total", acl00 = c("sleep", "eat", "^employ", " (family|personal) care", "^leisure", "^study", "except travel"))	exact_match=FALSE	date_filter=2010	label=TRUE	stringsAsFactors=FALSE	force_local_filter=TRUE	ignore.case=TRUE	perl=TRUE
+0.10.3	id=sdg_11_31	filters=get("cc", envir = .restatapi_env)$EU28	label=TRUE
+0.10.3	id=sdg_11_31	filters=get("cc", envir = .restatapi_env)$EU28	label=TRUE
+0.10.3	id=sdg_11_31	filters=get("cc", envir = .restatapi_env)$EU28	label=TRUE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = "DE", indic_bt = "PROD", nace_r2 = "C29", s_adj = "SCA", unit = "I15")	date_filter=c(2014:2021)	label=TRUE	name=FALSE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = c("DE", "EU27_2020", "CZ", "PL", "IT", "ES", "FR", "HU", "RO", "BG"), indic_bt = "PROD", nace_r2 = "C29", s_adj = "SCA", unit = "I15")	date_filter=c(2014:2021)	label=TRUE	name=FALSE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = c("DE", "EU27_2020", "CZ", "PL", "IT", "ES", "FR", "HU", "RO", "BG"), indic_bt = "PROD", nace_r2 = "C29", s_adj = "SCA", unit = "I15")	date_filter=c(2014:2021)	label=TRUE	name=FALSE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = c("DE", "EU27_2020", "CZ", "PL", "IT", "ES", "FR", "HU", "RO", "BG"), indic_bt = "PROD", nace_r2 = "C29", s_adj = "SCA", unit = "I15")	date_filter=c(2014:2021)	label=TRUE	name=FALSE
+0.10.3	id=tolower("STS_INPR_M")	filters=list(geo = c("DE", "EU27_2020", "CZ", "PL", "IT", "ES", "FR", "HU", "RO", "BG"), indic_bt = "PROD", nace_r2 = "C29", s_adj = "SCA", unit = "I15")	date_filter=c(2014:2021)	label=TRUE	name=FALSE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.10.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.10.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.10.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.10.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.10.3	id=tgs00052	stringsAsFactors=FALSE
+0.10.3	id=tgs00047	stringsAsFactors=FALSE
+0.8.10	id=id
+0.8.10	id=hlth_hostay
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.9.8	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.9.8	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "CA", unit = "PCH_SM", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))
+0.9.8	id=sts_inpr_m	filters=list(s_adj = "SCA", unit = "PCH_PRE", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), nace_r2 = c("B-D", "MIG_ING", "MIG_NRG_X_E", "MIG_CAG", "MIG_DCOG", "MIG_NDCOG"))	stringsAsFactors=FALSE
+0.9.8	id=sts_trtu_m	filters=list(NACE_R2 = "G47", INDIC_BT = "TOVV", S_ADJ = "SCA", UNIT = "I15", GEO = "EA19")
+0.9.8	id=une_rt_m	filters=list(age = "TOTAL", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19", "US", "JP"), unit = "PC_ACT")	date_filter=2000:2050
+0.9.8	id=lfsi_pt_q	filters=list(age = "Y15-64", sex = "T", s_adj = "SA", geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), unit = "PC_EMP", worktime = "PT")	date_filter=2000:2050
+0.9.8	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.10.3	id=tps00208
+0.10.3	id=tps00208	date_filter=c(2015, 2016)
+0.10.3	id=tps00208	date_filter=c(2015, 2018)
+0.10.3	id=tps00208	date_filter=c(">2015", "<2018")
+0.10.3	id=tps00208	date_filter=c("2015<", "<2018")
+0.10.3	id=tps00208	date_filter=c("2015<=", "<=2018")
+0.10.3	id=tps00208	date_filter=c("2014<", "<2018")
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE

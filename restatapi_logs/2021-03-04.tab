@@ -1,0 +1,22 @@
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "OLD", spdeps = "SURVIV", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum	filters=list(geo = "PT", unit = "PC_GDP", spdeps = "DISA", spdeps = "FAM", spdeps = "UNEMPLOY", spdeps = "HOUSE", spdeps = "EXCLU")	label=FALSE
+0.9.8	id=spr_exp_sum
+0.9.8	id=(nama_10_gdp
+0.9.8	id=nama_10_gdp
+0.9.8	id=nama_10_gdp	filters=list(geo = "PT", unit = "PC_GDP", NA_ITEM = "B1GQ", unit = "CP_MEUR")	label=FALSE
+0.9.8	id=nama_10_gdp	filters=list(geo = "PT", NA_ITEM = "B1GQ", unit = "CP_MEUR")	label=FALSE
+0.9.8	id=spr_exp_sum
+0.9.8	id=nama_10_gdp
+0.9.8	id=SDG_08_10
+0.9.8	id= DS-575274 	date_filter=2009-03-01:2011-06-05	label=TRUE	stringsAsFactors=FALSE	keep_flags=TRUE
+0.9.8	id= DS-575274 	date_filter=2018	label=TRUE	stringsAsFactors=FALSE	keep_flags=TRUE
+0.9.8	id= DS-575274
+0.9.8	id= DS-575274 	check_toc=TRUE
+0.9.8	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=2012:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=UNE_RT_Q	filters=list(geo = c("ES", "FR"), s_adj = "SA", sex = "T", unit = "PC_ACT", age = "Y15-74")	exact_match=TRUE	date_filter=2011-10:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.9.8	id=NAMA_10R_2GVAGR	filters=list(geo = c("ES62", "ES30"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=LFST_R_LFU3RT	filters=list(geo = c("ES62", "ES30"), sex = "T", unit = "PC", age = "Y15-74")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=A	verbose=FALSE	name=FALSE
+0.9.8	id=NAMA_10R_2GVAGR	filters=list(geo = c("ES62", "ES30"), unit = "PCH_PRE")	exact_match=FALSE	date_filter=2000:2019	label=FALSE	verbose=FALSE	name=FALSE
+0.9.8	id=LFST_R_LFU3RT	filters=list(geo = c("ES62", "ES30"), sex = "T", unit = "PC", age = "Y15-74")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=A	verbose=FALSE	name=FALSE
+0.9.8	id=UNE_RT_Q	filters=list(s_adj = "SA", sex = "T", unit = "PC_ACT", age = "Y15-74")	exact_match=TRUE	date_filter=2000:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE

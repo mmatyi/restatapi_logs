@@ -1,0 +1,289 @@
+0.10.7	id=sdg_01_10
+0.10.7	id=sdg_01_10
+0.10.7	id=sdg_01_10
+0.10.7	id=sdg_01_10a
+0.10.7	id=sdg_01_20
+0.10.7	id=sdg_01_20a
+0.10.7	id=sdg_01_30
+0.10.7	id=sdg_01_40
+0.10.7	id=sdg_01_41
+0.10.7	id=sdg_01_60
+0.10.7	id=sdg_03_60
+0.10.7	id=sdg_06_10
+0.10.7	id=sdg_07_60
+0.10.7	id=sdg_11_10
+0.10.7	id=sdg_01_10	filters=c("ES")
+0.10.7	id=sdg_01_10a	filters=c("ES")
+0.10.7	id=sdg_01_20	filters=c("ES")
+0.10.7	id=sdg_01_20a	filters=c("ES")
+0.10.7	id=sdg_01_30	filters=c("ES")
+0.10.7	id=sdg_01_40	filters=c("ES")
+0.10.7	id=sdg_01_41	filters=c("ES")
+0.10.7	id=sdg_01_60	filters=c("ES")
+0.10.7	id=sdg_03_60	filters=c("ES")
+0.10.7	id=sdg_06_10	filters=c("ES")
+0.10.7	id=sdg_07_60	filters=c("ES")
+0.10.7	id=sdg_11_10	filters=c("ES")
+0.10.7	id=sdg_01_10	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_10a	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_20	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_20a	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_30	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_40	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_41	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_60	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_03_60	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_06_10	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_07_60	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_11_10	filters=c("ES")	date_filter=2014-2021
+0.10.7	id=sdg_01_10	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_10a	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_20	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_20a	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_30	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_40	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_41	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_60	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_03_60	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_06_10	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_07_60	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_11_10	filters=c("ES", "T")	date_filter=2014-2021
+0.10.7	id=sdg_01_10	filters=c("ES", "T", "TOTAL", )	date_filter=2014 - 2021
+0.10.7	id=sdg_01_10	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=c("ES", "T", "TOTAL")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=list(age = "T, sex=T")
+0.10.7	id=sdg_01_10	filters=list(age = "T, sex=T")	exact_match=FALSE
+0.10.7	id=sdg_01_10	filters=list(age = "T", sex = "T")	exact_match=FALSE
+0.10.7	id=sdg_01_10	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=c("ES", "T", "TOTAL", "PC")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_10a	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_20	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_20a	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_30	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_40	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_41	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_60	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_03_60	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_06_10	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_07_60	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_11_10	filters=c("T", "TOTAL", "PC")	date_filter=2019
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=c("T", "TOTAL", "PC")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = c("EU", "EU27_2020", "EU28", "EU27_2007", "EA19", "EA18", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=>2014-01-01
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = c("EU", "EU28", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "UK", "TR", "XK"), age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_10a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_20a	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_30	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_41	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_03_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_06_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_07_60	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_11_10	filters=list(unit = "PC", geo = "ES", age = "TOTAL", sex = "T")	date_filter=c("2014", "2019")
+0.10.7	id=sdg_01_40	filters=list(time = c(2014, 2019), geo = eu_countries$code, sex = "T", unit = "PC", age = "TOTAL")
+0.10.7	id=sdg_01_40	filters=list(time = c(2014, 2019), geo = eu_countries$code, sex = "T", unit = "PC", age = "TOTAL")

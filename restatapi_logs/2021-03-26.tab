@@ -1,0 +1,40 @@
+0.10.0.3	id=urb_cpop1
+0.10.0.3	id=urb_cpop1	filters=unlist(fua$fua_id)
+0.10.0.3	id=urb_cpop1	filters=unique(unlist(fua$fua_id))
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode))
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, ".*"))
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "[0-9]"))
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "[0-9]"))
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "[0-9]"))	verbose=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "[0-9]"), perl = T)	verbose=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "[0-9]"))	verbose=TRUE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d"))	verbose=TRUE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	verbose=TRUE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	verbose=TRUE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0	id=NAMA_10_GDP
+0.10.0	id=nama_10_gdp	update_cache=TRUE	check_toc=TRUE
+0.10.0	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0	id=namaq_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0	id=namq_10_gdp	cflags=TRUE	stringAsFactors=FALSE
+0.10.0	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_cpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE
+0.10.0.3	id=urb_lpop1	filters=c("DE1001V", paste0("^", countrycode, "\\d.*"))	stringsAsFactors=FALSE	perl=TRUE

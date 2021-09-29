@@ -1,0 +1,32 @@
+0.9.8	id=toc_search_txt$code[1]	keep_flags=TRUE
+0.9.8	id=toc_txt$code[1]	keep_flags=TRUE
+0.9.8	id=toc_txt$code[58]	keep_flags=TRUE
+0.9.8	id=toc_txt$code[53]	keep_flags=TRUE
+0.9.8	id=toc_txt$code["nama_10_gdp"]	keep_flags=TRUE
+0.9.8	id=toc_txt$code["nama_10_gdp"]	keep_flags=TRUE	check_toc=TRUE
+0.9.8	id=toc_txt$code["nama_10_gdp"]	keep_flags=TRUE	check_toc=TRUE
+0.9.8	id=toc_search_txt$code[1]	keep_flags=TRUE
+0.9.8	id=toc_search_txt$code[1]	filters=c("RO")	date_filter=c("2013", "2014")	keep_flags=TRUE
+0.9.8	id=toc_search_txt$code[1]	filters=c("AT")	date_filter=c("2017")	keep_flags=TRUE
+0.8.10	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list	stringsAsFactors=FALSE
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list	date_filter=2000:2050
+0.8.10	id=dataset	filters=filter_list
+0.8.10	id=dataset	filters=filter_list
+0.9.8	id=jvs_q_isco_r2	filters=c("Q", "NSA", "JOBVAC")	date_filter=>2018-01-01
+0.9.8	id=jvs_q_isco_r2	filters=c("Q", "NSA", "JOBVAC")	date_filter=>2018-01-01
+0.9.8	id=jvs_q_isco_r2	filters=c("NSA", "JOBVAC")	date_filter=>2018-01-01	select_freq=Q
+0.9.8	id=jvs_q_isco_r2	filters=list(indic_em = "NSA", indic_em = "JOBVAC")	date_filter=>2018-01-01	select_freq=Q
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=>2018-01-01	select_freq=Q
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=>2018-01-01
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=>=2018-01-01
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=>2017-01-01
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018<
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2017<
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2017-12-31<
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018:2020
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=2018:2020	verbose=TRUE
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=c(2018:2020)	verbose=TRUE
+0.9.8	id=jvs_q_isco_r2	filters=list(s_adj = "NSA", indic_em = "JOBVAC")	date_filter=c(2018:2020)	verbose=TRUE
