@@ -1,0 +1,22 @@
+0.11.3	id=NAMA_10_GDP
+0.10.7	id=demo_pjan	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	stringsAsFactors=FALSE
+0.11.3	id=demo_r_d3dens	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_pjanind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_gind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_pjanaggr3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=nama_10r_3gdp	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_d3dens	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_pjanind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_gind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=demo_r_pjanaggr3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.11.3	id=nama_10r_3gdp	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.10.7	id=demo_pjan	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.10.7	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE

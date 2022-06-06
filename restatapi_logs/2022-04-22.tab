@@ -1,0 +1,6 @@
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = c("C", "E", "G", "H", "M", "N", "J", nace_selection), GEO = c(EU27, "EU27_2020"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = c(EU27, "EU27_2020"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = c(EU27, "EU27_2020"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<

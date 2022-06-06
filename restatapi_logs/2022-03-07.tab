@@ -1,0 +1,22 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", GEO = "SE")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = eu$EU27_2020)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = eu$EU27_2020)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = eu$EU27_2020)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", GEO = "SE")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = sweden_nace_selection, GEO = "SE")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = eu$EU27_2020)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = eu$EU27_2020)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = eu$EU27_2020)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", GEO = "SE")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.12.8	id=edat_lfs
+0.12.8	id=edat_lfs_9903
+0.12.8	id=edat_lfs_9903	label=TRUE
+0.12.8	id=edat_lfs_9903	label=TRUE
+0.12.8	id=edat_lfse_04	label=TRUE
+0.12.8	id=edat_lfse_04	label=TRUE
+0.12.8	id=edat_lfs_9903	label=TRUE
+0.12.8	id=edat_lfse_04	label=TRUE
+0.12.8	id=edat_lfs_9903	label=TRUE
+0.12.8	id=edat_lfse_04	label=TRUE

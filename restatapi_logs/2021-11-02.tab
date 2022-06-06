@@ -1,0 +1,57 @@
+0.8.6	id=teina011	filters=PCH_Q1_SCA	date_filter=2020-03:2021-06
+0.8.6	id=DEMO_R_MWK_TS
+0.8.6	id=DEMO_R_MWK_TS
+0.8.6	id=DEMO_R_MWK_TS
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.8.10	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.8.10	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.8.10	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.3	id=lfsa_egan22d
+0.12.3	id=lfsa_egana2d
+0.12.3	id=earn_ses18_04
+0.12.3	id=earn_ses14_04
+0.12.3	id=earn_ses10_04
+0.12.3	id=earn_ses06_04
+0.12.3	id=earn_ses18_27
+0.12.3	id=earn_ses14_27
+0.12.3	id=earn_ses10_27
+0.12.3	id=earn_ses06_27
+0.12.3	id=earn_ses18_30
+0.12.3	id=earn_ses14_30
+0.12.3	id=earn_ses10_30
+0.12.3	id=earn_ses06_30
+0.8.10	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.8.10	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.12.3	id=lfsa_egan22d
+0.12.3	id=lfsa_egana2d
+0.12.3	id=earn_ses18_04
+0.12.3	id=earn_ses14_04
+0.12.3	id=earn_ses10_04
+0.12.3	id=earn_ses06_04
+0.12.3	id=earn_ses18_27
+0.12.3	id=earn_ses14_27
+0.12.3	id=earn_ses10_27
+0.12.3	id=earn_ses06_27
+0.12.3	id=earn_ses18_30
+0.12.3	id=earn_ses14_30
+0.12.3	id=earn_ses10_30
+0.12.3	id=earn_ses06_30
+0.8.10	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.8.10	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.8.10	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.8.10	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.8.10	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.8.10	id=LFSI_EMP_A
+0.8.10	id=LFSI_EMP_A
+0.8.10	id=lfsi_educ_a
+0.8.10	id=ILC_DI03
+0.8.10	id=namq_10_gdp	date_filter=1999-10-01<
+0.8.10	id=namq_10_gdp	date_filter=1999-10-01<
+0.8.10	id=namq_10_gdp	date_filter=1999-10-01<
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120"))
+0.8.10	id=LFSI_EMP_A

@@ -1,0 +1,12 @@
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110")
+0.12.3	id=sbs_na_con_r2	filters=c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110")
+0.12.3	id=sbs_na_dt_r2	filters=c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110")
+0.12.3	id=sbs_na_1a_se_r2	filters=c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110")
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))

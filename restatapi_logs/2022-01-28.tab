@@ -1,0 +1,1 @@
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE

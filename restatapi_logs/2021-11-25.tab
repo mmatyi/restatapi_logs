@@ -1,0 +1,21 @@
+0.12.3	id=rd_p_persage
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	date_filter=c(2013:2019)
+0.12.3	id=educ_uoe_ent02	date_filter=c(2013:2019)
+0.12.3	id=educ_uoe_grad02	date_filter=c(2013:2019)
+0.12.3	id=rd_p_bempoccr2	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persocc	date_filter=c(2013:2019)
+0.12.3	id=rd_p_perssci	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	date_filter=c(2013:(rok - 2))
+0.12.3	id=namq_10_fcs	filters=list(geo == "BE", na_item == "P31_S14", s_adj == "NSA", unit == "CP_MEUR")	stringsAsFactors=FALSE	time_format=function ()  .Internal(date())
+0.12.3	id=namq_10_fcs	filters=list("BE", "P31_S14", "NSA", "CP_MEUR")	stringsAsFactors=FALSE	time_format=function ()  .Internal(date())
+0.12.3	id=namq_10_fcs	filters=list("BE", "P31_S14", "NSA", "CP_MEUR")	stringsAsFactors=FALSE

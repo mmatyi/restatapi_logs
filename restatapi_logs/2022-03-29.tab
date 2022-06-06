@@ -1,0 +1,29 @@
+0.12.8	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.8	id=EI_BSCO_M	filters=c("SK", "SA")
+0.12.8	id=EI_BSIN_M_R2	filters=c("SK", "SA")
+0.12.8	id=EI_BSBU_M_R2	filters=c("SK", "SA")
+0.12.8	id=EI_BSRT_M_R2	filters=c("SK", "SA")
+0.12.8	id=EI_BSSE_M_R2	filters=c("SK", "SA")
+0.12.8	id=ei_bsco_q	filters=c("SK", "SA")
+0.12.8	id=ei_bsin_q_r2	filters=c("SK", "SA")
+0.12.8	id=STS_INPR_M
+0.12.8	id=PRC_HICP_MIDX	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.8	id=ei_lmhr_m	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.8	id=EI_BSCO_M	filters=c("EA19", "SA")
+0.12.8	id=EI_BSIN_M_R2	filters=c("EA19", "SA")
+0.12.8	id=EI_BSBU_M_R2	filters=c("EA19", "SA")
+0.12.8	id=EI_BSRT_M_R2	filters=c("EA19", "SA")
+0.12.8	id=EI_BSSE_M_R2	filters=c("EA19", "SA")
+0.12.8	id=ei_bsco_q	filters=c("EA19", "SA")
+0.12.8	id=ei_bsin_q_r2	filters=c("EA19", "SA")
+0.12.8	id=STS_INPR_M
+0.12.8	id=PRC_HICP_MIDX	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.8	id=ei_lmhr_m	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.8	id=DS-645593	filters=list(REPORTER = "AT", PARTNER = "FR", FLOW = 1, PRODUCT = TOTAL, INDICATORS = "VALUE_IN_EUROS")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=DS-645593	filters=list(REPORTER = "AT", PARTNER = "FR", FLOW = 1, PRODUCT = "TOTAL", INDICATORS = "VALUE_IN_EUROS")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=DS-645593	filters=list(REPORTER = "AT", PARTNER = "FR", FLOW = "IMPORT", PRODUCT = "TOTAL", INDICATORS = "VALUE_IN_EUROS")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=DS-645593	filters=list(REPORTER = "AT", PARTNER = "FR", INDICATORS = "VALUE_IN_EUROS")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=DS-645593
+0.12.8	id=DS-645593	check_toc=TRUE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE

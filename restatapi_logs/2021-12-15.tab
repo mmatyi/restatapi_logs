@@ -1,0 +1,70 @@
+0.10.7	id=demo_r_mwk_05	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	verbose=TRUE	age=c("Total", "Y_LT5", "Y5-9", "Y10-14", "Y15-19", "Y20-24", "Y25-29", "Y30-34", "Y35-39", "Y40-44", "Y45-49", "Y50-54", "Y55-59", "Y60-64", "Y65-69", "Y70-74", "Y75-79", "Y80-84", "Y85-89", "Y_GE90", "UNK")	name=FALSE
+0.10.7	id=demo_r_mwk_05	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"), age = c("Total", "Y_LT5", "Y5-9", "Y10-14", "Y15-19", "Y20-24", "Y25-29", "Y30-34", "Y35-39", "Y40-44", "Y45-49", "Y50-54", "Y55-59", "Y60-64", "Y65-69", "Y70-74", "Y75-79", "Y80-84", "Y85-89", "Y_GE90", "UNK"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	verbose=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_05	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"), age = c("Total", "Y_LT5", "Y5-9", "Y10-14", "Y15-19", "Y20-24", "Y25-29", "Y30-34", "Y35-39", "Y40-44", "Y45-49", "Y50-54", "Y55-59", "Y60-64", "Y65-69", "Y70-74", "Y75-79", "Y80-84", "Y85-89", "Y_GE90", "UNK"))	date_filter=c("2018", "2019", "2020", "2021", "2022")	label=TRUE	verbose=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_05	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"), age = c("Total", "Y_LT5", "Y5-9", "Y10-14", "Y15-19", "Y20-24", "Y25-29", "Y30-34", "Y35-39", "Y40-44", "Y45-49", "Y50-54", "Y55-59", "Y60-64", "Y65-69", "Y70-74", "Y75-79", "Y80-84", "Y85-89", "Y_GE90", "UNK"))	date_filter=c("2018", "2019", "2020", "2021", "2022")	label=TRUE	verbose=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_05	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"), age = c("Total", "Y_LT5", "Y5-9", "Y10-14", "Y15-19", "Y20-24", "Y25-29", "Y30-34", "Y35-39", "Y40-44", "Y45-49", "Y50-54", "Y55-59", "Y60-64", "Y65-69", "Y70-74", "Y75-79", "Y80-84", "Y85-89", "Y_GE90", "UNK"))	date_filter=c("2018", "2019", "2020", "2021", "2022")	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=lfsa_egan22d
+0.12.3	id=lfsa_egana2d
+0.12.3	id=id	filters=NULL
+0.12.3	id=SBS_SC_1B_SE_R2	filters=NULL
+0.12.3	id=SBS_SC_1B_SE_R2	filters=list(geo = "EL", time = 2019)
+0.12.3	id=SBS_SC_1B_SE_R2
+0.12.3	id=SBS_SC_1B_SE_R2
+0.12.3	id=earn_ses18_04
+0.12.3	id=earn_ses14_04
+0.10.7	id=demo_r_mwk_05	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"), age = c("T", "Y_LT5", "Y5-9", "Y10-14", "Y15-19", "Y20-24", "Y25-29", "Y30-34", "Y35-39", "Y40-44", "Y45-49", "Y50-54", "Y55-59", "Y60-64", "Y65-69", "Y70-74", "Y75-79", "Y80-84", "Y85-89", "Y_GE90", "UNK"))	date_filter=c("2018", "2019", "2020", "2021", "2022")	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=earn_ses10_04
+0.12.3	id=earn_ses06_04
+0.12.3	id=sbs_na_ind_r2
+0.12.3	id=sbs_na_con_r2
+0.12.3	id=SBS_SC_1B_SE_R2
+0.12.3	id=earn_ses18_27
+0.12.3	id=earn_ses14_27
+0.12.3	id=earn_ses10_27
+0.12.3	id=earn_ses06_27
+0.12.3	id=earn_ses18_30
+0.12.3	id=earn_ses14_30
+0.12.3	id=earn_ses10_30
+0.12.3	id=earn_ses06_30
+0.12.3	id=sbs_sc_1b_se2_r2
+0.12.3	id=sbs_sc_1b_se2_r2
+0.12.3	id=SBS_SC_1B_SE_R2
+0.12.3	id=sbs_na_con_r2
+0.12.3	id=sbs_sc_ind_r2
+0.12.3	id=SBS_SC_CON_R2
+0.12.3	id=SBS_SC_1B_SE_R2
+0.12.3	id=namq_10_gdp
+0.12.3	id=namq_10_gdp
+0.12.3	id=SBS_SC_DT_R2
+0.12.3	id=irt_st_q
+0.12.3	id=ert_bil_eur_q
+0.12.3	id=env_ac_aigg_q	filters=list("H49-H51", "Q", "THS_T")	date_filter=2010:2019	stringAsFactors=FALSE
+0.12.3	id=env_ac_aigg_q	filters=list("H49-H51", "Q", "THS_T")	date_filter=2010:2019
+0.12.3	id=avia_gooc	filters=list("EU27_2020", "Q", "TOTAL", "TOT", "T")	date_filters=2010:2019
+0.12.3	id=avia_gooc	filters=list("EU27_2020", "Q", "TOTAL", "TOT", "T")	date_filter=2010:2019
+0.12.3	id=avia_gooc	filters=list("EU27_2020", "FRM_BRD", "Q", "TOTAL", "TOT", "T")	date_filter=2010:2019
+0.12.3	id=avia_paoc	filters=list("EU27_2020", "Q", "PAS_BRD", "TOTAL", "TOT", "PAS")	date_filter=2010:2019
+0.12.3	id=env_ac_aigg_q	filters=list("H49-H51", "Q", "THS_T")	date_filter=2010:2019
+0.12.3	id=avia_gooc	filters=list("EU27_2020", "FRM_BRD", "Q", "TOTAL", "TOT", "T")	date_filter=2010:2019
+0.12.3	id=avia_paoc	filters=list("EU27_2020", "Q", "PAS_BRD", "TOTAL", "TOT", "PAS")	date_filter=2010:2019
+0.12.3	id=avia_paoc	filters=list("EU27_2020", "Q", "PAS_BRD", "TOTAL", "TOT", "FLIGHT")	date_filter=2010:2019
+0.12.3	id=avia_paoc	filters=list("EU27_2020", "Q", "PAS_BRD", "TOTAL", "TOT", "FLIGHT")	date_filter=2010:2019
+0.12.3	id=avia_paoc	filters=list("EU27_2020", "Q", "PAS_BRD", "TOTAL", "TOT", "PAS")	date_filter=2010:2019
+0.12.3	id=env_ac_aigg_q	filters=list("H49-H51", "Q", "THS_T")	date_filter=2010:2019
+0.12.3	id=avia_gooc	filters=list("EU27_2020", "FRM_BRD", "Q", "TOTAL", "TOT", "T")	date_filter=2010:2019
+0.12.3	id=EI_BSCO_M	filters=SK	time_format=num
+0.12.3	id=dataset[i]	filters=SK
+0.12.3	id=dataset[i]	filters=SK
+0.12.3	id=dataset[i]	filters=SK
+0.12.3	id=dataset[i]	filters=SK
+0.12.3	id=EI_BSCO_M	filters=SK	time_format=num
+0.12.3	id=EI_BSCO_M	time_format=num
+0.12.3	id=EI_BSCO_M	filters=SK	time_format=num
+0.12.3	id=EI_BSCO_M	filters=SK
+0.12.3	id=EI_BSCO_M	filters=c("SK", "SA")
+0.12.3	id=PRC_HICP_MIDX	filters=SK
+0.12.3	id=PRC_HICP_MIDX	filters=list(unit = "I15", geo = "SK")
+0.12.3	id=PRC_HICP_MIDX	filters=list(unit = "I15", geo = "SK")
+0.12.3	id=PRC_HICP_MIDX	filters=list(unit = "I15", geo = "SK")

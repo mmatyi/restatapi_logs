@@ -1,0 +1,4 @@
+0.12.3	id=bop_c6_q	filters=list(time = c(startPeriod:endPeriod))
+0.12.3	id=bop_c6_q	filters=list(time = listPeriod)
+0.12.3	id=bop_c6_q	filters=list(time = listPeriod)
+0.12.3	id=bop_eu6_q	filters=list(geo = "EU27_2020")

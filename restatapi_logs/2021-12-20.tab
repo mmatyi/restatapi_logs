@@ -1,0 +1,39 @@
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = paste("C", 10:30, sep = ""), geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=FALSE	stringsAsFactors=FALSE
+0.12.7	id=earn_mw_cur
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	date_filter=function (length = 0)  .Internal(vector("double", length))	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.3	id=BOP_EXMS6_Q
+0.12.7	id=earn_mw_cur	label=TRUE	stringAsFactors=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	filters=c("total", "time spent", "travel")	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = paste("C", 10:30, sep = ""), geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = paste("C", 10:30, sep = ""), geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = paste("C", 10:30, sep = ""), geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.3	id=BOP_EXMS6_Q
+0.12.3	id=BOP_EXMS6_Q
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.3	id=BOP_EXMS6_Q
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.3	id=BOP_EXMS6_Q
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE
+0.12.7	id=earn_mw_cur	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ert_bil_eur_q	filters=c("USD", "END")
+0.12.3	id=irt_st_q	filters=c("BG", "IRT_M3")	label=TRUE

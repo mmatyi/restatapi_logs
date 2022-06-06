@@ -1,0 +1,3 @@
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=nrg_101m	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c(2016)
+0.12.8	id=nrg_101m	date_filter=c(2016)

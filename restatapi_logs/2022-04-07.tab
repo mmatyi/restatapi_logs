@@ -1,0 +1,25 @@
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = "PC_GDP", finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = "PC_GDP", finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = "PC_GDP", finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = "PC_GDP", finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = "PC_GDP", finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = "PC_GDP", finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", INDUSE = "TOTAL", GEO = EU27, PROD_NA = Prodcom_CPA)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", INDUSE = "TOTAL", GEO = EU27, PROD_NA = Prodcom_CPA)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE

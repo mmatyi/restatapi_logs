@@ -1,0 +1,10 @@
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = c(EU27_member, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", GEO = c("AT", "BE", "BG", "FI", "LV", "RO"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", GEO = c("AT", "BE", "BG", "FI", "LV", "RO"))	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = "TOTAL", GEO = c("AT", "BE", "BG", "FI", "LV", "RO"))	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = c("R", "S", "T", "U", "R-U"), GEO = c("AT", "BE", "BG", "FI", "LV", "RO"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=FALSE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = c("R", "S", "T", "U", "R-U"), GEO = c("AT", "BE", "BG", "FI", "LV", "RO"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=FALSE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.12.8	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE

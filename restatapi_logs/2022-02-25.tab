@@ -1,0 +1,6 @@
+0.12.8	id=GOV_10DD_EDPT1	date_filter=c("2020")	label=TRUE	cache=FALSE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P51G", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE

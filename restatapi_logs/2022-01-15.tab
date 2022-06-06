@@ -1,0 +1,37 @@
+0.12.3	id=irt_lt_mcby_m
+0.12.3	id=gov_10dd_edpt1
+0.12.3	id=sdg_17_40
+0.12.3	id=spr_exp_pens
+0.12.3	id=DEMO_PJAN
+0.12.3	id=irt_lt_mcby_m
+0.12.3	id=gov_10dd_edpt1
+0.12.3	id=sdg_17_40
+0.12.3	id=spr_exp_pens
+0.12.3	id=DEMO_PJAN
+0.12.3	id=irt_lt_mcby_m
+0.12.3	id=gov_10dd_edpt1
+0.12.3	id=sdg_17_40
+0.12.3	id=spr_exp_pens
+0.12.3	id=DEMO_PJAN
+0.12.3	id=irt_lt_mcby_m
+0.12.3	id=gov_10dd_edpt1
+0.12.3	id=sdg_17_40
+0.12.3	id=spr_exp_pens
+0.12.3	id=DEMO_PJAN
+0.12.3	id=irt_lt_mcby_m
+0.12.3	id=gov_10dd_edpt1
+0.12.3	id=sdg_17_40
+0.12.3	id=spr_exp_pens
+0.12.3	id=DEMO_PJAN
+0.12.3	id=NULL	filters=c("Annual", "Total", "Number")	date_filter=c("2020-01-01", "2020-12-31")
+0.12.3	id=NULL	filters=c("Annual", "Total", "Number")	date_filter=c("2020-01-01", "2020-12-31")	verbose=TRUE
+0.12.3	id=NULL	filters=c("Weekly", "Total", "Number")	date_filter=c("2020-01-01", "2020-12-31")	verbose=TRUE
+0.12.3	id=NULL	filters=c("Annual", "Total", "Number")	verbose=TRUE
+0.12.3	id=NULL	date_filter=c("2020-01-01", "2020-12-31")
+0.12.3	id=NULL	date_filter=c("2020-01-01", "2020-12-31")
+0.12.3	id=NULL	date_filter=c("2020W01", "2020W53")
+0.12.3	id=NULL	date_filter=c("2020-01", "2020-12")
+0.12.3	id=demo_r_pjangrp3	date_filter=c("2020-01", "2020-12")
+0.12.3	id=hlth_cd_acdr2	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.3	id=TPS00029
+0.12.3	id=TPS00029	label=TRUE

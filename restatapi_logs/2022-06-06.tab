@@ -1,0 +1,11 @@
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_mmor
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_mmor

@@ -1,0 +1,4 @@
+0.12.3	id=RD_E_GERDREG	filters=list(sectperf = "TOTAL", unit = "MIO_PPS")	date_filter=2017
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.10	id=ISOC_CI_AC_I

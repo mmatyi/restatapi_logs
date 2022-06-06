@@ -1,0 +1,83 @@
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ENPE_WG_M
+0.12.3	id=sbs_na_ind_r2	filters=ES	exact_match=FALSE	date_filter=c(2012:2014)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.3	id=sbs_na_ind_r2	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.12.3	id=sbs_na_ind_r2	cache_dir=/tmp	stringAsFactors=FALSE
+0.12.3	id=sbs_na_ind_r2	stringAsFactors=FALSE
+0.12.3	id=sbs_na_ind_r2	filters=ES$
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=sbs_na_ind_r2	filters=ES$
+0.12.3	id=env_ac_aigg_q	filters=list("H49-H51", "Q", "THS_T")	date_filter=2010:2019
+0.12.3	id=sbs_na_ind_r2	filters=ES$
+0.12.3	id=sbs_na_con_r2	filters=ES$
+0.12.3	id=sbs_na_dt_r2	filters=ES$
+0.12.3	id=sbs_na_1a_se_r2	filters=ES$
+0.12.3	id=avia_gooc	filters=list("EU27_2020", "FRM_BRD", "Q", "TOTAL", "TOT", "T")	date_filter=2010:2019
+0.12.3	id=sbs_na_ind_r2	filters=ES$
+0.12.3	id=sbs_na_con_r2	filters=ES$
+0.12.3	id=avia_paoc	filters=list("EU27_2020", "Q", "PAS_BRD", "TOTAL", "TOT", "PAS")	date_filter=2010:2019
+0.12.3	id=sbs_na_dt_r2	filters=ES$
+0.12.3	id=sbs_na_1a_se_r2	filters=ES$
+0.12.3	id=sbs_na_ind_r2	filters=ES$
+0.12.3	id=sbs_na_con_r2	filters=ES$
+0.12.3	id=sbs_na_dt_r2	filters=ES$
+0.12.3	id=sbs_na_1a_se_r2	filters=ES$
+0.12.3	id=character(0)	filters=ES$
+0.12.3	id=sbs_na_ind_r2	filters=ES$
+0.12.3	id=avia_par_me	filters=HU	exact_match=FALSE	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.3	id=DS-645593	filters=HU	exact_match=FALSE	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.7	id=DS-645593	select_freq=A	cache=FALSE
+0.12.7	id=DS-645593
+0.12.7	id=DS-645593
+0.12.7	id=DS-645593	filters=list(bop_item = "A", partner = "DE", reporter = "DE", product = c(807, 80710, 8071010, 8071090, 80711, 8071100, 80719, 8071900, 814, 81400, 8140000), flow = "1", indicators = "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", partner = "DE", reporter = "DE", product = c(807, 80710, 8071010, 8071090, 80711, 8071100, 80719, 8071900, 814, 81400, 8140000), flow = "1", indicators = "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", partner = "DE", product = c(807, 80710, 8071010, 8071090, 80711, 8071100, 80719, 8071900, 814, 81400, 8140000), flow = "1", indicators = "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", product = c(807, 80710, 8071010, 8071090, 80711, 8071100, 80719, 8071900, 814, 81400, 8140000), flow = "1", indicators = "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", product = 80710, flow = "1", indicators = "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", product = "080710", flow = "1", indicators = "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", product = "080710", flow = "1", indicators = "QUANTITY_IN_100KG")	cache_dir=file.path(tempdir(), "restatapi")
+0.12.7	id=DS-645593	filters=list(bop_item = "A", product = "080710", flow = "1", indicators = "QUANTITY_IN_100KG")	cache_dir=file.path(tempdir(), "restatapi")
+0.12.7	id=DS-645593	filters=list(freq = "A", product = "080710", flow = "1", indicators = "QUANTITY_IN_100KG")	cache_dir=file.path(tempdir(), "restatapi")
+0.12.7	id=DS-645593
+0.12.7	id=DS-645593	select_freq=A
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1", freq = "M")
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1", freq = "202052")
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=Jan.-Dec. 2020
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2009-03:2011-06-05
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2019
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=202052
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=202052
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2020[-05][-01]
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2020
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2020
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2020
+0.12.7	id=DS-645593
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2020
+0.12.7	id=DS-645593	filters=list(indicators = "QUANTITY_IN_100KG", reporter = "EU", product = "080711", partner = "DE", flow = "1")	date_filter=2020	check_toc=TRUE
+0.12.7	id=DS-645593	filters=c("QUANTITY_IN_100KG")	date_filter=2020
+0.12.7	id=DS-645593	filters=c("QUANTITY_IN_100KG", "EU", "080711", "DE", "1")	date_filter=2020
+0.12.7	id=DS-645593	filters=c("A", "EU", "DE", "080711", 1, "QUANTITY_IN_100KG")	date_filter=2020
+0.12.7	id=DS-645593	filters=c("A", "EU", "DE", "080711", "1", "QUANTITY_IN_100KG")	date_filter=2020
+0.12.7	id=DS-645593	filters=c("A", "EU", "DE", "080711", "1", "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=c("A", "EU", "DE", "080711", 1, "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=c("202052", "EU", "DE", "080711", 1, "QUANTITY_IN_100KG")
+0.12.7	id=DS-645593	filters=c("EU", "DE", "080711", 1, "QUANTITY_IN_100KG")
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=BOP_GDP6_Q	time_format=num
+0.12.3	id=EI_BSCO_M	filters=c("SK", "SA")
+0.12.3	id=EI_BSIN_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSBU_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSRT_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSSE_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSCO_M	filters=c("SK", "SA")
+0.12.3	id=EI_BSIN_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSBU_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSRT_M_R2	filters=c("SK", "SA")
+0.12.3	id=EI_BSSE_M_R2	filters=c("SK", "SA")
+0.12.3	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.3	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.3	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.3	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }

@@ -1,0 +1,14 @@
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.12.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.12.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.13.1	id=NAMA_10_GDP
+0.13.1	id=nama_10_gdp	update_cache=TRUE	check_toc=TRUE
+0.13.1	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.13.1	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.12.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<

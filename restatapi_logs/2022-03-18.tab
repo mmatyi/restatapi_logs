@@ -1,0 +1,40 @@
+0.12.8	id=PRC_HICP_AIND	filters=A.INX_A_AVG.CP00.EU EU27_2020 EU28 EA EA19 EA18 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US
+0.12.8	id=PRC_HICP_AIND	filters=A.INX_A_AVG.CP00.EU EU27_2020 EU28 EA EA19 EA18 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US
+0.12.8	id=PRC_HICP_AIND
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE	keep_flags=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE	keep_flags=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=FALSE	keep_flags=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=FALSE	keep_flags=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=FALSE	keep_flags=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=FALSE	keep_flags=TRUE
+0.12.8	id=PRC_HICP_AIND	filters=paste0("A.INX_A_AVG.CP00.EU EU27_2020 EU28 ", "EA EA19 EA18 BE BG CZ DK DE ", "EE IE EL ES FR HR IT CY LV LT ", "LU HU MT NL AT PL PT RO SI SK FI SE EEA IS NO CH UK MK RS TR US")	label=TRUE
+0.12.8	id=PRC_HICP_AIND
+0.12.8	id=LC_LCI_R2_A
+0.12.8	id=LC_LCI_R2_A	labels=TRUE
+0.12.8	id=LC_LCI_R2_A	label=TRUE
+0.12.8	id=STS_COPI_A
+0.12.8	id=STS_INPP_A
+0.12.8	id=PRC_HICP_AIND
+0.12.8	id=PRC_HICP_AIND	date_filter=c("1996")
+0.12.8	id=PRC_HICP_AIND	date_filter=c("1996", NA)
+0.12.8	id=LC_LCI_R2_A
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P3", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P3", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P3", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=PRC_HICP_AIND	filters=list(FREQ = "A")
+0.12.8	id=PRC_HICP_AIND	filters=list(FREQ = "A", UNIT = "CP00")
+0.12.8	id=PRC_HICP_AIND	filters=list(FREQ = "A", UNIT = "CP00")
+0.12.8	id=apri_pi15_ina
+0.12.8	id=apri_pi15_ina
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.12.8	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "P3", unit = "CLV10_MEUR")	exact_match=TRUE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE

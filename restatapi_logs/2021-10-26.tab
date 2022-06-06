@@ -1,0 +1,23 @@
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.12.3	id=lfsa_egan22d
+0.12.3	id=lfsa_egana2d
+0.12.3	id=earn_ses18_04
+0.12.3	id=earn_ses14_04
+0.12.3	id=earn_ses10_04
+0.12.3	id=earn_ses06_04
+0.12.3	id=earn_ses18_27
+0.12.3	id=earn_ses14_27
+0.12.3	id=earn_ses10_27
+0.12.3	id=earn_ses06_27
+0.12.3	id=earn_ses18_30
+0.12.3	id=earn_ses14_30
+0.12.3	id=earn_ses10_30
+0.12.3	id=earn_ses06_30
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))

@@ -1,0 +1,23 @@
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_pganws	select_freq=A	cache=FALSE
+0.10.7	id=edat_lfse_20	select_freq=A	cache=FALSE
+0.12.3	id=demo_r_d3dens	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.12.3	id=demo_r_pjanind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.12.3	id=demo_r_gind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.12.3	id=demo_r_pjanaggr3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.12.3	id=nama_10r_3gdp	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp	filters=list(unit = "CP_MEUR")	date_filter=2010:2020
+0.12.3	id=naida_10_gdp	filters=list(unit = "CP_MEUR")	date_filter=2010:2020	verbose=TRUE
+0.12.3	id=naida_10_gdp	date_filter=2010:2020	verbose=TRUE
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp
+0.12.3	id=naida_10_gdp	stringsAsFactors=FALSE

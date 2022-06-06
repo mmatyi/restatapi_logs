@@ -1,0 +1,11 @@
+0.12.3	id=namq_10_a10
+0.9.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.9.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.9.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE

@@ -1,0 +1,32 @@
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.8	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.8	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")
+0.12.8	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")
+0.12.8	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")	label=TRUE
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_manr	label=TRUE
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_manr	label=TRUE
+0.12.8	id=prc_hicp_mmor
+0.12.8	id=prc_hicp_mmor	label=TRUE

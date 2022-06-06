@@ -1,0 +1,2 @@
+0.12.8	id=ert_bil_eur_q	filters=c("USD", "END")
+0.12.8	id=irt_st_q	filters=c("BG", "IRT_M3")	label=TRUE

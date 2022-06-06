@@ -1,0 +1,23 @@
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_midx	label=TRUE
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_manr	label=TRUE
+0.12.8	id=prc_hicp_mmor
+0.12.8	id=prc_hicp_mmor	label=TRUE
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	label=TRUE
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	label=TRUE
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	label=TRUE
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	label=TRUE
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	label=TRUE
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	label=TRUE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE

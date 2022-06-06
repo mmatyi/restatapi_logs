@@ -1,0 +1,2 @@
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = c("TOTAL", "P7", "TS_BP", "OTTM"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE

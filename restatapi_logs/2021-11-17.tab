@@ -1,0 +1,24 @@
+0.12.3	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")
+0.12.3	id=prc_hicp_midx	filters=list(geo = "AT", unit = "I15")
+0.10.0	id=prc_hicp_midx
+0.10.0	id=prc_hicp_midx
+0.10.0	id=prc_hicp_midx	filters=M.I15.CP00 TOT_X_NRG_FOOD SERV SERV_TRA GD IGD_NNRG NRG FOOD.LT.P1M.
+0.10.0	id=prc_hicp_midx	filters=M.I15.CP00 TOT_X_NRG_FOOD SERV SERV_TRA GD IGD_NNRG NRG FOOD.LT.
+0.10.0	id=prc_hicp_midx	filters=I15
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT")
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.10.0	id=prc_hicp_midx	filters=c("I15", "LT", "TOT_X_NRG_FOOD", "SERV", "SERV_TRA", "GD", "IGD_NNRG", "NRG", "FOOD")	label=TRUE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes")	label=TRUE	update_cache=TRUE	verbose=TRUE

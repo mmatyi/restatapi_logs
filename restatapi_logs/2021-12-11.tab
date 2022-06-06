@@ -1,0 +1,2 @@
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	verbose=TRUE	name=FALSE
+0.8.10	id=nama_10_co3_p3	label=TRUE

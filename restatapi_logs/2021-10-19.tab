@@ -1,0 +1,38 @@
+0.12.3	id=lfsa_egana2d
+0.11.3	id=demo_gind
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = "EU28", stk_flow = stk_flow_var)	date_filter=2010:2017
+0.11.3	id=demo_gind
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.11.3	id=demo_gind
+0.12.3	id=earn_ses18_04
+0.11.3	id=teina010
+0.11.3	id=teina011
+0.11.3	id=teina031
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=teina010
+0.11.3	id=teina011
+0.11.3	id=teina031
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=teina010
+0.11.3	id=teina011
+0.11.3	id=teina031
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=teina010
+0.11.3	id=teina011
+0.11.3	id=teina031
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=gov_10a_main
+0.11.3	id=NAMQ_10_GDP
+0.11.3	id=teina010
+0.11.3	id=teina011
+0.11.3	id=gov_10a_main
+0.11.3	id=NAMQ_10_GDP
+0.11.3	id=DEMO_R_MWK_TS

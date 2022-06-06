@@ -1,0 +1,17 @@
+0.12.8	id=NAMA_10_GDP
+0.12.8	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.12.8	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=avia_gonc	select_freq=A	cache=FALSE
+0.12.8	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.12.8	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.12.8	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.12.8	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.12.8	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.12.8	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.12.8	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.12.8	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.10.7	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.10.7	id=nama_10_gdp	stringsAsFactors=FALSE	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE

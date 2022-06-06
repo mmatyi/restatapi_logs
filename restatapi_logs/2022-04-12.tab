@@ -1,0 +1,13 @@
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE

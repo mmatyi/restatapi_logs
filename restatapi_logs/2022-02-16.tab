@@ -1,0 +1,64 @@
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.8	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.7	id=nrg_chddr2_a
+0.12.7	id=nrg_chddr2_a	filters=AT
+0.12.7	id=nrg_chddr2_a	filters=AT
+0.12.7	id=nrg_chddr2_a
+0.12.8	id=nrg_chddr2_a	filters=AT
+0.12.8	id=nrg_chddr2_a	filters=AT
+0.12.8	id=nrg_chddr2_a
+0.12.8	id=nrg_chddr2_a
+0.12.8	id=nrg_chddr2_a	filters=AT
+0.12.8	id=nrg_chddr2_a	filters=AT	force_local_filter=TRUE
+0.12.8	id=nrg_chddr2_a	filters=AT	force_local_filter=TRUE
+0.12.7	id=nrg_chddr2_a	filters=AT
+0.12.7	id=nrg_chddr2_a	filters=AT	force_local_filter=TRUE
+0.12.7	id=nrg_chddr2_a	filters=AT	force_local_filter=TRUE
+0.12.7	id=nrg_chddr2_a
+0.12.7	id=nrg_te_oilm	filters=EU28
+0.12.8	id=nrg_te_oilm	filters=EU28
+0.12.8	id=nrg_te_oilm	filters=EU28	verbose=TRUE
+0.12.8	id=nrg_te_oilm	filters=EU28	verbose=TRUE
+0.12.7	id=nrg_te_oilm	filters=EU28
+0.12.7	id=nrg_te_oilm	filters=EU28
+0.12.8	id=nrg_te_oilm	filters=EU28	verbose=TRUE
+0.12.7	id=nrg_te_oilm
+0.12.8	id=nrg_te_oilm	filters=EU28	verbose=TRUE
+0.12.7	id=nrg_te_oilm
+0.12.8	id=nrg_cb_gas	filters=EU28	force_local_filter=TRUE
+0.12.8	id=nrg_cb_gas
+0.12.8	id=nrg_cb_gas
+0.12.8	id=nrg_cb_gas
+0.12.8	id=nrg_cb_gas
+0.12.8	id=nrg_cb_gas
+0.12.8	id=nrg_cb_oil
+0.12.8	id=nrg_stk_oil
+0.12.8	id=nrg_stk_gas
+0.12.8	id=nrg_ti_oil
+0.12.8	id=nrg_ti_gas
+0.12.8	id=nrg_te_gas
+0.12.8	id=nrg_ti_oilm
+0.12.8	id=nrg_te_oilm
+0.12.8	id=nrg_stk_oom
+0.12.8	id=nrg_stk_oam
+0.12.8	id=nrg_122m
+0.12.8	id=nrg_125m
+0.12.8	id=nrg_132m
+0.12.8	id=nrg_135m
+0.12.8	id=nrg_ind_342m
+0.12.8	id=nrg_101m
+0.12.8	id=nrg_102m
+0.12.8	id=nrg_103m
+0.12.8	id=nrg_105m
+0.12.8	id=nrg_123m
+0.12.8	id=nrg_124m
+0.12.8	id=nrg_133m
+0.12.8	id=nrg_134m
+0.12.8	id=nrg_141m
+0.12.8	id=nrg_142m

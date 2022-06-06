@@ -1,0 +1,90 @@
+0.12.8	id=NAMA_10_GDP
+0.12.8	id=NAMA_10_GDP
+0.12.8	id=NAMA_10_GDP
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.7	id=nrg_cb_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_cb_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_cb_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_cb_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_cb_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_cb_oil	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_stk_oil	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_stk_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_ti_oil	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_ti_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_te_gas	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_122m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_125m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_132m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_135m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_ind_342m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_101m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_102m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_103m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_105m	filters=EU28	force_local_filter=TRUE
+0.12.7	id=nrg_123m	filters=EU28	force_local_filter=TRUE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.12.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.1	id=irt_lt_mcby_m
+0.13.1	id=gov_10dd_edpt1
+0.13.1	id=sdg_17_40
+0.13.1	id=spr_exp_pens
+0.13.1	id=DEMO_PJAN
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.12.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE

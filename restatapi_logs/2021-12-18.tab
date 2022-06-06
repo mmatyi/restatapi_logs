@@ -1,0 +1,9 @@
+0.12.3	id=EI_BSCO_M	filters=c("SK", "SA")
+0.12.3	id=PRC_HICP_MIDX	filters=list(unit = "I15", geo = "SK")
+0.12.3	id=PRC_HICP_MIDX	filters=I15
+0.12.3	id=EI_BSCO_M	filters=c("SK", "SA")
+0.12.3	id=PRC_HICP_MIDX	time_format=num
+0.12.3	id=PRC_HICP_MIDX	time_format=num
+0.12.3	id=PRC_HICP_MIDX	time_format=num
+0.12.3	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021", "2022")	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=TPS00203	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }

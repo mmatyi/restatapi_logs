@@ -1,0 +1,46 @@
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_pganws	select_freq=A	cache=FALSE
+0.10.7	id=edat_lfse_20	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpnig	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpshi	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpsun	select_freq=A	cache=FALSE
+0.10.7	id=ilc_iw01	select_freq=A	cache=FALSE
+0.10.7	id=trng_lfs_09	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_agaed	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_pganws	select_freq=A	cache=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	name=FALSE
+0.10.7	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	verbose=TRUE	name=FALSE
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE	verbose=TRUE
+0.10.7	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.10.7	id=edat_lfse_20	select_freq=A	cache=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(time = "2020", sex = "T")
+0.12.3	id=demo_r_pjangrp3
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE

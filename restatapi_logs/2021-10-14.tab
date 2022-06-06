@@ -1,0 +1,22 @@
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.12.3	id=tesem160	label=TRUE
+0.12.3	id=tesem160	label=TRUE
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_cb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_cb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_cb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_cb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("CPA_E37-39", "P1", "TOTAL"))
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=DS-066341	filters=list(PRCCODE = 20132111)
+0.12.3	id=DS-066341	filters=list(prccode = 20132111)
+0.12.3	id=DS-066341	filters=list(prccode = "20132111")
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind

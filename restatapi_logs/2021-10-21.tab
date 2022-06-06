@@ -1,0 +1,35 @@
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.12.3	id=earn_ses18_27
+0.11.3	id=demo_gind
+0.12.3	id=earn_ses14_27
+0.12.3	id=earn_ses10_27
+0.12.3	id=earn_ses06_27
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.11.3	id=demo_gind
+0.12.3	id=earn_ses18_30
+0.12.3	id=earn_ses14_30
+0.11.3	id=demo_gind
+0.12.3	id=earn_ses10_30
+0.12.3	id=earn_ses06_30
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V12150", "V16140", "V15110", "V15130", "V15140", "V15150", "V92111"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=demo_r_pjangroup
+0.12.3	id=demo_r_pjangroup
+0.10.0	id=gov_10a_main	labels=TRUE
+0.10.0	id=gov_10a_main	labels=TRUE
+0.10.0	id=gov_10a_main	labels=TRUE	name=TRUE
+0.10.0	id=gov_10a_main
+0.10.0	id=gov_10a_main
+0.10.0	id=gov_10a_main
+0.10.0	id=gov_10a_main
+0.10.0	id=gov_10a_main
+0.10.0	id=gov_10a_main

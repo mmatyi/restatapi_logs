@@ -1,0 +1,21 @@
+0.12.3	id=t2020_35	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes")	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=t2020_35	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.10.7	id=lfsa_sup_age	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_pganws	select_freq=A	cache=FALSE
+0.10.7	id=edat_lfse_20	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpnig	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpshi	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_ewpsun	select_freq=A	cache=FALSE
+0.10.7	id=ilc_iw01	select_freq=A	cache=FALSE
+0.10.7	id=trng_lfs_09	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_agaed	select_freq=A	cache=FALSE
+0.10.7	id=lfsa_egaed	select_freq=A	cache=FALSE
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes")	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=t2020_35	label=TRUE	update_cache=TRUE	verbose=TRUE

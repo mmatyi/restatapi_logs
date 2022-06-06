@@ -1,0 +1,10 @@
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.11.3	id=teina011	filters=PCH_Q1_SCA	date_filter=2020-03:2021-06
+0.11.3	id=teina011	filters=PCH_Q1_SCA	date_filter=2019-12:2021-06
+0.11.3	id=teina011	filters=PCH_Q1_SCA	date_filter=2019-12:2021-06
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=DEMO_R_MWK_TS
+0.11.3	id=gov_10a_main

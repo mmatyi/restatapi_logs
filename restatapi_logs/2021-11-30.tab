@@ -1,0 +1,54 @@
+0.12.3	id=rd_p_persage	date_filter=c(2013:(rok - 2))
+0.12.3	id=rd_p_persage	date_filter=c(2013:(rok - 2))
+0.12.3	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=....CH	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", age = "TOTAL")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH..", age = "TOTAL")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH...", age = "TOTAL")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH...", age = "TOTAL", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH...", age = "TOTAL", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH...", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	update_cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_r_pjangrp3	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjanagr	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = "T")	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.12.3	id=BOP_GDP6_Q	filters=list((geo = c("SK")))
+0.12.3	id=BOP_GDP6_Q	filters=c("SK")
+0.12.3	id=BOP_GDP6_Q	filters=c("SK")	label=TRUE
+0.12.3	id=BOP_GDP6_Q	filters=c("SK")	update_cache=TRUE
+0.12.3	id=bop_gdp6_q	filters=c("SK")	select_freq=M
+0.12.3	id=bop_gdp6_q	filters=SK	select_freq=M
+0.12.3	id=bop_gdp6_q	filters=SK	label=TRUE	select_freq=M	verbose=TRUE
+0.12.3	id=bop_gdp6_q	filters=SK	label=TRUE	select_freq=M	verbose=TRUE	name=FALSE
+0.12.3	id=bop_gdp6_q	filters=SK	exact_match=FALSE	label=TRUE	select_freq=M	verbose=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	filters=SK	exact_match=FALSE	label=TRUE	select_freq=M	verbose=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	filters=SK	exact_match=FALSE	label=TRUE	select_freq=M	verbose=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	filters=SK	exact_match=FALSE	label=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	filters=SK	exact_match=FALSE	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	filters=SK	exact_match=FALSE	label=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	exact_match=FALSE	label=TRUE	name=FALSE
+0.12.3	id=BOP_GDP6_Q	label=TRUE	name=FALSE

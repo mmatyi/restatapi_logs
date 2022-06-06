@@ -1,0 +1,15 @@
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = "EU27_2020")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G", "P1", "D1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = "EU27_2020")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G", "P1", "D1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = "EU27_2020")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G", "P1", "D1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = "EU27_2020")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = "TOTAL", UNIT = "MIO_EUR", PROD_NA = cpa_selection)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = "OTTM", UNIT = "MIO_EUR", PROD_NA = cpa_selection)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = "TOTAL", UNIT = "MIO_EUR", PROD_NA = "TOTAL")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = "TOTAL", UNIT = "MIO_EUR", PROD_NA = "TOTAL", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = "TOTAL", UNIT = "CP_MEUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = "TOTAL", UNIT = "CP_MEUR", GEO = EU27, NA_ITEM = "P1")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(STK_FLOW = "TOTAL", UNIT = "MIO_EUR", GEO = EU27, INDUSE = "TFU", PROD_NA = "CPA_M72")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = "TOTAL", UNIT = "MIO_EUR", PROD_NA = cpa_selection)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE

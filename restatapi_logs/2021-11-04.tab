@@ -1,0 +1,7 @@
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=NAMA_10_GDP
+0.12.3	id=NAMA_10_GDP
+0.12.3	id=urb_cpopcb

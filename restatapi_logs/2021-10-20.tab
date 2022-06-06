@@ -1,0 +1,13 @@
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=namq_10_gdp	filters=list(unit = "CLV15_MEUR", na_item = "B1GQ", s_adj = "SCA", geo = c("EU27_2020", "EU28", "EU15", "EA", "EA19", "EA12", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "IS", "NO", "CH", "UK", "ME", "MK", "AL", "RS", "TR", "BA", "XK"))	exact_match=FALSE	date_filter=c(2000:2021)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.3	id=namq_10_gdp	filters=list(unit = "CLV15_MEUR", na_item = "B1GQ", s_adj = "SCA", geo = c("EU27_2020", "EU28", "EU15", "EA", "EA19", "EA12", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "IS", "NO", "CH", "UK", "ME", "MK", "AL", "RS", "TR", "BA", "XK"))	exact_match=FALSE	date_filter=c(2000:2021)	label=FALSE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.3	id=namq_10_gdp	filters=list(unit = "CLV15_MEUR", na_item = "B1GQ", s_adj = "SCA", geo = c("EU27_2020", "EU28", "EU15", "EA", "EA19", "EA12", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "IS", "NO", "CH", "UK", "ME", "MK", "AL", "RS", "TR", "BA", "XK"))	exact_match=FALSE	date_filter=c(time_wanted)	label=FALSE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.3	id=namq_10_gdp	filters=list(unit = "CLV15_MEUR", na_item = "B1GQ", s_adj = "SCA", geo = c("EU27_2020", "EU28", "EU15", "EA", "EA19", "EA12", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE", "IS", "NO", "CH", "UK", "ME", "MK", "AL", "RS", "TR", "BA", "XK"))	exact_match=FALSE	date_filter=c(2000:2021)	label=FALSE	select_freq=Q	verbose=TRUE	name=FALSE
+0.12.3	id=sdg_01_10
+0.12.3	id=sdg_01_10	filters=c("ES", 2014:2019)
+0.12.3	id=sdg_01_10	filters=c("ES", 2014:2019, "T", "TOTAL")
+0.12.3	id=sdg_01_10	filters=c("ES", 2014:2019, "T", "TOTAL", "PC")
+0.12.3	id=sdg_01_10	filters=list(geo = "ES", unit = "PC", sex = "T", age = "TOTAL")
+0.12.3	id=earn_ses14_04
+0.12.3	id=earn_ses10_04
+0.12.3	id=earn_ses06_04

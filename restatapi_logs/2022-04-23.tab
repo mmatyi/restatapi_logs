@@ -1,0 +1,24 @@
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_inw	filters=list(geo = all_countries, time = "2022")
+0.12.8	id=prc_hicp_inw	filters=list(geo = all_countries, time = "2022")
+0.12.8	id=prc_hicp_inw	filters=list(geo = all_countries, time == "2022")
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_manr	date_filter=function (x, ...)  UseMethod("time")
+0.12.8	id=prc_hicp_manr	date_filter=2022
+0.12.8	id=prc_hicp_manr	date_filter=2022-03
+0.12.8	id=prc_hicp_manr	date_filter=2022-03
+0.12.8	id=prc_hicp_manr	date_filter=2022[-03]
+0.12.8	id=prc_hicp_manr	date_filter=2022-03
+0.12.8	id=prc_hicp_manr	date_filter=2022-03
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_manr	date_filter=2022-03
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_inw	date_filter=2022
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr

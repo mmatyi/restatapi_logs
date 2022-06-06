@@ -1,0 +1,9 @@
+0.13.1	id=irt_lt_mcby_m
+0.13.1	id=gov_10dd_edpt1
+0.13.1	id=sdg_17_40
+0.13.1	id=spr_exp_pens
+0.13.1	id=DEMO_PJAN
+0.13.1	id=nama_10_a64	filters=list(UNIT = "CP_MEUR", GEO = EU27, NA_ITEM = "P1")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(STK_FLOW = "TOTAL", UNIT = "MIO_EUR", GEO = EU27, INDUSE = "TFU", PROD_NA = "CPA_M72")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = nace_selection, UNIT = "CP_MEUR", GEO = EU27, NA_ITEM = "P1")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(STK_FLOW = "TOTAL", UNIT = "MIO_EUR", GEO = EU27, INDUSE = "TFU", PROD_NA = "CPA_M72")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE

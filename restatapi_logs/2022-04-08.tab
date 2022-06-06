@@ -1,0 +1,4 @@
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE

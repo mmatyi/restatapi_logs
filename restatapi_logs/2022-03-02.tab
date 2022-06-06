@@ -1,0 +1,10 @@
+0.12.8	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.12.8	id=DS-645593	date_filter=2020	label=TRUE	name=FALSE
+0.12.8	id=DS-645593
+0.12.8	id=DS-645593	check_toc=TRUE
+0.12.8	id=DS-645593	check_toc=TRUE
+0.12.8	id=namq_10_gdp	date_filter=1999-10-01<
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.12.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<

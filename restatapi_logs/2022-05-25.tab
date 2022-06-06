@@ -1,0 +1,23 @@
+0.13.1	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.13.1	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G", "P1", "D1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = "EU27_2020")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=ext_tec03	select_freq=A	cache=FALSE
+0.13.1	id=ext_tec03	filters=c("RU", "Monthly")	cache=FALSE
+0.13.1	id=ext_tec03	filters=c("RU")	cache=FALSE
+0.13.1	id=ext_tec03	filters=c("M", "RU")	cache=FALSE
+0.13.1	id=ext_tec03	filters=c("RU")	select_freq=M	ache=FALSE
+0.13.1	id=ext_tec03	filters=c("RU")	select_freq=M	cache=FALSE
+0.13.1	id=ext_tec03	select_freq=M	cache=FALSE
+0.13.1	id=ext_tec03	filters=c("RU")	select_freq=M	cache=FALSE
+0.13.1	id=ext_tec03	filters=c("RU")	cache=FALSE
+0.13.1	id=ext_lt_maineu	filters=c("RU")	cache=FALSE
+0.13.1	id=ext_lt_maineu	filters=c("RU")	select_freq=M	cache=FALSE
+0.13.1	id=ext_lt_maineu	select_freq=M	cache=FALSE
+0.13.1	id=ext_lt_maineu	filters=c("RU")	cache=FALSE
+0.13.1	id=ext_lt_mainez	select_freq=A	cache=FALSE
+0.13.1	id=ext_st_eu27_2020sitc	select_freq=M	cache=FALSE
+0.13.1	id=ext_st_eu27_2020sitc	filters=c("RU")	select_freq=M	cache=FALSE
+0.13.1	id=ei_eteu27_2020_m	filters=c("RU")	select_freq=M	cache=FALSE
+0.13.1	id=DS-059301	filters=c("RU")	select_freq=M	cache=FALSE

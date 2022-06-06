@@ -1,0 +1,32 @@
+0.12.8	id=avia_par_me	select_freq=A	cache=FALSE
+0.12.8	id=GOV_10DD_EDPT1	select_freq=A	cache=FALSE
+0.12.8	id=GOV_10DD_EDPT1	select_freq=A	cache=FALSE	verbose=TRUE
+0.12.8	id=GOV_10DD_EDPT1	date_filter=c("2020")	cache=FALSE	verbose=TRUE
+0.12.8	id=GOV_10DD_EDPT1	date_filter=c("2020")	label=TRUE	cache=FALSE
+0.12.8	id=GOV_10DD_EDPT1	date_filter=c("2020")	label=TRUE	cache=FALSE
+0.12.8	id=demo_r_pjangrp3
+0.12.8	id=sbs_sc_ind_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_con_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_dt_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_1b_se_r2	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3
+0.12.8	id=sbs_sc_ind_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_con_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_dt_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_1b_se_r2	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3
+0.12.8	id=sbs_sc_ind_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_con_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_dt_r2	stringsAsFactors=FALSE
+0.12.8	id=sbs_sc_1b_se_r2	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.8	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE

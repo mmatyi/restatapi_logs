@@ -1,0 +1,24 @@
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=id2	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_pop3ctb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_pop3ctb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_pop3ctb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec01	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = 2015:2019, partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", nace_r2 = nace_codes$NACE.Code, geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.12.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = "RO", time = as.character(c(2015:2019)), partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.12.3	id=ext_tec05	label=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.12.3	id=ext_tec01	label=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.12.3	id=ext_tec05	label=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.12.3	id=ext_tec05	label=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=DS-575274	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE

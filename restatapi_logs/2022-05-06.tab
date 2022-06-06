@@ -1,0 +1,31 @@
+0.13.1	id=naio_10_cp1610	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp1610	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp16	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = EU27)	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = c("TOTAL", "OTTM"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = c("TOTAL", "OTTM"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = c("TOTAL", "OTTM"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = c("TOTAL", "OTTM"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = nace_selction, UNIT = "MIO_EUR", PROD_NA = c("CPA_M72", "TOTAL"), GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = nace_selction, UNIT = "MIO_EUR", PROD_NA = c("CPA_M72", "TOTAL"), GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=naio_10_cp15	filters=list(INDUSE = nace_selection, UNIT = "MIO_EUR", PROD_NA = c("CPA_M72", "TOTAL"), GEO = c(EU27, "EU27_2020"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=prc_hicp_aind	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=EA19	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=eu$EA19	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("eu$EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE

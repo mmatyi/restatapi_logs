@@ -1,0 +1,21 @@
+0.12.8	id=edat_lfs_9903	label=TRUE
+0.12.8	id=edat_lfse_04	label=TRUE
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_mmor
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_mmor
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_mmor
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_manr
+0.12.8	id=prc_hicp_mmor
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.12.3	id=reg_area3	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2021")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.1	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE

@@ -1,0 +1,30 @@
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.12.3	id=NAMA_10_GDP
+0.12.3	id=NAMA_10_GDP
+0.12.3	id=nama_10_gdp
+0.12.3	id=nama_10_gdp
+0.12.3	id=nama_10_gdp
+0.12.3	id=NAMA_10_GDP
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=naio_10_cp1610
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=t2020_35	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130", "V12150", "V12120", "V15110"))
+0.12.3	id=NAMA_10_GDP

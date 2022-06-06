@@ -1,0 +1,27 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "91130"))
+0.12.3	id=naio_10_cp1610	filters=list(stk_flow = "DOM", unit = "MIO_EUR", induse = c("E37-39", "TOTAL"))
+0.12.3	id=lfsa_ewhun2	filters=list(sex = c("T"), wstatus = c("EMP"))
+0.12.3	id=lfsq_epgan2	filters=list(age = c("Y_GE15"), sex = c("T"), worktime = c("PT", "FT", "TOTAL"))
+0.12.3	id=sbs_na_ind_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=sbs_na_con_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=sbs_na_dt_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.12.3	id=sbs_na_1a_se_r2	filters=list(indic_sb = c("V12120", "V16110", "V16130", "V91130"))
+0.11.3	id=demo_gind
+0.12.3	id=env_air_gge	cache=FALSE	type=label	time_format=num
+0.12.3	id=env_air_gge	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", airpol = "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)", )	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", airpol = "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)")	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", airpol = "Greenhouse gases")	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", airpol = "Greenhouse gases (CO2, N2O in CO2 equivalent, CH4 in CO2 equivalent, HFC in CO2 equivalent, PFC in CO2 equivalent, SF6 in CO2 equivalent, NF3 in CO2 equivalent)", verbose = T)	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", geo = "European Union - 27 countries (from 2020)", verbose = TRUE)	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", verbose = TRUE)	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", verbose = TRUE)	label=TRUE	update_cache=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes", )	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes")	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes")	label=TRUE	update_cache=TRUE	verbose=TRUE
+0.12.3	id=env_air_gge	filters=list(unit = "Million tonnes")	label=TRUE	update_cache=TRUE	verbose=TRUE

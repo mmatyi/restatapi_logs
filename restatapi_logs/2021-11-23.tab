@@ -1,0 +1,16 @@
+0.12.3	id=rd_p_persage
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "GOV", "T")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "F")	date_filter=c(2013:2019)
+0.12.3	id=rd_p_persage	filters=c("HC", "HES", "T")	date_filter=c(2013:2019)
+0.12.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.12.3	id=lfsa_ugan	select_freq=A	cache=FALSE
+0.12.3	id=lfsa_pganws	select_freq=A	cache=FALSE
+0.8.10	id=ISOC_CI_AC_I
+0.12.3	id=NAMA_10_GDP
+0.12.3	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
