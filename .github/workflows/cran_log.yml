@@ -1,9 +1,5 @@
 on: 
-  push:
-    branches:
-      - master
-      - main
-  schedule:
+ schedule:
     - cron: "0 6 * * *"
 jobs:
   job1:
