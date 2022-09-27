@@ -1,0 +1,47 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	date_filter=c(2022)	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("RU", "import", "export", "EU27", "values")	exact_match=FALSE	date_filter=c(2022)	label=TRUE	force_local_filter=FALSE	ignore.case=TRUE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=FALSE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=FALSE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=FALSE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=FALSE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA*NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=FALSE	name=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=ext_lt_mainez	filters=Exports in million
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = SITC, INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_IMP_VAL")

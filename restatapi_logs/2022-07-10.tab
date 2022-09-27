@@ -1,0 +1,25 @@
+0.13.3	id=nama_10_gdp	filters=list(na_item = paste0(na_item_sel), unit = paste0(unit_sel))	date_filter=paste0(min_date, "<")	label=FALSE
+0.13.3	id=nama_10_gdp	filters=list(na_item = paste0(na_item_sel), unit = paste0(unit_sel))	date_filter=paste0(min_date, "<")	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = paste0(na_item_sel), unit = paste0(unit_sel), s_adj = paste0(s_adj_sel))	date_filter=paste0(min_date, "<")	label=FALSE
+0.13.3	id=nama_10_gdp	filters=list(na_item = paste0(na_item_sel), unit = paste0(unit_sel))	label=FALSE
+0.13.3	id=nama_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, label = FALSE)
+0.13.3	id=nama_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, label = FALSE)
+0.13.3	id=namq_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, s_adj = s_adj_sel)	label=FALSE
+0.13.3	id=nama_10r_3gdp	filters=list(unit = unit_sel)	label=FALSE
+0.13.3	id=nama_10r_3gdp	filters=list(unit = unit_sel)	label=FALSE
+0.13.3	id=nama_10r_3gdp	filters=list(unit = unit_sel)	label=FALSE
+0.13.3	id=nama_10r_3gdp	filters=list(unit = unit_sel)	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, s_adj = s_adj_sel)	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, s_adj = s_adj_sel)	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, s_adj = s_adj_sel)	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = na_item_sel, unit = unit_sel, s_adj = s_adj_sel)	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV_PCH_PRE", s_adj = "SCA")	label=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ")	label=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,33 @@
+0.10.0	id=namq_10_gdp	filters=list(unit = "CLV15_MEUR", s_adj = "NSA", na_item = "P31_S14")
+0.10.0	id=ei_bsco_m	label=TRUE
+E
+0.12.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=namq_10_exi
+0.12.8	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.12.8	id=namq_10_exi
+0.12.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.8	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.12.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.12.8	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.12.8	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.12.8	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=prc_hicp_inw	filters=HR	date_filter=1999<
+0.12.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.12.8	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

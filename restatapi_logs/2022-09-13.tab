@@ -1,0 +1,16 @@
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$time, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$time, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$time, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$time, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$time, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

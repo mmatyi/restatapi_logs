@@ -1,0 +1,39 @@
+0.13.3	id=NRG_BAL_C	filters=list(SIEC = "TOTAL")	date_filter=2020	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(SIEC = "TOTAL")	date_filter=2008	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = "TOTAL", geo = "NO")	date_filter=2008	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(geo = "NO")	date_filter=2008	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = "TOTAL")	date_filter=2008	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = "TOTAL", unit = "KTOE")	date_filter=2008	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = "TOTAL", unit = "KTOE", nrg_bal = "TI_EHG_E")	date_filter=2008	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = "TOTAL", unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = "TOTAL", unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=2006>	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = c("TOTAL", "C0000X0350-0370", "C0350-0370", "P1000", "S2000", "G3000", "O4000XBIO", "RA000", "FE"), unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = c("TOTAL", "C0000X0350-0370", "C0350-0370", "P1000", "S2000", "G3000", "O4000XBIO", "RA000", "FE"), unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = c("TOTAL", "C0000X0350-0370", "C0350-0370", "P1000", "S2000", "G3000", "O4000XBIO", "RA000", "FE"), unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = c("TOTAL", "C0000X0350-0370", "C0350-0370", "P1000", "S2000", "G3000", "O4000XBIO", "RA000", "FE"), unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = c("TOTAL", "C0000X0350-0370", "C0350-0370", "P1000", "S2000", "G3000", "O4000XBIO", "RA000", "FE"), unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(unit = "KTOE", nrg_bal = "TI_EHG_E", geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(siec = c("TOTAL", "C0000X0350-0370", "C0350-0370", "P1000", "S2000", "G3000", "O4000XBIO", "RA000", "FE"), unit = "KTOE", nrg_bal = c("TI_EHG_E"), geo = c("EU27_2020", "NO", "IS"))	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(SIEC = "TOTAL")	date_filter=2020	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=list(SIEC = "TOTAL")	date_filter=2020	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=NRG_BAL_C	filters=as.list(filterList)	date_filter=>2006	select_freq=A
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

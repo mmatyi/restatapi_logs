@@ -1,0 +1,70 @@
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=namq_10_lp_ulc
+0.13.3	id=namq_10_gdp
+0.13.3	id=prc_hicp_manr
+0.13.3	id=ert_eff_ic_q
+0.13.3	id=sts_inpp_q
+0.13.3	id=namq_10_lp_ulc
+0.13.3	id=namq_10_gdp
+0.13.3	id=prc_hicp_manr
+0.13.3	id=ert_eff_ic_q
+0.13.3	id=sts_inpp_q
+0.13.3	id=namq_10_lp_ulc
+0.13.3	id=namq_10_gdp
+0.13.3	id=prc_hicp_manr
+0.13.3	id=ert_eff_ic_q
+0.13.3	id=sts_inpp_q
+0.13.3	id=namq_10_lp_ulc
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.13.1	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.13.1	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=namq_10_gdp
+0.13.3	id=prc_hicp_manr
+0.13.3	id=ert_eff_ic_q
+0.13.3	id=sts_inpp_q
+0.13.3	id=namq_10_lp_ulc
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE

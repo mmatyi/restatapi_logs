@@ -1,0 +1,27 @@
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = "TOTAL", GEO = "EE", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NACE_R2 = "TOTAL", GEO = "EE", NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=DS-1062396	filters=list(REPORTER = "EE", PARTNER = "EU27_2020_EXTRA", PRODUCT = "TOTAL", INDICATORS = "VALUE_IN_EUROS")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=DS-1062396	filters=list(REPORTER = "EE", PARTNER = "EU27_2020_EXTRA", PRODUCT = "TOTAL", FLOW = 1, INDICATORS = "VALUE_IN_EUROS")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=DS-1062396	filters=list(REPORTER = "EE", PARTNER = "EU27_2020_EXTRA", PRODUCT = "TOTAL", FLOW = 1, INDICATORS = "VALUE_IN_EUROS")	date_filter=2014	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=DS-1062396	filters=list(REPORTER = "EE", PARTNER = "EU27_2020_EXTRA", PRODUCT = "TOTAL", FLOW = 1, INDICATORS = "VALUE_IN_EUROS")	date_filter=2010	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=DS-1062396
+0.13.1	id=DS-1062396	check_toc=TRUE
+0.13.1	id=DS-1060915
+0.13.1	id=nama_10_a64_e
+0.13.1	id=DS-645593
+0.13.1	id=ext_st_27_2020msbec d
+0.13.1	id=ext_st_27_2020msbec
+0.13.1	id=tet00012
+0.13.1	id=tet00012	filters=list(INDIC_ET = c("MIO_EXP_VAL", "MIO_IMP_VAL"), SITC06 = "TOTAL", PARTNER = "EXT_EU27_2020", GEO = "EE")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=tet00012	filters=list(INDIC_ET = c("MIO_EXP_VAL", "MIO_IMP_VAL"), SITC06 = "TOTAL", PARTNER = "EXT_EU27_2020", GEO = "EE")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G", "P1", "D1"), UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER", NACE_R2 = nace_selection, GEO = "EU27_2020")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,42 @@
+0.13.3	id=demo_r_d2jan	filters=list(SEX = "T", GEO = paste0("DE", c(1:9, LETTERS[1:7])))	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	filters=list(SEX = "T", GEO = paste0("DE", c(1:9, LETTERS[1:7])))	cache=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.13.3	id=demo_r_d2jan	filters=list(SEX = "T", GEO = paste0("DE", c(1:9, LETTERS[1:7])))	cache=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.13.3	id=demo_r_d2jan	filters=list(SEX = "T", GEO = paste0("DE", c(1:9, LETTERS[1:7])), TIME = 2020)	cache=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.13.3	id=demo_r_d2jan	filters=list(SEX = "T", GEO = paste0("DE", c(1:9, LETTERS[1:7])), TIME = "2020")	cache=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	cache_dir=cache_dir	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	cache_dir=/var/folders/nt/n0cnksj949b8gjg0796cynb00000gn/T//RtmpgHu68L	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=TRUE	cache_dir=/var/folders/nt/n0cnksj949b8gjg0796cynb00000gn/T//RtmpgHu68L	stringsAsFactors=FALSE	verbose=FALSE

@@ -1,0 +1,14 @@
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

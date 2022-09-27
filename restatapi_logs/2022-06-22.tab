@@ -1,0 +1,37 @@
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.1	id=nama_10_a64	filters=list(NACE_R2 = "TOTAL", GEO = "EE", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=nama_10_a64_e	filters=list(NACE_R2 = "TOTAL", GEO = "EE", NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.1	id=tet00012	filters=list(INDIC_ET = c("MIO_EXP_VAL", "MIO_IMP_VAL"), SITC06 = "TOTAL", PARTNER = "EXT_EU27_2020", GEO = "EE")	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.1	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_inw
+0.12.8	id=prc_hicp_midx
+0.12.8	id=prc_hicp_inw
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_pjangrp3	cache=TRUE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=demo_r_d2jan	cache=FALSE	stringsAsFactors=FALSE	verbose=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

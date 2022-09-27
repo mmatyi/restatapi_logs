@@ -1,0 +1,31 @@
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.13.1	id=prc_hicp_aind	filters=c("EA19", "CP00", "RCH_A_AVG")	date_filter=c(1999:2021)	select_freq=A
+0.12.3	id=demo_r_mwk_ts	filters=list(geo = c("BE", "HU", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE"), sex = c("T"))	date_filter=c("2018", "2019", "2020", "2021")	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=demo_r_mwk_ts
+0.12.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=demo_mlexpec	filters=list(sex = c("T", "M", "F"))	label=TRUE	verbose=TRUE	name=FALSE
+0.12.3	id=demo_mlexpec	filters=list(sex = c("T", "M", "F"))	date_filter=c("2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

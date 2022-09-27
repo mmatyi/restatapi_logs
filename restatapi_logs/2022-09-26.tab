@@ -1,0 +1,40 @@
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC0_1", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC2_4", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC3", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC6_8", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC7", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC9", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = paste0("SITC", SITC_category), INDIC_ET = paste0("MIO_", Trade_type, "_VAL"))
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC0_1", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "ALL", INDIC_ET = "MIO_IMP_VAL")
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "ALL", INDIC_ET = paste0("MIO_", Trade_type, "_VAL"))
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "ALL", INDIC_ET = paste0("MIO_", Trade_type, "_VAL"))
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "ALL", INDIC_ET = paste0("MIO_", Trade_type, "_VAL"))
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "ALL", INDIC_ET = paste0("MIO_", Trade_type, "_VAL"))
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "ALL", INDIC_ET = paste0("MIO_", Trade_type, "_VAL"))
+0.13.3	id=ei_bsfs_q
+0.13.3	id=c("ei_bsco_m", "ei_bsin_m_r2", "ei_bsbu_m_r2")
+0.13.3	id=ei_bsco_m	filters=ei_bsin_m_r2	exact_match=ei_bsbu_m_r2
+0.13.3	id=ei_bsco_m
+0.13.3	id=ei_bsin_m_r2
+0.13.3	id=earn_ses10_20
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=apro_ec_poulm
+0.13.3	id=bd_size_r3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=apro_ec_poulm
+0.13.3	id=ei_bsbu_m_r2
+0.13.3	id=ei_bsci_m_r2
+0.13.3	id=ei_bsco_m
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

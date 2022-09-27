@@ -1,0 +1,186 @@
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.1	id=NAMA_10_NFA_BS	filters=list(geo = country, sector = "S14_S15", unit = "CP_MNAC", asset10 = c("N111N", "N211N", "N112N"))	stringsAsFactors=FALSE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE
+0.13.3	id=DS-1262527	select_freq=A	cache=FALSE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.13.3	id=DS-1262527	select_freq=A	cache=FALSE
+0.13.3	id=DS-1262527	select_freq=A	cache=FALSE
+0.13.3	id=DS-1262527	select_freq=A
+0.13.3	id=DS-1262527	select_freq=A
+0.13.3	id=DS-1262527
+0.13.3	id=DS-1262527
+0.13.3	id=avia_gor_be
+0.13.3	id=ext_go_agg_esms
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

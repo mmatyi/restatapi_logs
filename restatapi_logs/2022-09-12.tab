@@ -1,0 +1,47 @@
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=EXR.D.BGN.EUR.SP00.A
+0.13.3	id=EXR.D.BGN.EUR.SP00.A
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=ext_lt_mainez	filters=c(SITC06 = "SITC5", INDIC_ET = "MIO_EXP_VAL")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=EXR.D.BGN.EUR.SP00.A
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=<2022-08-01
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=paste0("<2022-", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = geos, indic_bt = "PRIN")	date_filter=paste0("<2022-", args$month, "-01")
+0.13.3	id=sts_inpr_m	filters=list(unit = "I15", nace_r2 = "B-D", s_adj = "SCA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PROD")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"))	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inpr_m	filters=list(unit = "I15", nace_r2 = "B-D", s_adj = "SCA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PROD")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"))	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AL", "AT", "BE", "BG", "CH", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "ME", "MK", "MT", "NL", "NO", "PL", "PT", "RO", "RS", "SE", "SI", "SK", "TR"), indic_bt = "PRIN")	date_filter=paste0("<2022-0", args$month, "-01")
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
