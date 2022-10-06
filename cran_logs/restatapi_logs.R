@@ -3,9 +3,9 @@ library(data.table)
 old_rlogs<-readRDS("./restatapi_logs/log_summary.RDS")
 
 # tbc<-verbose<-TRUE
-# date<-"2021-02-06"
+# date<-"2019-02-06"
 start_date<-as.Date(max(old_rlogs$date))+1  
-# start_date<-as.Date("2020-05-28")
+# start_date<-as.Date("2019-05-28")
 # dates<-seq(start_date,as.Date("2020-12-15"),by="day")
 dates<-seq(start_date,Sys.Date(),by="day")
 
@@ -17,6 +17,7 @@ dlog<-function(date){
     system(paste("echo",paste(date,format(Sys.time()),sep="#"),paste0(">> debug.txt")))
     dt<-fread(fname,sep="",header=F,stringsAsFactors=F,)
     setorder(dt[,coln:=nchar(gregexec("\t",V1))],-coln)
+    dt<-dt[!grepl("^E",V1,perl=T)]
     fwrite(dt[,coln:=NULL],file.path(tempdir(),"tmp.tab"),col.names=F,quote=F)
     # dt$coln=lapply(dt$coln,length())
     # order(readLines(file(fname)),unlist(lapply(gregexec("\t",readLines(file(fname))),length)))

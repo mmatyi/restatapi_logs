@@ -1,5 +1,6 @@
 library(shiny)
 library(rCharts)
+library(plotly)
 # library(rMaps)
 
 shinyUI(
@@ -34,7 +35,7 @@ shinyUI(
       
       ),
     fluidRow(
-      column(6,showOutput("versiongraph",'nvd3'))
+      column(6,plotlyOutput("versiongraph"))
       ,column(1,showOutput("myChart3",'highcharts'))
       ,column(5,htmlOutput("plot2"))
        

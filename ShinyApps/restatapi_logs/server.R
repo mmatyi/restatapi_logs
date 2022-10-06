@@ -1,5 +1,6 @@
 library(shiny)
-library(ggplot2)
+library(rCharts)
+library(plotly)
 # library(rMaps)
 # library(reshape2)
 # library(cranlogs)
@@ -43,19 +44,27 @@ shinyServer(function(input, output) {
   dd1<-reactive({
   dd1<-adat()[,c("version","date")]
   dd1<-dd1[,.(dd=.N),by=c("version","date")]
+  dd1$date<-as.Date(dd1$date)
   dd1
   })
   
   
-  output$versiongraph <- renderChart({
-    n1 <- nPlot(dd ~ date, group = "version", data = dd1(), type = "multiBarChart")
-    n1$addParams(dom = 'versiongraph')
-    n1$addParams(reduceXTicks=FALSE)
-    n1$xAxis(type = "datetime", labels=list(format= "{value:%Y-%m-%d}",rotation=45,align="left"))
-    return(n1)
+  # output$versiongraph <- renderChart({
+  #   n1 <- nPlot(dd ~ date, group = "version", data = dd1(), type = "multiBarChart")
+  #   n1$addParams(dom = 'versiongraph')
+  #   n1$addParams(reduceXTicks=FALSE)
+  #   n1$xAxis(type = "datetime", labels=list(format= "{value:%Y-%m-%d}",rotation=45,align="left"))
+  #   return(n1)
+  # 
+  # })
 
-  })
-
+  output$versiongraph <- renderPlotly({
+    versiongraph<-plot_ly(data=dd1(), x = ~date, y = ~dd, color=~version, type = 'bar')
+    versiongraph<- versiongraph %>% layout(yaxis = list(title = 'Nr of queries'), barmode = 'stack')
+    versiongraph<- versiongraph %>% config(modeBarButtonsToRemove=c("pan2d","select2d","autoscale2d","lasso2d"))
+  
+  }
+  )
   
   
   dd<-reactive({
