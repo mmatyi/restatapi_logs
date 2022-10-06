@@ -1,12 +1,12 @@
 library(shiny)
-library(rCharts)
+library(ggplot2)
 # library(rMaps)
 # library(reshape2)
 # library(cranlogs)
 library(data.table)
 
 tmp<-tempfile()
-download.file("https://github.com/mmatyi/restatapi_logs/raw/main/cran_logs/rlogs.RDS",tmp)
+download.file("https://github.com/mmatyi/restatapi_logs/raw/main/restatapi_logs/log_summary.RDS",tmp)
 dt<-readRDS(tmp)
 
 shinyServer(function(input, output) {
@@ -24,9 +24,9 @@ shinyServer(function(input, output) {
  })   
   output$sumText  <- renderText({
      if (nrow(adat())==0) {
-      paste0("No downloads between ",as.character(input$sdatum)," and ",as.character(input$edatum),".")
+      paste0("No logfile between ",as.character(input$sdatum)," and ",as.character(input$edatum),".")
    } else {
-      paste("The total download in the period:", as.character(nrow(adat())))
+      paste("The total query in the period:", as.character(nrow(adat())))
     }
   })
 
@@ -41,20 +41,17 @@ shinyServer(function(input, output) {
 
   
   dd1<-reactive({
-  dd1<-adat()[,c("version","r_os")]
-  dd1[grepl("linux",r_os),os:="linux"]
-  dd1[grepl("darwin",r_os),os:="mac"]
-  dd1[grepl("mingw",r_os),os:="windows"]
-  dd1<-dd1[,.(dd=.N),by=c("version","os")]
-  dd1<-dd1[!is.na(os)]
+  dd1<-adat()[,c("version","date")]
+  dd1<-dd1[,.(dd=.N),by=c("version","date")]
   dd1
   })
   
   
   output$versiongraph <- renderChart({
-    n1 <- nPlot(dd ~ version, group = "os", data = dd1(), type = "multiBarChart")
+    n1 <- nPlot(dd ~ date, group = "version", data = dd1(), type = "multiBarChart")
     n1$addParams(dom = 'versiongraph')
     n1$addParams(reduceXTicks=FALSE)
+    n1$xAxis(type = "datetime", labels=list(format= "{value:%Y-%m-%d}",rotation=45,align="left"))
     return(n1)
 
   })
@@ -93,11 +90,11 @@ shinyServer(function(input, output) {
     h1$chart(type = "scatter")
     h1$chart(zoomType = "xy")
     h1$xAxis(type = "datetime", labels=list(format= "{value:%Y-%m-%d}",rotation=45,align="left"))
-    h1$yAxis(list(list(title = list(text = 'Daily download'), min=0, opposite = FALSE), 
-                  list(title = list(text = 'Cummulative download'), min=0, opposite = TRUE)))
-    h1$series(name = 'Daily download', type = 'spline', color = '#000099',
+    h1$yAxis(list(list(title = list(text = 'Daily logged query'), min=0, opposite = FALSE), 
+                  list(title = list(text = 'Cummulative number of logged query'), min=0, opposite = TRUE)))
+    h1$series(name = 'Daily logged query', type = 'spline', color = '#000099',
               data = gsub('"', "", substring(s1.json, 4, nchar(s1.json)-3)))
-    h1$series(name = 'Cummulative download', type = 'spline', color = '#FF0000',
+    h1$series(name = 'Cummulative number of logged query', type = 'spline', color = '#FF0000',
               data = gsub('"', "", substring(s2.json, 4, nchar(s2.json)-3)), yAxis=1)
     a <- paste0(capture.output(h1$print()), collapse="")
     a <- gsub(']" ]', '] ]', a)
