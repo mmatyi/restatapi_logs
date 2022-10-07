@@ -115,7 +115,7 @@ var config = {
       format: {
        // short: function() {return Math.round},
        // input: function() {function(d) {return Date(d).getTime()}}, d.replace("-","") Math.floor(d/10000)+"-"+(Math.floor(d/100)-Math.floor(d/10000)*100)}
-        long: function(){return function(d){return "first download on: "+d.toString().substr(0,4)+"-"+d.toString().substr(4,2)+"-"+d.toString().substr(-2,2)}},
+        long: function(){return function(d){return "last download on: "+d.toString().substr(0,4)+"-"+d.toString().substr(4,2)+"-"+d.toString().substr(-2,2)}},
         short: function(){return function(d){return d.toString().substr(0,4)+"-"+d.toString().substr(4,2)+"-"+d.toString().substr(-2,2)}},
         input: function(){return Math.round},
         axis: function(){return function(d) {return d.toString().substr(0,4)+"-"+d.toString().substr(4,2)}},
