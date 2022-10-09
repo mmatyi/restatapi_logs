@@ -26812,3 +26812,10 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2022-10-06	20:23:58	200670	4.2.1	x86_64	darwin17.0	restatapi	0.13.3		3
 2022-10-06	20:44:05	201700				restatapi	0.13.3	DE	12423
 2022-10-06	20:02:22	64354				restatapi	0.13.3	DE	1689
+2022-10-07	20:06:42	201428	4.2.1	x86_64	mingw32	restatapi	0.13.3	US	1
+2022-10-07	14:18:49	201428				restatapi	0.13.3		8
+2022-10-07	11:56:44	64340				restatapi	0.13.3	DE	13064
+2022-10-07	10:11:43	201428	4.2.1	x86_64	mingw32	restatapi	0.13.3	DE	44566
+2022-10-07	23:02:29	200650	4.2.1	x86_64	darwin17.0	restatapi	0.13.3		8
+2022-10-07	16:08:41	64420	4.1.1	x86_64	linux-gnu	restatapi	0.13.3	US	1094
+2022-10-07	10:54:53	64420	4.0.5	x86_64	mingw32	restatapi	0.13.3	IN	8486
