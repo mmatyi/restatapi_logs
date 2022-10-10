@@ -26819,3 +26819,19 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2022-10-07	23:02:29	200650	4.2.1	x86_64	darwin17.0	restatapi	0.13.3		8
 2022-10-07	16:08:41	64420	4.1.1	x86_64	linux-gnu	restatapi	0.13.3	US	1094
 2022-10-07	10:54:53	64420	4.0.5	x86_64	mingw32	restatapi	0.13.3	IN	8486
+2022-10-08	18:44:20	560				restatapi	0.7.5	US	8
+2022-10-08	18:44:20	153076				restatapi	0.7.5	US	8
+2022-10-08	18:44:20	153075				restatapi	0.7.5	US	8
+2022-10-08	19:51:13	531				restatapi	0.12.8	US	8
+2022-10-08	19:51:13	199657				restatapi	0.12.8	US	8
+2022-10-08	19:51:13	199658				restatapi	0.12.8	US	8
+2022-10-08	13:32:48	200698				restatapi	0.13.1	US	8
+2022-10-08	13:32:48	531				restatapi	0.13.1	US	8
+2022-10-08	13:32:48	200699				restatapi	0.13.1	US	8
+2022-10-08	23:01:20	201428				restatapi	0.13.3	US	9923
+2022-10-08	17:31:53	64415				restatapi	0.13.3	US	839
+2022-10-08	16:22:46	200526				restatapi	0.13.3	US	8
+2022-10-08	16:22:46	560				restatapi	0.13.3	US	8
+2022-10-08	16:22:46	200525				restatapi	0.13.3	US	8
+2022-10-08	15:14:44	201295	4.2.1	aarch64	darwin20	restatapi	0.13.3	US	4505
+2022-10-08	07:04:54	64420	4.2.1	x86_64	mingw32	restatapi	0.13.3	JP	5363
