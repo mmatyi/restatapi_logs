@@ -1,4 +1,4 @@
-install.packages(c("reshape2","cranlogs","DT","chron","googleVis","roxygen2","testthat","tinytest","rmarkdown","ggplot2","plotly"))
+install.packages(c("reshape2","cranlogs","DT","chron","googleVis","roxygen2","testthat","tinytest","rmarkdown","ggplot2","plotly","RCurl","RJSONIO"))
 devtools::install_github('eurostat/restatapi')
 devtools::install_github('ramnathv/rCharts')
 devtools::install_github('rCharts', 'ramnathv')
