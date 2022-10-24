@@ -65,6 +65,25 @@ shinyServer(function(input, output) {
   
   }
   )
+
+  
+  dd2<-reactive({
+    dd2<-adat()[,c("dataset","version")]
+    dd2<-dd2[!(grepl("[\\.\\,\\[\\=\\(\\s\\$]",dataset))&!(grepl("[\\,\\[\\=\\(\\s\\$]",version))]
+    dd2<-dd2[,.(dd=.N),by=c("dataset","version")]
+    ddp<-dd2[,.(dd=sum(dd)),by=dataset]
+    setnames(ddp,1,"version")
+    ddp$dataset<-"Datasets total"
+    dd2<-rbind(dd2,ddp)
+    dd2<-rbind(dd2,data.table(dataset="",version="Datasets total",dd=sum(ddp$dd)))
+    
+    dd2
+  })  
+    
+  output$dsgraph <- renderPlotly({
+    dsgraph<-plot_ly(data=dd2(), type = 'sunburst', values=dd2()$dd,labels=dd2()$version, parents=dd2()$dataset)
+   }
+  )
   
   
   dd<-reactive({

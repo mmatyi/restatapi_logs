@@ -41,7 +41,10 @@ shinyUI(
        
      ),
     
-   
+    fluidRow(
+     plotlyOutput("dsgraph")
+      
+    ),
     # fluidRow(
     #   column(8,htmlOutput("plot2"))
     # ),
