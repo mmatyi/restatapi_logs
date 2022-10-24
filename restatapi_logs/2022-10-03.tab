@@ -1,0 +1,102 @@
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=ind[[1]][1]	stringsAsFactors=FALSE	filtes=ind[[1]][2]
+0.13.3	id=x[1]	stringsAsFactors=FALSE	filtes=x[2]
+0.13.3	id=x[1]	stringsAsFactors=FALSE	filtes=x[2]
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=ind[[1]][1]	stringsAsFactors=FALSE	filtes=ind[[1]][2]
+0.13.3	id=ind[[1]][1]	filters=ind[[1]][2]	stringsAsFactors=FALSE
+0.13.3	id=ind[[1]][1]	filters=ind[[1]][2]	stringsAsFactors=FALSE
+0.13.3	id=ind[[1]][1]	filters=M.BS-GES-LY.BS-CSMCI.SA.BAL.	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	filters=M.BS-GES-LY.BS-CSMCI.SA.BAL.	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	filters=M.BS-GES-LY.BS-CSMCI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	filters=.BS-GES-LY.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	filters=M.BS-GES-LY.SA.BAL.EA19	select_freq=M	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	filters=M.BS-GES-LY.SA.BAL.EA19	select_freq=M	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	filters=M.BS-GES-LY.SA.BAL.EA19	select_freq=Q	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=sts_sepr_m	filters=M.PROD.H-N_X_K.SCA.IE15.
+0.13.3	id=sts_sepr_m	filters=M.PROD.H-N_X_K.SCA.IE15.	verbose=TRUE
+0.13.3	id=sts_sepr_m	filters=M.PROD.H-N_X_K.SCA.IE15	verbose=TRUE
+0.13.3	id=sts_sepr_m	filters=M.PROD.H-N_X_K.SCA.IE15..	verbose=TRUE
+0.13.3	id=sts_sepr_m	filters=M.PROD.H-N_X_K.SCA.I15	verbose=TRUE
+0.13.3	id=sts_sepr_m	filters=M.PROD.H-N_X_K.SCA.I15.	verbose=TRUE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=x[1]	filters=x[2]	stringsAsFactors=FALSE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.	verbose=TRUE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15..	verbose=TRUE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19	verbose=TRUE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15	verbose=TRUE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15. 	verbose=TRUE
+0.13.3	id=sts_copr_m	filters=M.PROD.F.SCA.I15.EA19	verbose=TRUE
+0.13.3	id=sts_copr_m	filters=M.PROD.F.SCA.I15.	verbose=TRUE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

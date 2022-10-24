@@ -1,0 +1,26 @@
+0.13.3	id=edat_lfs_9903	label=TRUE
+0.13.3	id=edat_lfse_04	label=TRUE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=NAMA_10_PC	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=UNE_RT_A	label=FALSE	stringsAsFactors=FALSE
+0.12.8	id=GOV_10DD_EDPT1	date_filter=c("2021")	label=TRUE	cache=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

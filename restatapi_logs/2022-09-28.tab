@@ -1,9 +1,6 @@
-0.10.0	id=ei_bsbu_m_r2	label=TRUE
-0.10.0	id=ei_bsbu_m_r2	label=TRUE
-0.10.0	id=ei_bsbu_m_r2	label=TRUE
-0.10.0	id=ei_bsbu_m_r2	label=TRUE
 0.10.0	id=namq_10_gdp	filters=list(unit = "CLV15_MEUR", s_adj = "NSA", na_item = "P31_S14")
-0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.1	id=namq_10_a10
+0.13.3	id=DS-066342
 0.13.3	id=prc_hicp_midx
 0.13.3	id=prc_hicp_midx	label=TRUE
 0.13.3	id=prc_hicp_manr

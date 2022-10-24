@@ -1,0 +1,48 @@
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inpr_m	filters=list(unit = "I15", nace_r2 = "B-D", s_adj = "SCA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LV", "MT", "PL", "PT", "RO", "SE", "SI", "SK"), indic_bt = "PROD")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=ei_bsco_m
+0.13.3	id=ei_bsco_m	filters=M.BS-FS-LY.SA.BAL.EA19
+0.13.3	id=ei_bsco_m
+0.13.3	id=ei_bsco_m
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19
+0.13.3	id=sts_inpr_m	filters=M.B-D.SCA.I15.EA19
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19
+0.13.3	id=sts_inpr_m	filters=M.B-D.SCA.I15.EA19
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19
+0.13.3	id=ei_bsco_m
+0.13.3	id=ei_bsco_m
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=ei_bsco_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=sts_inpr_m	filters=M.PROD.B-D.SCA.I15.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=ei_bsin_m_r2	filters=M.BS-ICI.SA.BAL.EA19	stringsAsFactors=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

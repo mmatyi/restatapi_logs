@@ -1,0 +1,11 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
