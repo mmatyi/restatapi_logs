@@ -1,0 +1,38 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_emi4ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm12prv	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm5prv	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_emi3nxtb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=migr_emi3nxtb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=migr_emi3nxtb	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=migr_emi3nxtb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_emi3nxtb	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.1	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.1	id=migr_emi4ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm12prv	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm5prv	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE

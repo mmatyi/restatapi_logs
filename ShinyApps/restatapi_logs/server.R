@@ -31,7 +31,19 @@ shinyServer(function(input, output) {
     }
   })
 
- 
+  output$paramText  <- renderText({
+    if (nrow(adat())==0) {
+      paste0("No logfile between ",as.character(input$sdatum)," and ",as.character(input$edatum),".")
+    } else {
+      all_params<-unlist(strsplit(adat()$params,"|",fixed=T))
+      unique_params<-unique(all_params)
+      param_freq<-sort(sapply(unique_params,function(x) sum(grepl(x,all_params))),decreasing = T)
+      
+      paste("Parameter frequency in the period:", paste(paste0(names(param_freq),"(",param_freq,")"),collapse = ", "))
+    }
+  })
+  
+  
   
   
   output$adattabla <- DT::renderDataTable(DT::datatable({

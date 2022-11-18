@@ -1,0 +1,26 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=DEMO_PJAN	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=EARN_NT_NET	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_OCC_NIM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<

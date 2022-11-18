@@ -8,3 +8,27 @@
 0.13.3	id=bd_hgnace2_r3
 0.13.3	id=bd_size_r3
 0.13.3	id=nama_10r_3popgdp
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=PRC_HPI_Q	update_cache=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE

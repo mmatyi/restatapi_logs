@@ -1,0 +1,32 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "ASS", na_item = c("F2", "F5"), unit = "MIO_EUR", sector = "S14")
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "ASS", na_item = c("F2", "F5"), unit = "MIO_EUR", sector = "S14")
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "ASS", na_item = c("F2", "F5"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "LIAB", na_item = c("F"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=UNE_RT_M	filters=list(age = "TOTAL", s_adj = "SA", sex = "T", unit = "PC_ACT")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "ASS", na_item = c("F2", "F5"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "LIAB", na_item = c("F"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=UNE_RT_M	filters=list(age = "TOTAL", s_adj = "SA", sex = "T", unit = "PC_ACT")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "ASS", na_item = c("F2", "F5"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "LIAB", na_item = c("F"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=UNE_RT_M	filters=list(age = "TOTAL", s_adj = "SA", sex = "T", unit = "PC_ACT")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "ASS", na_item = c("F2", "F5"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=nasq_10_f_bs	filters=list(finpos = "LIAB", na_item = c("F"), unit = "MIO_EUR", sector = "S14")	stringsAsFactors=FALSE
+0.13.3	id=UNE_RT_M	filters=list(age = "TOTAL", s_adj = "SA", sex = "T", unit = "PC_ACT")	stringsAsFactors=FALSE
+0.13.3	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.13.3	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.13.3	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.13.3	id=isoc_ci_it_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL", indic_is = "H_BROAD")	date_filter=2008:2018
+0.13.3	id=rd_e_gerdtot	filters=list(geo = c("EU27_2020", "JP", "CN_X_HK", "US"), unit = "PC_GDP", sectperf = "TOTAL")	date_filter=2010:2020
+0.13.3	id=rd_e_gerdtot	filters=list(geo = c("EU27_2020", "JP", "CN_X_HK", "US"), unit = "PC_GDP", sectperf = "TOTAL")	date_filter=2010:2020
+0.13.3	id=rd_e_gerdtot	filters=list(geo = c("EU27_2020", "JP", "CN_X_HK", "US"), unit = "PC_GDP", sectperf = "TOTAL")	date_filter=2010:2020
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=rd_e_gerdtot	filters=list(geo = c("EU27_2020", "JP", "CN_X_HK", "US"), unit = "PC_GDP", sectperf = "TOTAL")	date_filter=2010:2020

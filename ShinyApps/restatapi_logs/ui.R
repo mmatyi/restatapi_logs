@@ -42,6 +42,11 @@ shinyUI(
      ),
     
     fluidRow(
+      verbatimTextOutput("paramText")
+    ),
+    
+    
+    fluidRow(
      plotlyOutput("dsgraph")
       
     ),

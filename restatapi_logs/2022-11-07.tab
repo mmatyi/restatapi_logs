@@ -1,0 +1,12 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=DS-645593
+0.13.3	id=DS-645593	check_toc=TRUE
+0.13.3	id=DS-645593	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.13.3	id=ext_go_detail	date_filter=c("2016-08", "2017-07-01")	select_freq=M
