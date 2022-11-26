@@ -27366,3 +27366,9 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2022-11-23	16:46:40	201414				restatapi	0.13.3	JO	3003
 2022-11-23	06:50:11	201414				restatapi	0.13.3	GB	2027
 2022-11-23	16:04:23	64429				restatapi	0.13.3	US	2987
+2022-11-24	14:21:15	201414				restatapi	0.13.3	AR	1691
+2022-11-24	09:13:53	201442				restatapi	0.13.3	JO	6028
+2022-11-24	01:14:08	201572	4.1.3	x86_64	mingw32	restatapi	0.13.3	JO	6028
+2022-11-24	01:15:22	199653				restatapi	0.12.8	DE	1598
+2022-11-24	15:03:09	201631	4.1.2	x86_64	mingw32	restatapi	0.13.3		5
+2022-11-24	09:48:44	201631	4.1.3	x86_64	mingw32	restatapi	0.13.3	SE	1683
