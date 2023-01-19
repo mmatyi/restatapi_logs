@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-      - maste
+      - master
 jobs:
   job1:
     runs-on: ubuntu-latest
