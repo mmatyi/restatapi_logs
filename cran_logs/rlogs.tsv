@@ -30252,3 +30252,10 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2023-04-22	13:29:20	68740				restatapi	0.20.6	US	3585
 2023-04-22	18:47:48	214426	4.3.0	aarch64	darwin20	restatapi	0.20.6	ES	17469
 2023-04-22	19:32:45	213154				restatapi	0.20.6		7
+2023-04-23	19:03:01	212665	4.2.3	x86_64	darwin17.0	restatapi	0.20.6	ES	6560
+2023-04-23	14:04:46	213504	4.2.2	x86_64	mingw32	restatapi	0.20.6	DE	17085
+2023-04-23	10:34:45	68708				restatapi	0.20.6	US	4593
+2023-04-23	15:11:41	214421	4.3.0	aarch64	darwin20	restatapi	0.20.6	ES	34407
+2023-04-23	13:44:07	213363				restatapi	0.20.6		1
+2023-04-23	02:17:59	68658				restatapi	0.20.6	US	14535
+2023-04-23	10:41:23	68717				restatapi	0.20.6	US	4593
