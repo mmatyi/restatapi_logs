@@ -32722,3 +32722,13 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2023-08-31	11:06:35	200699				restatapi	0.13.1	US	17
 2023-08-31	11:06:35	531				restatapi	0.13.1	US	17
 2023-08-31	11:06:35	200698				restatapi	0.13.1	US	17
+2023-09-01	02:38:51	72023				restatapi	0.21.2	US	6059
+2023-09-01	16:16:23	227716				restatapi	0.21.2	CO	844
+2023-09-01	14:01:24	227314	4.2.2	x86_64	darwin17.0	restatapi	0.21.2	US	4251
+2023-09-01	14:33:33	72004	4.2.3	x86_64	linux-gnu	restatapi	0.21.2	US	13484
+2023-09-01	13:53:29	72028	4.3.1	x86_64	linux-gnu	restatapi	0.21.2	US	13484
+2023-09-01	10:02:20	72069				restatapi	0.21.2	US	4404
+2023-09-01	09:39:34	227716	4.3.1	x86_64	mingw32	restatapi	0.21.2	CN	8749
+2023-09-01	10:13:11	72078				restatapi	0.21.2	US	4404
+2023-09-01	04:28:05	72069	4.2.1	x86_64	linux-gnu	restatapi	0.21.2	US	20035
+2023-09-01	21:01:00	228621				restatapi	0.21.2	CH	5431
