@@ -1,0 +1,28 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=org_aprod
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=.data$starting_year:.data$latest_year	label=TRUE
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=nama_10_a64	filters=c(nchar(geo) == 2, na_item == "P1", nace_r2 == c("A", "B", "C", "F", "G", "H"), unit == "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a64	filters=c("P1", "A", "B", "C", "F", "G", "H", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=.data$starting_year:.data$latest_year	label=TRUE
+0.22.1	id=nama_10_cp_a21	filters=c("N11N", "NCS_GVA", "A", "B", "C", "F", "G", "H", "PCH_PRE")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_cp_a21	filters=c("N11N", "NCS_GVA", "A", "B", "C", "F", "G", "H", "I15")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a64_p5	filters=c("N11G", "P51G", "A", "B", "C", "F", "G", "H", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a64_e	filters=c("EMP_DC", "A", "B", "C", "F", "G", "H", "THS_PER")	date_filter=c(1995:2022)

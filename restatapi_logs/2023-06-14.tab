@@ -1,0 +1,36 @@
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.13.3	id=NRG_BAL_S	filters=list(unit = "KTOE")	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	filters=list(unit = "KTOE", nrg_bal = "GAE")	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	filters=list(unit = "KTOE", siec = "Total")	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	filters=list(unit = "KTOE", siec = "Total", nrg_bal = "GAE")	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	filters=list(unit = "KTOE", siec = "TOTAL", nrg_bal = "GAE")	date_filter=>=2020	select_freq=A
+0.13.3	id=NRG_BAL_S	filters=KTOE	exact_match=FALSE	date_filter=c("2017-03", 2016, "2017-07-01", 2012:2014)	label=TRUE	select_freq=A	verbose=TRUE	name=FALSE
+0.13.3	id=NRG_BAL_S	filters=KTOE	exact_match=FALSE	date_filter=c(2016)	label=TRUE	select_freq=A	verbose=TRUE	name=FALSE
+0.13.3	id=NRG_BAL_S	filters=KTOE	exact_match=FALSE	date_filter=c(2016)	label=TRUE	select_freq=A	verbose=TRUE	name=FALSE
+0.13.3	id=NRG_BAL_S	filters=KTOE	exact_match=FALSE	date_filter=c(2016)	label=TRUE	select_freq=A	verbose=TRUE	name=FALSE
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=educ_uoe_grad02
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=sts_inpr_m	filters=list(nace_r2 = "B-D", s_adj = "SCA", unit = "I15", geo = "EA19")
+0.20.6	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.20.6	id=ei_cphi_m	filters=list(geo = c("FR", "DE", "ES", "IT", "PT", "UK", "IE", "EL", "EA19"), indic = c("CP-HI00", "CP-HI06", "CP-HI07", "CP-HI10", "CP-HIE", "CP-HIF", "CP-HIIG", "CP-HIS"), unit = "RT12")
+0.20.6	id=migr_imm8	filters=c("BE$", "Hungary")	date_filter=2019:2020	keep_flags=TRUE

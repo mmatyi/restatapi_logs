@@ -1,0 +1,28 @@
+0.20.6	id=teiis550	filters=date_filter >= 2010
+0.20.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.20.6	id=teiis550	date_filter=2010
+0.20.6	id=teiis550	date_filter=2015
+0.20.6	id=teiis550	date_filter=2020
+0.20.6	id=teiis550	date_filter=2022
+0.20.6	id=teiis550	date_filter=2021
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = timeframe, nace_r2 = "TOTAL", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = timeframe, nace_r2 = "TOTAL", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.13.3	id=prc_ppp_ind
+0.13.3	id=prc_ppp_ind
+0.13.3	id=prc_ppp_ind
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,62 @@
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.12.3	id=hbs_exp_t111
+0.12.3	id=ilc_di01
+0.12.3	id=ilc_li02
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "MIO_PPS_EU27_2020")	date_filter=2021
+0.12.3	id=hbs_exp_t111
+0.12.3	id=hbs_exp_t111
+0.12.3	id=hbs_exp_t111
+0.12.3	id=hbs_exp_t121
+0.12.3	id=hbs_exp_t133
+0.12.3	id=hbs_exp_t133
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.12.3	id=hbs_exp_t111
+0.20.6	id=prc_hicp_mmor	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_mmor	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=prc_hicp_midx	filters=c("AT", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2019-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2019-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2018-01-01
+0.20.6	id=urt_lfu3pers
+0.20.6	id=urt_lfu3pers
+0.20.6	id=urt_10r_3pgdp
+0.20.6	id=prc_hicp_midx	filters=c("AT", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2018-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2018-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2018-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2018-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2018-01-01
+0.20.3	id=nama_10_GDP
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=nama_10_GDP
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=nama_10_GDP
+0.20.3	id=nama_10_GDP
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=nama_10_GDP
+0.20.3	id=nama_10_GDP
+0.20.3	id=nama_10r_3gdp
+0.20.3	id=nama_10r_3popgdp
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

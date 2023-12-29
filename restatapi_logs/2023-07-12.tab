@@ -1,0 +1,380 @@
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", primaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", primaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", "HH")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", primaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", primaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer)	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", primaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", primaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", "HH")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)	date_filter=2010:2019
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", primaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", primaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", "HH")	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("DE", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("EA", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("EA20", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("EA20", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("EA20", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("EA20", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", industrie)	date_filter=2019
+0.20.6	id=NASQ_10_NF_TR	filters=c("DE", "PAID", "B1G", "B1N", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("DE", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B3G", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B3G", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(num, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", industrie)	date_filter=2019
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

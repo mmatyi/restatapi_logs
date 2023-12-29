@@ -1,0 +1,13 @@
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=apro_mt_lspig
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE

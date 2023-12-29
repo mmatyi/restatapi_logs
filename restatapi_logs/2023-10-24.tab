@@ -1,0 +1,40 @@
+0.20.6	id=EI_BSIN_M_R2	filters=c("AT", "BS-ISPE", "SA")	date_filter=>2010-01-01
+0.20.6	id=EI_BSSE_M_R2	filters=c("AT", "BS-PE3M", "SA")	date_filter=>2010-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00")	date_filter=>2017-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2017-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2017-01-01
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=nama_10_A64	filters=c(countriesEU, "B1G", "CP_MEUR", industriesEU)	date_filter=seq(starttime, endtime)
+0.20.6	id=env_ac_pefasu	filters=c(countriesEU, "USE", industriesEU, energy_sources)	date_filter=seq(starttime, endtime)
+0.20.6	id=SBS_NA_SCA_R2	filters=c(countriesEU, industriesEUfull, sbs_vars)	date_filter=seq(starttime, endtime)
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

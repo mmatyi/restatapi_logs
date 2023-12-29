@@ -1,0 +1,165 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.14.1	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.14.1	id=namq_10_exi
+0.14.1	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.14.1	id=namq_10_exi
+0.14.1	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.14.1	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.14.1	id=namq_10_exi
+0.14.1	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.14.1	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.14.1	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.14.1	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.14.1	id=NASA_10_KI	filters=HR	date_filter=2000-01-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.14.1	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.14.1	id=NAMA_10_GDP
+0.14.1	id=nama_10_gdp	update_cache=TRUE	check_toc=TRUE
+0.14.1	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.14.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.14.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.14.1	id=ef_lus_main
+0.14.1	id=ef_lus_main	filters=list(agrarea = "TOTAL", farmtype = "TOTAL", unit = "HA", crops = c("UAA", "ARA", "J0000", "PECR"), so_eur = "TOTAL")
+0.10.0	id=namq_10_gdp	verbose=TRUE
+0.10.0	id=namq_10_gdp	verbose=TRUE
+0.14.1	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.14.1	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.14.1	id=avia_gonc	select_freq=A	cache=FALSE
+0.14.1	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.14.1	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.14.1	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.14.1	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.14.1	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.14.1	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.14.1	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.14.1	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", indic_bt = "PRIN")
+0.13.3	id=sts_inppd_m	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	date_filter=paste0("<", args$month_year)
+0.13.3	id=sts_inppd_m	date_filter=args$month_year
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36")	date_filter=paste0("<", args$month_year, "-01")
+0.14.1	id=namq_10_gdp	filters=list(s_adj = "NSA", freq = "Q")
+0.14.1	id=lfsq_egan	filters=list(age = "Y_GE15", geo = "PL", sex = "T", freq = "Q", unit = "THS")
+0.14.1	id=nasq_10_nf_tr	filters=list(geo = "PL", s_adj = "NSA", sector = c("S1", "S11", "S14_S15", "S12", "S13", "S2"), freq = "Q", unit = "CP_MNAC")
+0.14.1	id=bop_c6_q	filters=list(bop_item = c("CA", "D1", "D4P__F", "D2"), currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", sectpart = "S1", stk_flow = "BAL", freq = "Q")
+0.14.1	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.14.1	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M

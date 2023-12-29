@@ -1,0 +1,21 @@
+0.13.3	id=edat_lfs_9903	label=TRUE
+0.13.3	id=edat_lfse_04	label=TRUE
+0.20.6	id=bop_fdi6_pos	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=NAMA_10_GDP
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

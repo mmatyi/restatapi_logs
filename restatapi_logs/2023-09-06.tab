@@ -1,0 +1,92 @@
+0.21.2	id=apro_mt_lspig
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=TRUE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=TRUE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=FALSE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=FALSE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=FALSE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=FALSE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=FALSE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=FALSE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=FALSE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=FALSE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=FALSE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=FALSE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=FALSE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=FALSE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=FALSE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=FALSE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=FALSE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=FALSE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=FALSE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=FALSE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=FALSE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=TRUE	name=TRUE
+0.21.2	id=demo_pjan	filters=none	label=TRUE	name=TRUE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=TRUE	name=TRUE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=TRUE	name=TRUE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=TRUE	name=TRUE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=TRUE	name=TRUE
+0.21.2	id=demo_pjangroup	filters=list(sex = "T", unit = "NR")	label=TRUE	name=FALSE
+0.21.2	id=demo_pjan	filters=none	label=TRUE	name=FALSE
+0.21.2	id=hlth_hlye	filters=list(sex = "T", indic_he = "LE_0", unit = "YR")	label=TRUE	name=FALSE
+0.21.2	id=demo_pjan	filters=list(age = "TOTAL", sex = "T")	label=TRUE	name=FALSE
+0.21.2	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	label=TRUE	name=FALSE
+0.21.2	id=nrg_bal_c	filters=list(nrg_bal = "FEC2020-2030", siec = "TOTAL", unit = "KTOE")	label=TRUE	name=FALSE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,5 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=sts_inpr_m

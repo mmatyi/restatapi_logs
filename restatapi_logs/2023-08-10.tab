@@ -1,0 +1,56 @@
+0.21.2	id=NAMA_10_GDP
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig/A.A3132.M05_M06.THS_HD.AL
+0.21.2	id=apro_mt_lspig/A.A3132.M05_M06.THS_HD
+0.21.2	id=apro_mt_lspig
+0.21.2	id=demo_pjan
+0.21.2	id=agr_r_animal
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apri_lprc
+0.21.2	id=org_aprod
+0.21.2	id=org_lstspec
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=ef_m_farmleg
+0.21.2	id=ef_m_farmleg
+0.21.2	id=ef_m_farmleg	select_freq=A
+0.21.2	id=ef_m_farmleg	select_freq=A
+0.21.2	id=ef_m_farmleg	filters=A
+0.21.2	id=ef_m_farmleg
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apro_mt_lspig
+0.21.2	id=agr_r_animal
+0.21.2	id=apro_mt_sloth
+0.21.2	id=demo_pjan
+0.21.2	id=demo_pjan
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apri_lprc
+0.21.2	id=apri_lprc
+0.21.2	id=org_aprod
+0.21.2	id=org_aprod
+0.21.2	id=ef_m_farmleg
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=org_lstspec
+0.21.2	id=org_lstspec
+0.21.2	id=org_lstspec
+0.21.2	id=apro_mt_lspig
+0.21.2	id=agr_r_animal
+0.21.2	id=apro_mt_sloth
+0.21.2	id=demo_pjan
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apri_lprc
+0.21.2	id=org_aprod
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=org_lstspec
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=agr_r_animal
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig

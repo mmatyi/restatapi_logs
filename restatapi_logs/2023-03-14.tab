@@ -1,0 +1,44 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=TEIBS020
+0.20.3	id=une_rt_m dataset
+0.20.3	id=une_rt_m
+0.20.3	id=une_rt_m	filters=c("SA", "PC_ACT")
+0.20.3	id=une_rt_m	filters=c("SA", "PC_ACT", "TOTAL", "T")
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=TEIBS020
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=nama_10r_3gdp
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=nama_10r_3gdp
+0.20.3	id=nama_10r_3popgdp

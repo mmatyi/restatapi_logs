@@ -1,0 +1,14 @@
+0.21.2	id=demo_pjan
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=lfst_r_lfe2emp	date_filter=c("2000-01", "2022-12")	select_freq=A
+0.22.1	id=lfst_r_lfe2emp	date_filter=c("2000", "2022")
+0.22.1	id=lfst_r_lfe2emp	filters=c("FR")	date_filter=c("2000", "2022")
+0.22.1	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

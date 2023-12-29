@@ -1,0 +1,82 @@
+0.21.2	id=apro_mt_lspig
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")	date_filter=c(1980:2023)
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")	date_filter=c(1980:2023)
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")	date_filter=c(1975:2023)
+0.21.2	id=IRT_LT_MCBY_Q	filters=c("PL", "MCBY")
+0.21.2	id=PRC_HICP_MIDX	filters=c("PL", "I15", "TOT_X_AP")
+0.21.2	id=ERT_EFF_IC_Q	filters=c("PL", "NEER_IC42")
+0.21.2	id=NAMQ_10_LP_ULC	filters=c("PL", "RLPR_PER", "I15", "NSA")
+0.21.2	id=UNE_RT_Q	filters=c("PL", "Y15-74", "PC_ACT", "SA", "T")
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")	date_filter=c(1975:2023)
+0.21.2	id=IRT_LT_MCBY_Q	filters=c("PL", "MCBY")
+0.21.2	id=PRC_HICP_MIDX	filters=c("PL", "I15", "TOT_X_AP")
+0.21.2	id=ERT_EFF_IC_Q	filters=c("PL", "NEER_IC42")
+0.21.2	id=NAMQ_10_LP_ULC	filters=c("PL", "RLPR_PER", "I15", "NSA")
+0.21.2	id=UNE_RT_Q	filters=c("PL", "Y15-74", "PC_ACT", "SA", "T")
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")	date_filter=c(1975:2023)
+0.21.2	id=IRT_LT_MCBY_Q	filters=c("PL", "MCBY")
+0.21.2	id=PRC_HICP_MIDX	filters=c("PL", "I15", "TOT_X_AP")
+0.21.2	id=ERT_EFF_IC_Q	filters=c("PL", "NEER_IC42")
+0.21.2	id=NAMQ_10_LP_ULC	filters=c("PL", "RLPR_PER", "I15", "NSA")
+0.21.2	id=UNE_RT_Q	filters=c("PL", "Y15-74", "PC_ACT", "SA", "T")
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")	date_filter=c(1975:2023)
+0.21.2	id=IRT_LT_MCBY_Q	filters=c("PL", "MCBY")
+0.21.2	id=PRC_HICP_MIDX	filters=c("PL", "I15", "TOT_X_AP")
+0.21.2	id=ERT_EFF_IC_Q	filters=c("PL", "NEER_IC42")
+0.21.2	id=NAMQ_10_LP_ULC	filters=c("PL", "RLPR_PER", "I15", "NSA")
+0.21.2	id=UNE_RT_Q	filters=c("PL", "Y15-74", "PC_ACT", "SA", "T")
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")
+0.21.2	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "NSA")
+0.21.2	id=IRT_LT_MCBY_Q	filters=c("PL", "MCBY")
+0.21.2	id=PRC_HICP_MIDX	filters=c("PL", "I15", "TOT_X_AP")
+0.21.2	id=ERT_EFF_IC_Q	filters=c("PL", "NEER_IC42")
+0.21.2	id=NAMQ_10_LP_ULC	filters=c("PL", "RLPR_PER", "I15", "NSA")
+0.21.2	id=UNE_RT_Q	filters=c("PL", "Y15-74", "PC_ACT", "SA", "T")
+0.21.2	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_ENT", size_emp = size)	date_filter=2022:2022
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.20.6	id=hrst_st_ncat	filters=list("THS_PER", "Y25-64", "HRSTE", "HRSTC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list("THS_PER", "Y25-64", "HRSTE", "HRSTC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list("THS_PER", "Y25-64", "HRSTE", "HRSTC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list("THS_PER", "Y25-64", "SE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list("THS_PER", "Y25-64", category = "SE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(citizen = "TOTAL", age = "Y25-64")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(citizen = "TOTAL", age = "Y25-64")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=agr_r_animal
+0.21.2	id=apro_mt_sloth
+0.21.2	id=demo_pjan
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apri_lprc
+0.21.2	id=org_aprod
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=org_lstspec
+0.21.2	id=apri_lprc
+0.21.2	id=org_aprod
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=org_lstspec
+0.21.2	id=apro_mt_lspig
+0.21.2	id=apro_mt_lspig
+0.21.2	id=agr_r_animal
+0.21.2	id=agr_r_animal

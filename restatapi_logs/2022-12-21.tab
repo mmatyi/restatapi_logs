@@ -1,0 +1,97 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=DS-045409	filters=c("EU27_2020", "RU", "M", "2709", "2710", "VALUE_IN_EUROS")	date_filter=>2018-01-01
+0.13.3	id=DS-045409	filters=c("1", "EU27_2020", "RU", "M", "2709", "2710", "VALUE_IN_EUROS")	date_filter=>2018-01-01
+0.13.3	id=DS-045409	filters=c("1", "EU27_2020", "RU", "M", "2709", "2710", "TRD_VAL")	date_filter=>2018-01-01
+0.13.3	id=DS-045409
+0.13.3	id=DS-045409	filters=c("1", "EU27_2020")	date_filter=>2018-01-01
+0.13.3	id=DS-045409
+0.13.3	id=DS-045409	check_toc=TRUE
+0.13.3	id=EXT_ST_EU27_2020SITC	check_toc=TRUE
+0.13.3	id=EXT_ST_EU27_2020SITC
+0.13.3	id=DS-045409
+0.13.3	id=DS-045409	check_toc=TRUE
+0.13.3	id=ext_go_detail
+0.13.3	id=ext_go_detail	check_toc=TRUE
+0.13.3	id=comext
+0.13.3	id=ext_ser
+0.13.3	id=DS-645593
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=EXT_ST_EU27_2020SITC 	filters=c("RU", "TRD_VAL", "SITC33", "IMP", "O4600")	date_filter=>2018-01-01
+0.13.3	id=EXT_ST_EU27_2020SITC 	filters=c("RU", "TRD_VAL", "SITC33", "IMP", "O4600")	date_filter=>2018-01-01
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=isoc_cisce_ra	filters=list(geo = "EU27_2020", indic_is = "E_SECMSPSW")	date_filter=2019:2022
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.14.0	id=DS-066341	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+abel=TRUE	select_freq=A	name=FALSE
+0.14.0	id=DS-066341	label=TRUE	name=FALSE
+0.14.0	id=DS-066341	filters=BE	label=TRUE	name=FALSE
+0.14.0	id=DS-agr_r_milkpr	filters=BE	label=TRUE	name=FALSE
+0.14.0	id=agr_r_milkpr	filters=BE	label=TRUE	name=FALSE
+0.14.0	id=DS-066341	filters=BE	label=TRUE	cflags=TRUE	name=FALSE	perl=TRUE
+0.13.3	id=prc_hicp_midx
+0.14.0	id=DS-066341	filters=BE	label=TRUE	cflags=TRUE	name=FALSE	perl=TRUE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=DS - 645593
+0.13.3	id=DS-645593
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_inw
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.A B C D E F G H I J K L M N O P Q R S T U.B1G.EU27_2020 EA NL
+0.13.3	id=NAMA_10_A64	filters=A.CLV05_MEUR.A B C D E F G H I J K L M N O P Q R S T U.B1G.EU27_2020 EA NL
+0.13.3	id=NAMA_10_A64	filters=A.CLV05_MEUR.A B C D E F G H I J K L M N O P Q R S T U.B1G.EU27_2020 EA NL
+0.13.3	id=tespm140

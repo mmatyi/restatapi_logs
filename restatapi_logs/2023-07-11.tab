@@ -1,0 +1,65 @@
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=nama_10_A64_custom_6849720
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "A")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "A", "B")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "A")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "B", "C", "D", "E", "F")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "A")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "B", "C", "D", "E", "F")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "T", "U")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "T")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "A")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "A")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "A")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CP_MEUR", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CP_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CP_MEUR", "P31_S14")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B2A3G", "P51C", "NSA", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B2A3G", "P51C", "NSA", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B2A3G", "P51C", "NSA", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B2A3G", "P51C", "NSA", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B2A3G", "P51C", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B2A3G", "P51C", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "B1N", "B2A3G", "P51C", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=nama_10_A64	filters=list(geo = test)
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=nama_10_A64	filters=list(geo = test)	exact_match=B1G	date_filter=CLV15_MEUR
+0.20.6	id=nama_10_A64	filters=list(geo = test)
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=c(filter_1, "DE")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP00")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP00")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

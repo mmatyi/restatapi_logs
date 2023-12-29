@@ -1,0 +1,55 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=EXT_ST_EA19SITC
+0.13.3	id=EXT_ST_EA19SITC
+0.13.3	id=EXT_ST_EA19SITC
+0.13.3	id=EXT_ST_EA19SITC
+0.20.3	id=PRC_HICP_MANR	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR
+0.20.3	id=PRC_HICP_MANR	date_filter=2014-01<
+0.20.3	id=PRC_HICP_MANR	date_filter=2014-01
+0.20.3	id=PRC_HICP_MANR	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR	date_filter=2014-01:2022-12
+0.20.3	id=PRC_HICP_MANR	date_filter=2014-01<
+0.20.3	id=PRC_HICP_MANR	date_filter=2014<
+0.20.3	id=PRC_HICP_MANR	date_filter=2014
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR
+0.20.3	id=PRC_HICP_MANR
+0.20.3	id=PRC_HICP_MANR
+0.20.3	id=PRC_HICP_MANR
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.6	id=teina011	date_filter=c("2021-08")
+0.20.6	id=teina011
+0.20.6	id=teina011	date_filter=c("2021")
+0.20.6	id=teina011	date_filter=c("2019")
+0.20.6	id=namq10gdp	date_filter=c("2019")
+0.20.6	id=namq_10_gdp	date_filter=c("2019")
+0.20.6	id=namq_10_gdp
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=LFST_R_LFE2EMP
+0.20.6	id=LFST_R_LFE2EMP	filters=LIST(age = "Y20-64", sex = "T")
+0.20.6	id=LFST_R_LFE2EMP	filters=list(age = "Y20-64", sex = "T")

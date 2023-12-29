@@ -1,0 +1,53 @@
+0.20.6	id=GEO
+0.20.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c("2016-Q1", "2017-Q3")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c("2016-Q1:2017-Q3")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c("2016Q1:2017Q3")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c("2016-01:2017-03")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2008", "2015")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2008:2015")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2008>")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2008:")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2008<")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("<2008")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c(">=2008")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c(">2008")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2008<")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c(">2007")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("<2007")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2007:")
+0.20.6	id=nama_10_a10_e	filters=list(geo = "DE")	date_filter=c("2007:<")
+0.20.6	id=prc_hicp_cow
+0.20.6	id=prc_hicp_cow
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=NAMA_10_GDP	filters=list(geo = "AT")
+0.20.6	id=NAMA_10_GDP	filters=list(geo = "AT")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx	filters=list(geo = "EA", unit = "I15")
+0.20.6	id=prc_hicp_midx	filters=list(freq = "M", unit = "I15")	date_range=c("2020<")
+0.20.6	id=prc_hicp_midx	filters=list(freq = "M", unit = "I15")	date_filter=c("2020<")
+0.20.6	id=prc_hicp_midx	filters=list(FREQ = "M", unit = "I15")	date_filter=c("2020<")
+0.20.6	id=rd_p_persocc
+0.20.6	id=rd_p_persocc	filters=list(sectperf = c("BES", "GOV", "HES", "PNP", "TOTAL"), unit = "FTE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(sectperf = c("BES", "GOV", "HES", "PNP", "TOTAL"), unit = "FTE", profpors = "RES")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(sectperf = c("BES", "GOV", "HES", "PNP", "TOTAL"), unit = "FTE", profpos = "RES")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(sectperf = c("BES", "GOV", "HES", "PNP", "TOTAL"), unit = "FTE", prof_pos = "RES")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(sectperf = c("BES", "GOV", "HES", "PNP", "TOTAL"), unit = "FTE", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot
+0.20.6	id=rd_e_gerdtot	filters=list(sectperf = c("BES", "GOV", "HES", "PNP", "TOTAL"), unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_perssci
+0.20.6	id=rd_p_perssci	filters=list(sectperf = c("GOV", "HES"), unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_perssci	filters=list(sectperf = c("GOV", "HES"), unit = "HC", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persage
+0.20.6	id=rd_p_persage	filters=list(sectperf = c("GOV", "HES"), unit = "HC", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=LFSA_AGAN
+0.20.6	id=LFSA_AGAN	filters=list(sectperf = c("GOV", "HES"), unit = "HC", age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=LFSA_AGAN	filters=list(sectperf = c("GOV", "HES"), unit = "HC", age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

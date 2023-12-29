@@ -1,0 +1,79 @@
+0.21.2	id=apro_mt_pwgtm
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=NAMA_10_GDP
+0.13.3	id=nama_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp	check_toc=TRUE
+0.13.3	id=nama_10_gdp	check_toc=TRUE
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	check_toc=TRUE
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=sdg_08_10
+0.13.3	id=namq_10_gdp
+0.13.3	id=NAMA_10_GDP
+0.13.3	id=namq_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=ei_bpm6ca_q
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.13.3	id=NAMA_10_GDP
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.20.6	id=NAMA_10_GDP
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=nama_10_lp
+0.20.6	id=nama_10_lp
+0.20.6	id=NAMA_10_LP_21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21	update_cache=TRUE	cache_dir=/tmp	cflags=TRUE	check_toc=TRUE	stringAsFactors=FALSE
+0.20.6	id=nama_10_lp_a21	update_cache=TRUE	check_toc=TRUE
+0.20.6	id=nama_10_lp_a21	update_cache=TRUE
+0.20.6	id=nama_10_lp_a21	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21	cflags=TRUE	stringAsFactors=FALSE
+0.20.6	id=nama_10_lp_a21	cflags=FALSE	stringAsFactors=FALSE
+0.20.6	id=nama_10_lp_a21	filters=c(ms, na_item)	date_filter=c(dates)	select_freq=A
+0.20.6	id=nama_10_lp_a21	filters=c(ms)	date_filter=c(dates)	select_freq=A
+0.20.6	id=nama_10_lp_a21	select_freq=A	stringAsFactors=FALSE
+0.20.6	id=nama_10_lp_a21	select_freq=A
+0.20.6	id=nama_10_lp_a21	filters=c(ms)	date_filter=c(dates)
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21	date_filter=c(dates)
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21	date_filter=2018
+0.20.6	id=nama_10_lp_a21	date_filter=2018
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21	filters=c(ms, na_item)
+0.20.6	id=nama_10_lp_a21	filters=c(ms, na_item)
+0.20.6	id=nama_10_lp_a21	filters=BE
+0.20.6	id=nama_10_lp_a21	filters=Belgium
+0.20.6	id=nama_10_lp_a21	filters=RLPR_PER
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21
+0.20.6	id=nama_10_lp_a21	filters=list(geo = c("LT", "HU"), time = dates)
+0.20.6	id=nama_10_lp_a21	filters=list(geo = c("LT", "HU"))
+0.20.6	id=nama_10_lp_a21	filters=list(geo = "HU")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,18 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=Area under organ	date_filter=2007-06<	keep_flags=TRUE
+0.20.6	id=Area under organ	keep_flags=TRUE
+0.20.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.20.6	id=org_cropar_h2	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.20.6	id=org_cropar_h2
+0.20.6	id=org_cropar_h2
+0.20.6	id=sdg_02_40
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,68 @@
+0.20.6	id=educ_uoe_grad02	filters=list(sex = "F", isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"))	label=TRUE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list("ED8", c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list("ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list("ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list("ED8", c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"), c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list("ED8", c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=FALSE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=for_basic
+0.20.6	id=for_irass
+0.20.6	id=for_irspec
+0.20.6	id=for_owner
+0.20.6	id=for_pp
+0.20.6	id=for_remov
+0.20.6	id=for_secpp
+0.20.6	id=for_secwp
+0.20.6	id=for_swpan
+0.20.6	id=for_swspec
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

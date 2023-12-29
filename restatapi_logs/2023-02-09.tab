@@ -1,0 +1,15 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.14.1	id=nrg_bal_c	filters=.PPRD.TOTAL.KTOE	date_filter=c(2000:2022)
+0.14.1	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.13.3	id=bd_9bd_sz_cl_r2	filters=list(geo = country_codes[][, iso2], indic_sb = c("V97015", "V97020", "V97030"))
+0.13.3	id=bd_9bd_sz_cl_r2	filters=list(geo = country_codes[][, iso2], indic_sb = c("V97015", "V97020", "V97030"))
+0.13.3	id=bd_9bd_sz_cl_r2	filters=country_codes[][, iso2]
+0.13.3	id=bd_9bd_sz_cl_r2	filters=c(geo = country_codes[][, iso2])
+0.13.3	id=bd_9bd_sz_cl_r2

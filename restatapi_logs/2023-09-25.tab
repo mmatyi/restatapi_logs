@@ -1,0 +1,54 @@
+0.22.1	id=SBS_NA_1A_SE_R2	filters=AT	date_filter=c("2020", "2021")	select_freq=A
+0.22.1	id=SBS_NA_1A_SE_R2	filters=AT V11110	date_filter=c("2020", "2021")	select_freq=A
+0.22.1	id=SBS_NA_1A_SE_R2	filters=AT.V11110	date_filter=c("2020", "2021")	select_freq=A
+0.22.1	id=SBS_NA_1A_SE_R2	filters=c("AT", "V11110")	date_filter=c("2020", "2021")	select_freq=A
+0.22.1	id=SBS_NA_1A_SE_R2	filters=c("AT", "V11110")	date_filter=c(2015:2022)	select_freq=A
+0.22.1	id=SBS_NA_1A_SE_R2	filters=c("AT", "V11110")	date_filter=c(2015:2022)	select_freq=A	cflags=TRUE	stringAsFactors=FALSE
+0.22.1	id=SBS_NA_1A_SE_R2	filters=c("AT", "V11110")	date_filter=c(2015:2022)	select_freq=A	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("TOTAL"))	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(isced11 = "ED8", iscedf13 = c("TOTAL"), partner = "EUR", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = "ED8", iscedf13 = c("TOTAL"))	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(isced11 = "ED8", iscedf13 = c("TOTAL"), partner = "EUR", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(isced11 = "ED8", iscedf13 = c("TOTAL"), partner = "EUR", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(isced11 = "ED8", iscedf13 = c("TOTAL"), mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(isced11 = "ED8", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(isced11 = "ED8", mobility = "SP_WPL", partner = "EUR")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(partner = "EUR", isced11 = "ED8", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(partner = "EU27_2020", isced11 = "ED8", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=EDUC_UOE_MOBC02	filters=list(partner = "EU27_2020", isced11 = "ED8", mobility = "SP_WPL")	date_filter=c("2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_egan	filters=list(citizen = "TOTAL", age = "Y25-64", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "HRSTC", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=SBS_NA_1A_SE_R2	filters=c("AT", "V11110")	date_filter=c(2015:2022)	select_freq=A	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT", "V11110")	date_filter=c(2015:2022)	select_freq=A	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2015:2022)	select_freq=A	cflags=TRUE
+0.22.1	id=BOP_ITS6_DET	filters=c("AT")	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2015:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2015:2022)	select_freq=A	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	date_filter=c(2015:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=NULL	date_filter=NULL	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=NULL	date_filter=NULL	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=NULL	date_filter=NULL	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=NULL	date_filter=c(2000:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=NULL	date_filter=c(2000:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2000:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2000:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2000:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	date_filter=c(2000:2022)	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE	force_local_filter=TRUE
+0.22.1	id=sbs_na_sca_r2	filters=c("AT")	select_freq=A	stringsAsFactors=FALSE	cflags=TRUE	force_local_filter=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,72 @@
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.20.6	id=bop_fdi6_pos	date_filter=c(2018, 2019, 2020, 2021)	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_pos	date_filter=c("2018", "2019", "2020", "2021")	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_pos	date_filter=c("2018", "2019", "2020", "2021")	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_pos	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_inc	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_flow	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_geo	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")
+0.20.6	id=prc_hicp_mmor	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP11", "CP0722", "SERV")	date_filter=>2021-01-01
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "EU27_2020", "EA", "DE", "CH", "PC_GDP", "SCA", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "EU27_2020", "EA20", "DE", "CH", "PAID", "CP_MEUR", "NSA", "S1", "P51G", "P51C", "B1GQ")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "EU27_2020", "EA", "DE", "CH", "PC_GDP", "SCA", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "EU27_2020", "EA20", "DE", "CH", "PAID", "CP_MEUR", "NSA", "S1", "P51G", "P51C", "B1GQ")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("AT", "N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.20.6	id=NAMQ_10_AN6	filters=c("N117G", "PC_TOT", "SCA")
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=bop_fdi6_pos	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_inc	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=bop_fdi6_flow	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw05	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

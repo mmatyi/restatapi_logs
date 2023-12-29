@@ -1,0 +1,39 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 NL DE BE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 NL DE BE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 NL DE BE
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=sbs_na_1a_se_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020	nace_r2=S951
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=sbs_na_1a_se_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110", nace_r2 = "S951")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110", nace_r2 = "ICT")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inpr_m	filters=list(unit = "I15", nace_r2 = "B-D", s_adj = "SCA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LV", "MT", "PL", "PT", "RO", "SE", "SI", "SK"), indic_bt = "PROD")	date_filter=paste0("<", args$month_year, "-01")

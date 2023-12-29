@@ -1,0 +1,151 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = c(EU27, "EU27_2020", "NO"), NA_ITEM = "P1", UNIT = "CP_MEUR")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.22.1	id=nama_10_gdp
+0.22.1	id=nama_10_gdp
+0.22.1	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2019
+0.22.1	id=nama_10_a64	filters=list(GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_gdp
+0.22.1	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2022
+0.22.1	id=ext_lt_intratrd	date_filter=c("2010-01-01", "2011-01-01")	select_freq=Y
+0.22.1	id=ext_lt_intratrd	date_filter=c("2010-01-01", "2011-01-01")	select_freq=A
+0.22.1	id=DS-045409	date_filter=c("2010-01-01", "2011-01-01")	select_freq=A
+0.22.1	id=DS-045409	date_filter=c("2010-01-01", "2011-01-01")	select_freq=A	verbose=TRUE
+0.22.1	id=DS-045409	date_filter=c("2010", "2011")	select_freq=A	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(unit = "MIO_EUR", geo = "IT")	date_filter=2015:2019	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G"), UNIT = "CP_MEUR")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10_a64	filters=list(NA_ITEM = c("B1G"), UNIT = "CP_MEUR", GEO = c(EU27, "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=naio_10_cp15	filters=list(INDUSE = nace_selection, UNIT = "MIO_EUR", PROD_NA = c("CPA_M72", "TOTAL"), GEO = c(EU27, "EU27_2020", "NOR"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=hlth_sha11_hphf	filters=list(ICHA11_HF = c("HF1", "HF2", "TOT_HF"), ICHA11_HP = "HP7", UNIT = "MIO_EUR", GEO = c(EU27, "NOR"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.22.1	id=hlth_sha11_hphf	filters=list(ICHA11_HF = c("HF1", "HF2", "TOT_HF"), ICHA11_HP = "HP7", UNIT = "MIO_EUR", GEO = c(EU27, "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=naio_10_cp15	filters=list(INDUSE = c("TOTAL", "OTTM"), UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020", "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=hlth_sha11_hphf	filters=list(ICHA11_HF = c("HF1", "HF2", "TOT_HF"), ICHA11_HP = "HP7", UNIT = "MIO_EUR", GEO = c(EU27, "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=TRUE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.1	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE

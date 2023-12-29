@@ -1,0 +1,27 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.12.3	id=PRC_HPI_Q	update_cache=TRUE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE	check_toc=TRUE
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=rd_p_persreg	nuts_level=2
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=agr_r_milkpr	filters=c("^HU..")	date_filter=2017-05-19<	cflags=TRUE	perl=TRUE
+0.13.3	id=ext_st_eu27_2020sitc
+0.13.3	id=ext_st_eu27_2020sitc	indic_et=("IVOL_SCA")
+0.13.3	id=ext_st_eu27_2020sitc	indic_et_filter=IVOL_SCA
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA")
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5")	date_filter=2018-01-01>	cflags=TRUE	perl=TRUE
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=2018-01-01>
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01

@@ -1,0 +1,104 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.10.0	id=ei_bsco_m	label=TRUE
+0.10.0	id=ei_bsco_q	label=TRUE
+0.10.0	id=ei_bsin_m_r2	label=TRUE
+0.10.0	id=ei_bsin_q_r2	label=TRUE
+0.10.0	id=ei_bsbu_m_r2	label=TRUE
+0.10.0	id=ei_bsbu_q_r2	label=TRUE
+0.10.0	id=ei_bsrt_m_r2	label=TRUE
+0.10.0	id=ei_bssi_m_r2	label=TRUE
+0.10.0	id=ei_bsse_m_r2	label=TRUE
+0.10.0	id=ei_bsse_q_r2	label=TRUE
+0.10.0	id=ei_bsci_m_r2	label=TRUE
+0.10.0	id=ei_bsfs_m	label=TRUE
+0.10.0	id=ei_bsfs_q	label=TRUE
+0.10.0	id=ei_bsee_m_r2	label=TRUE
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=lc_rcost_r2
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp
+0.13.3	id=UNE_RT_A
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=UNE_RT_A	filters=list(unit = "PC_ACT", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=UNE_RT_A	filters=list(unit = "PC_ACT", sex = "T", age = "Y15-74", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=UNE_RT_A	filters=list(unit = "PC_ACT", sex = "M", "F", age = "Y15-74", geo = c("EE"))	date_filter=2000:2021
+0.13.3	id=UNE_RT_A	filters=list(unit = "PC_ACT", sex = "T", age = "Y15-74", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", unit = "PD10_NAC", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "PD10_NAC", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inpr_m	filters=list(unit = "I15", nace_r2 = "B-D", s_adj = "SCA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LV", "MT", "PL", "PT", "RO", "SE", "SI", "SK"), indic_bt = "PROD")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", unit = "PD10_NAC", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", freq = annual, geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", unit = "PD05_NAC", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", unit = "cp_meur", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=nama_10_gdp	filters=list(na_item = "D11", unit = "CP_MEUR", geo = c("EE", "LV", "SE", "DE"))	date_filter=2000:2021
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=PRC_HICP_MIDX
+0.13.3	id=PRC_HICP_CTRB
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inpr_m	filters=list(unit = "I15", nace_r2 = "B-D", s_adj = "SCA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LV", "MT", "PL", "PT", "RO", "SE", "SI", "SK"), indic_bt = "PROD")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=tour_occ_nim	filters=list(unit = "NR", nace_r2 = "I551-I553", c_resid = "TOTAL", geo = c("AT", "BE", "CY", "CZ", "DE", "DK", "EL", "ES", "FI", "FR", "HR", "HU", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=paste0("<", args$month_year, "-01")

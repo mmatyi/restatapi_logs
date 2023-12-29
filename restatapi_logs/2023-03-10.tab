@@ -1,0 +1,90 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.20.6	id=BPM6
+0.20.6	id=BOP_C6_Q
+0.20.6	id=bop_c6_q
+0.20.6	id=bop_c6_q	filters=list(currency = "MIO_EUR", partner = "WRL_REST", reporting = "IT", sector10 = "S1", sectpart = "S1", stk_flow = c("CRE", "DEB", "BAL"))
+0.20.6	id=bop_c6_q	filters=list(currency = "MIO_EUR", partner = "WRL_REST", reporting = "IT", sector10 = "S1", sectpart = "S1", )
+0.20.6	id=bop_c6_q	filters=list(currency = "MIO_EUR", partner = "WRL_REST", reporting = "IT", sector10 = "S1", sectpart = "S1")
+0.20.6	id=bop_c6_q	filters=list(currency = "MIO_EUR", partner = "WRL_REST", reporting = "IT")
+0.20.6	id=bop_c6_q	filters=list(currency = "MIO_EUR")
+0.20.6	id=bop_c6_q
+0.20.6	id=bop_c6_q
+0.20.6	id=bop_c6_q
+0.20.3	id=M.SA.TOTAL.PC_ACT.T.
+0.20.3	id=NAMA_10_GDP
+0.20.6	id=bop_c6_q
+0.20.6	id=namq_10_gdp	filters=list(geo = "PL", na_item = NAitems, s_adj = "SCA", unit = c("CP_MNAC", "CLV15_MNAC"))
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "P51G", sector = "S13", s_adj = "SCA", direct = "PAID", unit = c("CP_MNAC"))
+0.20.6	id=namq_10_pe	filters=list(geo = "PL", na_item = "EMP_DC", s_adj = "SA", unit = "THS_PER")
+0.20.6	id=lfsq_pgacws	filters=list(wstatus = LFSitems, c_birth = "TOTAL", geo = "PL", unit = "THS", sex = "T", age = "Y15-74")
+0.20.6	id=lfsq_egaps	filters=list(wstatus = "SAL", geo = "PL", sex = "T", age = "Y15-74")
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "B3G", s_adj = "NSA", sector = "S1", direct = "PAID", unit = "CP_MNAC")
+0.20.6	id=namq_10_gdp	filters=list(geo = "PL", na_item = VAitems, s_adj = "SCA", unit = "CP_MNAC")
+0.20.6	id=namq_10_gdp	filters=list(geo = "EA19", na_item = "B1GQ", s_adj = "SCA", unit = c("CP_MEUR", "CLV15_MEUR"))
+0.20.6	id=namq_10_gdp	filters=list(geo = "EA19", na_item = "B1GQ", s_adj = "SCA", unit = c("CP_MEUR", "CLV15_MEUR"))
+0.20.6	id=bop_c6_q	filters=list(geo = "PL", bop_item = CAitems, currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", stk_flow = "BAL")
+0.20.6	id=bop_iip6_q	filters=list(geo = "PL", bop_item = "FA", currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", sectpart = "S1", stk_flow = "N_LE")	time_format=function (length = 0)  .Internal(vector("raw", length))
+0.20.6	id=bop_iip6_q	filters=list(geo = "PL", bop_item = "FA", currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", sectpart = "S1", stk_flow = "N_LE")
+0.20.6	id=prc_hicp_midx	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=prc_hicp_inw	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=prc_hicp_inw	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=irt_st_m	filters=list(geo = "PL", int_rt = "IRT_M3")
+0.20.6	id=irt_st_m	filters=list(geo = "EA", int_rt = "IRT_M3")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "PL")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "PL")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "EA")
+0.20.6	id=ert_bil_eur_q	filters=list(currency = "PLN", statinfo = "AVG")
+0.20.6	id=ert_bil_eur_q	filters=list(currency = "USD", statinfo = "AVG")
+0.20.6	id=ert_eff_ic_q	filters=list(geo = "PL", exch_rt = "NEER_EA19")
+0.20.6	id=gov_10q_ggdebt	filters=list(geo = "PL", na_item = "GD", sector = "S13", unit = "MIO_NAC")
+0.20.6	id=gov_10q_ggnfa	filters=list(geo = "PL", na_item = FISitems, sector = "S13", unit = "MIO_NAC", s_adj = "SCA")
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = PYNitems, s_adj = "SCA", unit = "CP_MNAC", sector = "S14_S15", direct = c("PAID", "RECV"))
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "D1", sector = "S13", s_adj = "NSA", direct = "PAID", unit = c("CP_MNAC"))
+0.20.6	id=bop_c6_q
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2020:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2020:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("B1GQ", "CP_MNAC", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MEUR", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=URB_CLMA	time_format=num
+0.13.3	id=URB_CLMA
+0.13.3	id=NAMA_10_GDP
+0.13.3	id=NAMA_10_GDP
+0.13.3	id=URB_CLMA
+0.13.3	id=BOP_GDP6_Q	time_format=num
+0.13.3	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }

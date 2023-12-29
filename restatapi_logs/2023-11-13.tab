@@ -1,0 +1,40 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=apri_lrnt	filters=("BE")	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lprc__custom_8455132	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lprc__custom_8455132	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lprc__custom_8455132	filters=eu$NMS28	exact_match=TRUE	label=FALSE	verbose=TRUE
+0.22.1	id=agr_r_milkpr	filters=eu$NMS10	date_filter=2009-03:2011-06-05
+0.22.1	id=agr_r_milkpr	filters=BE	exact_match=FALSE	date_filter=<2009-07	label=TRUE	keep_flags=TRUE
+0.22.1	id=agr_r_milkpr	filters=c("^HU..")	date_filter=2017-05-19<	cflags=TRUE	perl=TRUE
+0.22.1	id=agr_r_milkpr	filters=eu$NMS10	date_filter=2009-03:2011-06-05
+0.22.1	id=agr_r_milkpr	filters=BE	exact_match=FALSE	date_filter=<2009-07	label=TRUE	keep_flags=TRUE
+0.22.1	id=agr_r_milkpr	filters=c("^HU..")	date_filter=2017-05-19<	cflags=TRUE	perl=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=rd_p_persage	filters=list(unit = "HC", sectperf = c("BES", "HES"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persage	filters=list(unit = "HC", sectperf = c("GOV", "HES"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=lfst_r_lfe2emp	filters=c("FR[0-9]*")	date_filter=c("1990-2022")
+0.22.1	id=lfst_r_lfe2emp	filters=c("FR[0-9]*")	date_filter=c("1990-2022")
+0.22.1	id=lfst_r_lfe2emp	filters=c("FR[0-9]*")	date_filter=c("1990-2022")

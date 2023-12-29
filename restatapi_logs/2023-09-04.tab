@@ -1,0 +1,27 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=apro_mt_lspig
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "EU27_2020", "EA", "DE", "CH", "PC_GDP", "SCA", "P51G")
+0.20.6	id=lfsa_egan	filters=list(citizen = "TOTAL", age = "Y25-64", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_egan	filters=list(citizen = "TOTAL", age = "Y25-64", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "HRSTC", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_egan	filters=list(citizen = "TOTAL", age = "Y25-64", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "HRSTC", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

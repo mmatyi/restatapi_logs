@@ -1,0 +1,85 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=nama_10r_3gdp	filters=c("DE*", "FR*")	date_filter=2000:2020
+0.22.1	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020
+0.20.6	id=urt_lfu3rt	filters=list(age = "Y15-74")	date_filter=2011:2022
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "UK", "PL"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "GB", "PL"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "GB", "PL"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "GB", "PL"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("DE", "FR", "ES", "IT", "NL", "BE", "IR", "PL"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=EI_BSCO_M	filters=c("SK", "SA")
+0.22.1	id=EI_BSIN_M_R2	filters=c("SK", "SA")
+0.22.1	id=EI_BSBU_M_R2	filters=c("SK", "SA")
+0.22.1	id=EI_BSRT_M_R2	filters=c("SK", "SA")
+0.22.1	id=EI_BSSE_M_R2	filters=c("SK", "SA")
+0.22.1	id=ei_bsco_q	filters=c("SK", "SA")
+0.22.1	id=ei_bsin_q_r2	filters=c("SK", "SA")
+0.22.1	id=STS_INPR_M
+0.22.1	id=PRC_HICP_MIDX	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=ei_lmhr_m	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "P3_P5", "CLV_I15", "SCA")	date_filter=(2010:2023)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "P3_P5", "CLV_I15", "SCA")	date_filter=(2000:2023)
+0.22.1	id=nama_10_a64	filters=c("P1", "A", "B", "C", "F", "G", "H", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a64	filters=c("P1", "A", "B", "C", "F", "G", "H", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a64_p5	filters=c("N11G", "P51G", "A", "B", "C", "F", "G", "H", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a64_e	filters=c("EMP_DC", "A", "B", "C", "F", "G", "H", "THS_PER")	date_filter=c(1995:2022)
+0.20.6	id=namq_10_lp_ulc	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "I15", "NSA", "RLPR_HW", "NULC_HW")	date_filter=>2010-01-01	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "NL", "CLV15_MEUR", "B1G", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "NL", "CP_MEUR", "D1", "NSA", "C")	label=TRUE	name=FALSE
+0.22.1	id=EI_BSCO_M	filters=c("EA20", "SA")
+0.22.1	id=EI_BSIN_M_R2	filters=c("EA19", "SA")
+0.22.1	id=EI_BSBU_M_R2	filters=c("EA19", "SA")
+0.22.1	id=EI_BSRT_M_R2	filters=c("EA19", "SA")
+0.22.1	id=EI_BSSE_M_R2	filters=c("EA19", "SA")
+0.22.1	id=ei_bsco_q	filters=c("EA19", "SA")
+0.22.1	id=ei_bsin_q_r2	filters=c("EA19", "SA")
+0.22.1	id=STS_INPR_M
+0.22.1	id=PRC_HICP_MIDX	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=ei_lmhr_m	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=EI_BSCO_M	filters=c("EA20", "SA")
+0.22.1	id=EI_BSIN_M_R2	filters=c("EA19", "SA")
+0.22.1	id=EI_BSBU_M_R2	filters=c("EA19", "SA")
+0.22.1	id=EI_BSRT_M_R2	filters=c("EA19", "SA")
+0.22.1	id=EI_BSSE_M_R2	filters=c("EA19", "SA")
+0.22.1	id=ei_bsco_q	filters=c("EA19", "SA")
+0.22.1	id=ei_bsin_q_r2	filters=c("EA19", "SA")
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan
+0.22.1	id=eurostat_pop_id
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan
+0.22.1	id=demo_magec
+0.22.1	id=demo_pjan
+0.22.1	id=demo_magec
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=lfst_r_lfe2emp	select_freq=M

@@ -1,0 +1,76 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I_15", "C291")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I_15", "C291")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C291")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C291")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C20")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C24")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C29")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C13-15")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C13-C15")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("DE", "SCA", "I15", "C")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("FR", "SCA", "I15", "C")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("ES", "SCA", "I15", "C")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("IT", "SCA", "I15", "C24")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C2015")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C2016")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C2017")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C206")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C25")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C241")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C2442")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C2444")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C245")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C25")	date_filter=>2018-01-01
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=rd_p_persreg	nuts_level=2
+0.13.3	id=nama_10r_3popgdp
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_p_persreg	nuts_level=2
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=LFSQ_EPGAIS	filters=Q.THS.T.Y15-64.TOTAL.TOTAL.NL
+0.13.3	id=LFSQ_EGAN2	filters=Q.THS.T.Y15-64.TOTAL A B C D E F G H I J K L M N O P Q R S T U NRP.NL
+0.13.3	id=LFSQ_EGAN2	filters=Q.THS.T.Y15-64.A B C D E F G H I J K L M N O P Q R S T U NRP.NL
+0.13.3	id=LFSQ_EGAN2	filters=Q.THS.T.Y15-64.A B C D E F G H I J K L M N O P Q R S T U NRP.NL
+0.13.3	id=LFSQ_EGAN2	filters=Q.THS.T.Y15-64.A B C D E F G H I J K L M N O P Q R S T U NRP.NL
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.13.3	id=LFSQ_EGAN2	filters=Q.THS.T.Y15-64.A B C D E F G H I J K L M N O P Q R S T U NRP.NL

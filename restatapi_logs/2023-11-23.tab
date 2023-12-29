@@ -1,0 +1,46 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=educ_uoe_fine06
+0.20.6	id=namq_10_lp_ulc	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "I15", "NSA", "RLPR_HW", "NULC_HW")	date_filter=>2010-01-01	label=TRUE	name=FALSE
+0.20.6	id=namq_10_lp_ulc	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "I15", "NSA", "RLPR_HW", "NULC_HW")	date_filter=>2010-01-01	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C", "EMP_DC")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C", "EMP_DC")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C", "EMP_DC")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C", "EMP_DC", "SAL_DC")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "CLV15_MEUR", "B1G", "D1", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "CLV15_MEUR", "CP_MEUR", "B1G", "D1", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "CLV15_MEUR", "B1G", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=rd_p_persocc	filters=list(unit = "FTE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "FTE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "FTE", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_e_gerdtot	filters=list(unit = "MIO_PPS")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "CP_MEUR", "D1", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "CLV15_MEUR", "B1G", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "CP_MEUR", "D1", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2019-01-01
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<

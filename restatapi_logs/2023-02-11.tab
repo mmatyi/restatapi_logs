@@ -1,0 +1,50 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.14.1	id=demo_r_pjangrp3	filters=list(sex = "T", age = "TOTAL", geoLevel = "nuts3")	date_filter=2020	label=TRUE	name=TRUE
+0.14.1	id=demo_r_pjangrp3	filters=list(sex = "T", age = "TOTAL", )	date_filter=2020	label=TRUE	name=TRUE
+0.14.1	id=demo_r_pjangrp3	filters=list(sex = "T", age = "TOTAL")	date_filter=2020	label=TRUE	name=TRUE
+0.14.1	id=demo_r_pjangrp3	date_filter=2020	label=TRUE	name=TRUE
+0.14.1	id=demo_r_pjangrp3
+0.14.1	id=demo_r_pjangrp3	filters=list(sex = "T", age = "TOTAL")
+0.14.1	id=demo_r_pjangrp3	date_filter=2020
+0.14.1	id=demo_r_pjangrp3	label=TRUE	name=TRUE
+0.14.1	id=demo_r_pjangrp3
+0.14.1	id=DEMO_R_PJANGRP3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=DEMO_R_PJANGRP3	filters=list(age = "TOTAL")	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	filters=list(geo = "CH", sex = c("F", "M"))	date_filter=2020	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE

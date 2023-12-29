@@ -1,0 +1,25 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.20.6	id=DS-018995
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.20.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.20.6	id=DS-045409	filters=list(flow = "EXPORT", )	date_filter=c("2022-05", "2022-07")	select_freq=M
+0.20.6	id=DS-045409	filters=list(flow = "EXPORT")	date_filter=c("2022-05", "2022-07")	select_freq=M
+0.20.6	id=DS-045409
+0.20.6	id=DS-045409	filters=list(flow = "EXPORT", product = "07032000", indicators = "VALUE_IN_EUROS", partner = "WORLD")	date_filter=c("2022-05", "2022-07")	select_freq=M

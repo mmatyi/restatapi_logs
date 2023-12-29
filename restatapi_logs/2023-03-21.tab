@@ -1,0 +1,27 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.14.1	id=lc_nnum2_r2
+0.14.1	id=lc_nnum2_r2
+0.14.1	id=nama_10_pe
+0.14.1	id=NAMA_10_PE
+0.14.1	id=nama_10_a10_e
+0.14.1	id=NASA_10_KI
+0.14.1	id=nasa_10_ki
+0.14.1	id=LFSA_QOE_3A4
+0.20.6	id=LFST_R_LFE2EMP	filters=C("Y20-64")	exact_match=TRUE
+0.20.6	id=LFST_R_LFE2EMP	filters=C("Y20-64", "T")
+0.20.6	id=LFST_R_LFE2EMP	filters=C("Y20-64", "T")	exact_match=date_filter > 2005
+0.20.6	id=LFST_R_LFE2EMP	filters=C("[Y20-64]", "T")	exact_match=date_filter > 2005
+0.20.6	id=LFST_R_LFE2EMP	filters=C("Y20-64", "T")	exact_match=date_filter > 2005
+0.20.6	id=LFST_R_LFE2EMP	filters=c("Y20-64", "T")	exact_match=date_filter > 2005
+0.20.6	id=LFST_R_LFE2EMP	filters=c("Y20-64", "T")

@@ -1,0 +1,22 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=sts_inppd_m	label=TRUE	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=PRC_HPI_Q	update_cache=TRUE
+0.14.1	id=sts_inppd_m	label=TRUE	stringsAsFactors=FALSE
+0.14.1	id=sts_inppd_m	stringsAsFactors=FALSE

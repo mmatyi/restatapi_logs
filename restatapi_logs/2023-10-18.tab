@@ -1,0 +1,37 @@
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "prod", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "nsa", nace_r2 = "B-D", freq = "M", unit = "i15")
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "prod", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "prod", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=1999-12<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "prod", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "prod", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "prod", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = c("BS-ESI-I", "BS-CSMCI-BAL"), geo = c("EA20"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = c("BS-ESI-I", "BS-CSMCI-BAL"), geo = c("EA20"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = c("BS-ESI-I", "BS-CSMCI-BAL"), geo = c("EA20"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=nama_10_gdp	update_cache=TRUE	check_toc=TRUE
+0.22.1	id=NAMA_10_GDP
+0.22.1	id=nama_10r_2gvagr	label=TRUE	select_freq=A	name=FALSE
+0.22.1	id=nama_10r_2gvagr	label=TRUE	select_freq=A	name=FALSE
+0.22.1	id=nama_10r_2gvagr	label=FALSE	select_freq=A	name=FALSE
+0.22.1	id=nama_10r_2gvagr	label=FALSE	select_freq=A	name=TRUE
+0.22.1	id=nama_10r_2gvagr	label=FALSE	select_freq=A	name=FALSE	na_item=c("B1GQ", "B1G")	unit=c("I15", "PCH_PRE")
+0.22.1	id=nama_10r_2gvagr	select_freq=A	na_item=c("B1GQ", "B1G")	unit=c("I15", "PCH_PRE")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

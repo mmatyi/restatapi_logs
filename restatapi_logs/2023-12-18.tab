@@ -1,0 +1,155 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.22.1	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=sts_copi_q	filters=PL	exact_match=FALSE	date_filter=c(2006:2023)	label=TRUE	select_freq=Q	verbose=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=PL	exact_match=FALSE	label=TRUE	verbose=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020", "PL"))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTI"))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTI"))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), time = c(2006 - Q3:2023 - Q3))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), time = c("2006-Q3":"2023-Q3"))	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2020-Q3<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2006<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2006-03	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2006-3	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2006-06>	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2006-06<=	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"))	date_filter=2006-06<=	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), unit = c("Index, 2015=100"))	date_filter=2006-06<=	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), unit = c("Index, 2015=100"))	date_filter=2006-06<=	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), unit = c("Index, 2015=100"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("EU27_2020"), indic_bt = c("CSTI"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=earn_ses18_30
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=earn_ses18_30
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=earn_ses18_30	filters=c("T", "ERN", "TOTAL", "GE10", "EUR")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=earn_ses18_30
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=earn_ses18_30	filters=c("T", "ERN", "TOTAL", "GE10", "EUR")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.13.3	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"))	date_filter=2006-07<	label=TRUE	name=FALSE
+0.22.1	id=lfsq_egised
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"), unit = c("PC_ACT"), sex = c("T"), s_adj = c("SA"), age = c("TOTAL"))	date_filter=2006-07<	label=TRUE	name=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "NR")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "NR")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=lfsa_erganedm
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "NR")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=lfsa_erganedm
+0.22.1	id=nama_10_a10	filters=c("BE", "BG", "HR", "DK", "EE", "FI", "FR", "DE", "EL", "IS", "IE", "IT", "LV", "LT", "NO", "PL", "ES", "SE", "UK", "PT", "B1G", "A", "B-E", "C", "F", "G-I", "J", "K", "L", "M_N", "o-Q", "R-U", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a10	filters=c("BE", "BG", "HR", "DK", "EE", "FI", "FR", "DE", "EL", "IS", "IE", "IT", "LV", "LT", "NO", "PL", "ES", "SE", "UK", "PT", "B1G", "A", "B-E", "C", "F", "G-I", "J", "K", "L", "M_N", "o-Q", "R-U", "CLV15_MEUR")	date_filter=c(1995:2022)
+0.22.1	id=nama_10_a10	filters=c("BE", "BG", "HR", "DK", "EE", "FI", "FR", "DE", "EL", "IS", "IE", "IT", "LV", "LT", "NO", "PL", "ES", "SE", "UK", "PT", "B1G", "A", "B-E", "C", "F", "G-I", "J", "K", "L", "M_N", "O-Q", "R-U", "CLV15_MEUR")	date_filter=c(1995:2021)
+0.22.1	id=nama_10_a64_p5	filters=c("N11G", "BE", "BG", "HR", "DK", "EE", "FI", "FR", "DE", "EL", "IS", "IE", "IT", "LV", "LT", "NO", "PL", "ES", "SE", "UK", "PT", "P51G", "A", "B-E", "C", "F", "G-I", "J", "K", "L", "M_N", "O-Q", "R-U", "CLV15_MEUR")	date_filter=c(1995:2021)
+0.22.1	id=nama_10_a10_e	filters=c("BE", "BG", "HR", "DK", "EE", "FI", "FR", "DE", "EL", "IS", "IE", "IT", "LV", "LT", "NO", "PL", "ES", "SE", "UK", "PT", "EMP_DC", "A", "B-E", "C", "F", "G-I", "J", "K", "L", "M_N", "O-Q", "R-U", "THS_PER")	date_filter=c(1995:2021)
+0.22.1	id=lfsa_erganedm
+0.22.1	id=lfsa_erganedm
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "NR")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "H", "Y15-64", "EMP_LFS")
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "NR")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "H", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-24", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "25-54", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y55-64", "EMP_LFS")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED3-4")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED5-6")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "H", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-24", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "25-54", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y55-64", "EMP_LFS")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED3-4")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED5-6")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "H", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "M", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-24", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "25-54", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y55-64", "EMP_LFS")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED3-4")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED5-6")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "M", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-24", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "25-54", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y55-64", "EMP_LFS")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED3-4")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED5-6")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "F", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "M", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-24", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y25-54", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y55-64", "EMP_LFS")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED3-4")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED5-6")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED0-2")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED3_4")
+0.22.1	id=lfsi_educ_a_h	filters=c("PC_POP", "T", "Y15-64", "ED5-8")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=demo_pjan__custom_9061022
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=demo_pjan__custom_9061022
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "NR")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_educ_a_h
+0.22.1	id=demo_pjan__custom_9061409
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan	filters=c("TOTAL", "T")
+0.22.1	id=lfsa_erganedm

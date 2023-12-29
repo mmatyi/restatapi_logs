@@ -1,0 +1,64 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")	date_filter=(2012:2023)
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")	date_filter=(2010:2023)
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")	date_filter=(2010:2023)
+0.20.6	id=STS_COPR_M	filters=c("AT", "I15", "SCA", "F")	date_filter=(2010:2023)
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PNUM", "I15", "SCA", "CPA_F41001_41002")	date_filter=(2010:2023)
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PNUM", "I15", "SCA", "CPA_F41001_41002")	date_filter=(2010:2023)
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PNUM", "I15", "SCA", "CPA_F41001_41002")
+0.20.6	id=STS_COBP_Q	filters=c("AT")
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PNUM", "I15", "SCA", "CPA_F41001")
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PNUM", "I15", "SCA")
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PSQM", "I15", "SCA", "CPA_F41001_41002")
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PSQM", "I15", "SCA", "CPA_F41001_41002")	date_filter=(2010:2023)
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PSQM", "I15", "SCA", "CPA_F41001_41002")	date_filter=(2010:2023)
+0.20.6	id=STS_COBP_Q	filters=c("AT", "PSQM", "I15", "SCA", "CPA_F41001_41002")	date_filter=(2010:2023)
+0.22.1	id=nama_10_gdp
+0.22.1	id=nama_10_gdp
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop %in% c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96")
+0.22.1	id=prc_hicp_midx
+0.22.1	id=prc_hicp_manr	filters=list(time == "2023-09-01", coicop %in% c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_manr	filters=list(time = "2023-09-01", coicop %in% c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_manr	filters=list(time = "2023-09-01", geo = "AT")
+0.22.1	id=prc_hicp_midx
+0.22.1	id=prc_hicp_manr	filters=list(time = "2023-09-01", geo = "AT")	verbose=TRUE
+0.22.1	id=prc_hicp_midx	verbose=TRUE
+0.22.1	id=prc_hicp_manr
+0.22.1	id=prc_hicp_midx
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = "CP00", geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	date_filter=2020>
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	date_filter=>2020
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	date_filter=>=2020
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	date_filter=>2020-05
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	select_freq=M
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	select_freq=M
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	select_freq=M	time_format=function ()  .Internal(date())
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	select_freq=M	time_format=function ()  .Internal(date())
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	select_freq=M
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	select_freq=M
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

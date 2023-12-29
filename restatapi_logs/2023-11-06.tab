@@ -1,0 +1,37 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = EU27_2020, NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008, 2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "EU27_2020", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008, 2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "EU27_2020", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008, 2020)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "EU27_2020", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008, 2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "EU27_2020", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008, 2020, 2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "EU27_2020", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008, 2019, 2020, 2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "EU27_2020", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "DE", NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = "C20", GEO = EU27, NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = "C20", GEO = EU27, NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = "C20", GEO = c(EU27, "EU27_2020"), NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=nama_10_a64	filters=list(GEO = c(EU27, "EU27_2020"), NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=nama_10_a64_e	filters=list(GEO = c(EU27, "EU27_2020"), NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = c(EU27, "EU27_2020"), NA_ITEM = "B1G", UNIT = "CP_MEUR")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64_e	filters=list(GEO = c(EU27, "EU27_2020"), NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64_e	filters=list(GEO = c(EU27, "EU27_2020"), NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=c(2008:2021)	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_pc
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "LV", "LT"))	date_filter=2000:2022
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "FI", "DK"))	date_filter=2000:2022
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "FI", "DK"))	date_filter=2000:2022
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "LV", "LT"))	date_filter=2000:2022
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "IT", "IE"))	date_filter=2000:2022
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "BE", "BG"))	date_filter=2000:2022
+0.22.1	id=teilm020
+0.22.1	id=teilm020	filters=list(na_item = "teilm020", unit = "geo", geo = c("NO", "IT", "HU"))	date_filter=2000:2022

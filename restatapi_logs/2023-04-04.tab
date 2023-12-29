@@ -1,0 +1,120 @@
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=FALSE	select_freq=A	name=FALSE
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=FALSE	select_freq=A	name=TRUE
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=FALSE	select_freq=A	name=FALSE
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=FALSE	select_freq=A	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "ASS")	date_filter=2010:2012	label=FALSE	select_freq=Q	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "ASS")	date_filter=2010:2012	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	date_filter=2010:2012	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	date_filter=2010:2012	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	date_filter=2010:2012	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = eu_bop_pi_counterparts, geo = "DE", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = eu_bop_pi_counterparts, geo = "AT", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = eu_bop_pi_counterparts, geo = "DE", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", partner = eu_bop_pi_counterparts, geo = "HU", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "HU", partner = eu_bop_pi_counterparts, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "HU", partner = "DE", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "AT", partner = "DE", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "DE", partner = "AT", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "DE", partner = "AT", stk_flow = "ASS")	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "DE", partner = "AT", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	date_filter=2010:2012	label=TRUE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "DE", partner = "AT", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	date_filter=2010:2012	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = eu_bop_pi_reporters, partner = eu_bop_pi_counterparts, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "DE", partner = "AT", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = eu_bop_pi_reporters$code, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = eu_bop_pi_reporters$code, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = eu_bop_pi_reporters$code[1], partner = eu_bop_pi_counterparts$code[1], sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = eu_bop_pi_reporters$code, partner = "AT", sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = eu_bop_pi_reporters$code, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = "DE", partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.6	id=bop_c6_q	filters=list(bop_item = eu_bop_pi_ind$code, currency = "MIO_EUR", geo = i, partner = eu_bop_pi_counterparts$code, sector10 = "S1", sectpart = "S1", stk_flow = "ASS")	label=FALSE	name=FALSE
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE

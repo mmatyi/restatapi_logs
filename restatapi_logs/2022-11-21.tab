@@ -1,0 +1,32 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=EXT_ST_EA19SITC
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE

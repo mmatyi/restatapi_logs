@@ -1,0 +1,55 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.20.5	id=avia_par_me	filters=data <- get_eurostat_data(table_code, filters = c("Budapest", "monthly", "quarterly"), date_filter = c("2019-01-10:2019-03-04", "<2017-07-01", ), ignore.case = TRUE)
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "quarterly")	date_filter=c("2019-01-10:2019-03-04", "<2017-07-01", )	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "quarterly")	date_filter=c("2019-01-10:2019-03-04", "<2017-07-01")	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "quarterly")	date_filter=c("2019-01-10:2019-03-04", "<2017-07-01")	names=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "quarterly")	date_filter=c("2019-01-10:2019-03-04", "<2017-07-01")	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly")	date_filter=c("2019-01-10:2019-03-04", "<2018-07-01")	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly")	date_filter=c("2019-01-10:2019-03-04", "<2018-07-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("ferihegy")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("liszt")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.3	id=agr_r_milkpr	filters=get("cc", envir = .restatapi_env)$EU27_2020	date_filter=2021
+0.20.5	id=avia_par_me	filters=c("Budapest")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_ee	filters=c("Budapest")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_ee	filters=c("Budapest")	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2016-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2019-05-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "flight")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "flight", "monthly")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flight", "departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights", "departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "departure", "seats")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "departure", "flights")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.3	id=agr_r_milkpr	filters=get("cc", envir = .restatapi_env)$EU27_2020	date_filter=2021
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.3	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.5	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.3	id=avia_par_me	filters=c("Budapest", "monthly", "flights.*departure")	exact_match=FALSE	date_filter=c("2018-01-10:2018-03-04", "<2017-08-01")	label=TRUE	select_freq=Q	name=TRUE	ignore.case=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^AT..")	date_filter=2022	label=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^AT..")	date_filter=2021	label=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^AT..")	date_filter=2021	label=TRUE	flags=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^AT..")	date_filter=2021	label=TRUE	flag=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^AT..")	date_filter=2021	label=TRUE	keep_flags=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^PL..")	date_filter=2021	label=TRUE	keep_flags=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^BE..")	date_filter=2021	label=TRUE	keep_flags=TRUE
+0.20.3	id=agr_r_milkpr	filters=c("^BE..")	date_filter=2020	label=TRUE	keep_flags=TRUE
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021	label=TRUE	keep_flags=TRUE
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021	keep_flags=TRUE

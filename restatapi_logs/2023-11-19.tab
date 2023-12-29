@@ -1,0 +1,146 @@
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=TRUE
+0.22.1	id=lfsi_emp_a_h	filters=TRUE
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "Y15-64")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=PC_POP
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.2	id=nama_10_gdp	label=TRUE
+0.22.2	id=nama_10_gdp	label=TRUE	stringsAsFactors=FALSE
+0.22.2	id=nama_10_gdp	label=TRUE	stringsAsFactors=FALSE
+0.22.2	id=nama_10_gdp	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=namq_10_gdp	filters=list(geo = "PL", na_item = NAitems, s_adj = "SCA", unit = c("CP_MNAC", "CLV15_MNAC"))
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "P51G", sector = "S13", s_adj = "SCA", direct = "PAID", unit = c("CP_MNAC"))
+0.20.6	id=namq_10_pe	filters=list(geo = "PL", na_item = "EMP_DC", s_adj = "SA", unit = "THS_PER")
+0.20.6	id=lfsq_pgacws	filters=list(wstatus = LFSitems, c_birth = "TOTAL", geo = "PL", unit = "THS", sex = "T", age = "Y15-74")
+0.20.6	id=lfsq_egaps	filters=list(wstatus = "SAL", geo = "PL", sex = "T", age = "Y15-74")
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "B3G", s_adj = "NSA", sector = "S1", direct = "PAID", unit = "CP_MNAC")
+0.20.6	id=namq_10_gdp	filters=list(geo = "PL", na_item = VAitems, s_adj = "SCA", unit = "CP_MNAC")
+0.20.6	id=namq_10_gdp	filters=list(geo = "EA19", na_item = "B1GQ", s_adj = "SCA", unit = c("CP_MEUR", "CLV15_MEUR"))
+0.20.6	id=bop_c6_q	filters=list(geo = "PL", bop_item = CAitems, currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", stk_flow = "BAL")
+0.20.6	id=bop_iip6_q	filters=list(geo = "PL", bop_item = "FA", currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", sectpart = "S1", stk_flow = "N_LE")
+0.20.6	id=prc_hicp_midx	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=prc_hicp_inw	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=irt_st_m	filters=list(geo = "PL", int_rt = "IRT_M3")
+0.20.6	id=irt_st_m	filters=list(geo = "EA", int_rt = "IRT_M3")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "PL")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "EA")
+0.20.6	id=ert_bil_eur_q	filters=list(currency = "PLN", statinfo = "AVG")
+0.20.6	id=ert_bil_eur_q	filters=list(currency = "USD", statinfo = "AVG")
+0.20.6	id=ert_eff_ic_q	filters=list(geo = "PL", exch_rt = "NEER_EA19")
+0.20.6	id=gov_10q_ggdebt	filters=list(geo = "PL", na_item = "GD", sector = "S13", unit = "MIO_NAC")
+0.20.6	id=gov_10q_ggnfa	filters=list(geo = "PL", na_item = FISitems, sector = "S13", unit = "MIO_NAC", s_adj = "SCA")
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = PYNitems, s_adj = "SCA", unit = "CP_MNAC", sector = "S14_S15", direct = c("PAID", "RECV"))
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "D1", sector = "S13", s_adj = "NSA", direct = "PAID", unit = c("CP_MNAC"))
+0.22.2	id=nama_10_gdp	label=TRUE	stringsAsFactors=FALSE
+0.22.2	id=nama_10_pc	label=TRUE	stringsAsFactors=FALSE
+0.22.2	id=nama_10_pc	label=TRUE	stringsAsFactors=FALSE
+0.22.2	id=ilc_di03	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=unemployement
+0.22.1	id=unemployment
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("F", "H", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("F"
+0.22.1	id=lfsi_emp_a_h	filters=c("F"
+0.22.1	id=lfsi_emp_a_h	filters=c("sex = F | M", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("sex = F", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("sex=M,F", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("sex=M,F", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("M,F", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("M,F", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("M", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")	exact_match=FALSE
+0.22.1	id=lfsi_emp_a_h	filters=c("M,F", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("sex=M,F")
+0.22.1	id=lfsi_emp_a_h	filters=c("sex=M,F")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS", !"T")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS", "!T")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")	exact_match=filter(!"T")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")	exact_match=filters != "T"
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")	exact_match=filter != "T"
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")	exact_match=filter != T
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EA20", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EA20", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "T", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "Y15-64", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("PC_POP", "Y15-64", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_emp_a_h	filters=c("T", "PC_POP", "EU27_2020", "EMP_LFS")
+0.22.1	id=lfsi_educ_a_h

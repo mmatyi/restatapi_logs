@@ -1,0 +1,32 @@
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=tps00172	filters=c("AT", "JOBVAC")	date_filter=(2010:2023)
+0.20.6	id=tps00172	filters=c("AT", "JOBVAC")	date_filter=(2010:2023)
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = paste0("CP10", 1:5), unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = coicop.scope, unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = coicop.scope, unit = "CP_MEUR")	date_filter=min(ppp.exp$year):max(ppp.exp$year)	stringsAsFactors=FALSE	mode=csv
+0.20.6	id=rd_p_persocc	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

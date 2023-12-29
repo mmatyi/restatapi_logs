@@ -6,3 +6,10 @@
 0.13.3	id=prc_hicp_mmor	label=TRUE
 0.13.3	id=prc_hicp_inw
 0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.13.3	id=SBS_SC_SCA_R2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020

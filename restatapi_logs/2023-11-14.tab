@@ -1,0 +1,62 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=nama_10_pc
+0.20.6	id=rd_p_persage	filters=list(unit = "HC", sectperf = c("GOV", "HES"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC", sectperf = "TOTAL", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC", sectperf = "TOTAL", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id= lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC", sectperf = "TOTAL", prof_pos = "RSE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=tesem040
+0.22.1	id=tesem040
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(age = "Y_GE15", citizen = "TOTAL")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=lfsi_emp_a	update_cache=TRUE	check_toc=TRUE
+0.22.1	id=lfsi_emp_a
+0.22.1	id=lfsi_emp_a
+0.22.1	id=lfsi_emp_a
+0.22.1	id=lfsi_emp_a
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=educ_uoe_enra03
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=lfsi_emp_a
+0.22.1	id=educ_uoe_enra03
+0.22.1	id=lfsi_emp_a
+0.22.1	id=lfsi_educ_a
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=tesem010
+0.22.1	id=tesem010
+0.22.1	id=tesem040
+0.22.1	id=tesem040
+0.22.1	id=tesem010
+0.22.1	id=tesem010
+0.22.1	id=tesem010
+0.22.1	id=tesem010
+0.22.1	id=tesem010
+0.22.1	id=cens_hnelev
+0.22.1	id=cens_hnelev
+0.22.1	id=cens_hnelev
+0.22.1	id=lfsi_emp_a
+0.22.1	id=cens_hnelev
+0.22.1	id=lfsi_emp_a
+0.22.1	id=lfsi_emp_a
+0.22.1	id=cens_hnelev
+0.22.1	id=lfsi_emp_a
+0.22.1	id=educ_uoe_enra03
+0.22.1	id=tesem010
+0.22.1	id=lfst_r_lfe2emp	select_freq=M
+0.22.1	id=tesem010
+0.22.1	id=lfsi_educ_a
+0.22.1	id=tesem010

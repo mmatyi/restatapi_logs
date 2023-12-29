@@ -1,0 +1,14 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=DEMO_PJAN
+0.13.3	id=DEMO_PJAN	date_filter=2021
+0.13.3	id=DEMO_PJAN	filters=sex_filter("T")	exact_match=age_filter("TOTAL")	date_filter=2013:2019
+0.13.3	id=DEMO_PJAN	filters=filter("TOTAL")	date_filter=2013:2019
+0.13.3	id=DEMO_PJAN	filters=filters("TOTAL", "T")	date_filter=2013:2019
+0.13.3	id=DEMO_PJAN	date_filter=2013:2019

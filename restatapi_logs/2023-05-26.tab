@@ -1,0 +1,24 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.20.6	id=sbs_sc_ovw	filters=list(geo = "EU27_2020", indic_sbs = "TUR_GPW_MEUR")	date_filter=2021
+0.20.6	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2022
+0.13.1	id=migr_imm5prv	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.1	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.20.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.20.6	id=ef_lsk_main	geo=c("EU27_2020", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE")
+0.20.6	id=ef_lsk_main	geo=c("EU27_2020", "BE", "BG", "CZ", "DK", "DE", "EE", "IE", "EL", "ES", "FR", "HR", "IT", "CY", "LV", "LT", "LU", "HU", "MT", "NL", "AT", "PL", "PT", "RO", "SI", "SK", "FI", "SE")	lsu=c("TOTAL")	animals=c("A0010")	farmtype=c("TOTAL")	agrarea=c("TOTAL")
+0.20.6	id=ds-059313	date_filter=2009-03:2011-06-05
+0.20.6	id=ext_lt_introeu27_2020	date_filter=2009-03:2011-06-05
+0.20.6	id=ds-018995	date_filter=2009-03:2011-06-05
+0.20.6	id=ds-045409	date_filter=2009-03:2011-06-05
+0.20.6	id=ext_st_eu27_2020sitc	date_filter=2009-03:2011-06-05
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

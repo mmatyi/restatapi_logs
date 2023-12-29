@@ -1,0 +1,67 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan
+0.22.1	id=demo_pjan
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = "HR", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_SM")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = "HR", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_SM")	date_filter=2000-01<
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=namq_10_gdp	filters=list(na_item = c("P31_S13", "P31_S14", "P51G", "P6", "P7", geo = "HR", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_SM"), date_filter = "2015-01<")
+0.22.1	id=namq_10_gdp	filters=list(na_item = c("P31_S13", "P31_S14", "P51G", "P6", "P7"), geo = "HR", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_SM")	date_filter=2015-01<
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = "EU27_2020")	date_filter=2011:2022
+0.22.1	id=namq_10_gdp	filters=list(na_item = c("P31_S13", "P31_S14", "P51G", "P6", "P7"), geo = "HR", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_SM")	date_filter=2015-01<
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = c(AT, BE, BG, CY, CZ, DE, DK, EE, EL, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK))	date_filter=2011:2022
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = c("AT", BE, BG, CY, CZ, DE, DK, EE, EL, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK))	date_filter=2011:2022
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = c("AT", BE, BG, CY, CZ, DE, DK, EE, EL, ES, FI, FR, HR, HU, IE, IT, LT, LU, LV, MT, NL, PL, PT, RO, SE, SI, SK))	date_filter=2011:2022
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=2011:2022
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=2011:2022
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=urt_lfu3rt	filters=list(age = "Y15-74")	date_filter=2011:2022
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = "EU27_2020")	date_filter=2011:2022
+0.20.6	id=lfst_r_lfu3rt	filters=list(age = "Y15-74", isced11 = "TOTAL", sex = "T", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SE", "SI", "SK"))	date_filter=2011:2022
+0.20.6	id=urt_lfu3rt	filters=list(age = "Y15-74", sex = "T")	date_filter=2011:2022
+0.22.1	id=demo_pjan
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "PPS_EU27_2020_HAB")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE

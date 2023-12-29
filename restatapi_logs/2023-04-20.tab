@@ -1,0 +1,22 @@
+0.20.6	id=hbs_exp_t133
+0.20.6	id=hbs_exp_t133
+0.20.6	id=ilc_li02
+0.13.3	id=ERT_EFF_IC_Q
+0.13.3	id=ERT_EFF_IC_Q
+0.13.3	id=ERT_EFF_IC_Q
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	date_filter=2010:2023
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

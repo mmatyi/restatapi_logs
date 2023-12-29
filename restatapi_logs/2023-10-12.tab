@@ -1,0 +1,17 @@
+0.20.6	id=rd_p_bempoccr2	filters=list(prof_pos = "RSE", unit = "HC", nace_r2 = c("A", "B", "D_E", "F", "O_P", "Q", "R", "S-U"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_bempoccr2	filters=list(prof_pos = "RSE", unit = "HC", nace_r2 = c("TOTAL", "C", "C20", "C21", "G-N"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE	lang=en
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE	lang=DE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	exact_match=DE	label=TRUE
+0.22.1	id=sbs_sc_ind_r2	keep_flags=TRUE
+0.22.1	id=sbs_sc_ind_r2	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

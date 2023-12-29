@@ -1,0 +1,16 @@
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_mmor	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2020-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT")
+0.20.6	id=prc_hicp_mmor	filters=c("AT")	date_filter=>2019-01-01
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=sts_inpr_m
+0.20.6	id=teiis090
+0.20.6	id=sts_inpr_m

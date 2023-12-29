@@ -1,0 +1,28 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=prc_ipc_g20
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	cache=FALSE
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	cache=FALSE
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	cache=FALSE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=prc_hicp_midx	filters=list(unit = "I96", coicop = c("CP00", "CP041"), geo = "AT")	cache=FALSE
+0.22.1	id=HLTH_EHIS_CD1C
+0.22.1	id=HLTH_CD_ARO
+0.22.1	id=HLTH_EHIS_CD1C
+0.22.1	id=HLTH_CD_ARO

@@ -1,0 +1,28 @@
+0.12.3	id=prc_hicp_aind
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00")	date_filter=>2018-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2018-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00")	date_filter=>2012-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2015-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2012-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00")	date_filter=>2018-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2018-01-01
+0.20.6	id=STS_INPP_M	filters=c("AT", "PRON", "PCH_SM", "B-E36")	date_filter=>2018-01-01
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_manr	filters=c("AT")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT")
+0.20.6	id=edat_lfse_04	filters=list(sex = "T", isced11 = "ED5-8", age = "Y25-64")
+0.20.6	id=edat_lfse_04	filters=list(sex = "T", isced11 = "ED5-8", age = "Y25-64")
+0.20.6	id=edat_lfse_04	filters=list(sex = "T", isced11 = "ED5-8", age = "Y25-64")
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=prc_hicp_inw	filters=list(geo = "DE")	date_filter=2007-06<	keep_flags=TRUE
+0.20.6	id=prc_hicp_inw	filters=list(geo = "DE")	date_filter=c("2010", NA)	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx	filters=list(unit = "I15", geo = "DE")	date_filter=c("2010>")	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx	filters=list(unit = "I15", geo = "DE")	date_filter=c("2010-01>")	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

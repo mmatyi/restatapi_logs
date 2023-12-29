@@ -1,0 +1,68 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=edat_lfs_9903	label=TRUE
+0.13.3	id=edat_lfse_04	label=TRUE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.A.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.A.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.A.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.A.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.13.3	id=NAMA_10_A64	filters=A.PC_TOT.A A01 A02 A03 B C C16 C17 C18 C19 C20 C21 C22 C23 C24 C25 C26 C27 C28 C29 C30 C33 D E E36 F G G45 G46 G47 H H49 H50 H51 H52 H53 I J J58 J61 K K64 K65 K66 L M M71 M72 M73 N N77 N78 N79 O P Q Q86 R R93 S S94 S95 S96 T U.B1G.EU27_2020 EU28 EU15 EA EA19 EA12 BE BG CZ DK DE EE IE EL ES FR HR IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE
+0.14.0	id=prc_hicp_inw
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.14.0	id=prc_hicp_inw	filters=list(geo = c("EU", "EU27_2020", "EU28", "EA", "EA19", "EA18"))	select_freq=M
+0.14.0	id=prc_hicp_inw	filters=list(geo = c("EU", "EU27_2020", "EU28", "EA", "EA19", "EA18"))	select_freq=A
+0.14.0	id=prc_hicp_inw	filters=list(geo = c(
+0.14.0	id=prc_hicp_mmor
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c("EU", "EU27_2020", "EU28", "EA", "EA19", "EA18"))
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c(
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c("Euroarea"))
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c("EEA"))
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c(
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c("EEA"))	label=TRUE
+0.14.0	id=prc_hicp_mmor	filters=list(geo = c(
+0.13.3	id=demo_r_find3
+0.13.3	id=nama_10r_3empers
+0.13.3	id=ENPE_IRT_LD
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=nama_10r_3empers
+0.13.3	id=demo_r_find3
+0.13.3	id=demo_r_pjangrp3
+0.13.3	id=nama_10r_3gdp
+0.13.3	id=crim_gen_reg
+0.13.3	id=demo_r_find3
+0.13.3	id=demo_r_find3
+0.13.3	id=demo_r_pjangrp3
+0.13.3	id=demo_r_pjangrp3
+0.13.3	id=demo_r_pjanaggr3
+0.13.3	id=demo_r_pjanaggr3
+0.13.3	id=demo_r_pjangrp3
+0.13.3	id=nama_10r_3gdp
+0.13.3	id=nama_10r_3gdp
+0.13.3	id=nama_10r_3gdp
+0.13.3	id=nama_10r_3gdp
+0.13.3	id=crim_gen_reg
+0.13.3	id=crim_gen_reg
+0.13.3	id=crim_gen_reg

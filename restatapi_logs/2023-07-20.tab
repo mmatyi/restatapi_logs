@@ -1,0 +1,13 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "B1GQ", "D1", "B2A3G", "D2X3", "SCA", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_GDP	filters=c("AT", "B1GQ", "D1", "B2A3G", "D2X3", "SCA", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_GDP	filters=c("AT", "B1GQ", "D1", "B2A3G", "D2X3", "SCA", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_GDP	filters=c("AT", "B1GQ", "D1", "B2A3G", "D2X3", "SCA", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

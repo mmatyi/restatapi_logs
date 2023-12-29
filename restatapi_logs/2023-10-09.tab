@@ -1,0 +1,31 @@
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=sbs_sc_ind_r2
+0.22.1	id=sbs_sc_ind_r2	verbose=TRUE
+0.20.6	id=nama_10_A64	filters=c(countriesEU, "B1G", "CP_MEUR", industriesEU)	date_filter=seq(starttime, endtime)
+0.20.6	id=env_ac_pefasu	filters=c(countriesEU, "USE", industriesEU, energy_sources)	date_filter=seq(starttime, endtime)
+0.20.6	id=SBS_NA_SCA_R2	filters=c(countriesEU, industriesEUfull, sbs_vars)	date_filter=seq(starttime, endtime)
+0.20.6	id=nama_10_A64	filters=c(countriesEU, "B1G", "CP_MEUR", industriesEU)	date_filter=seq(starttime, endtime)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=nama_10_A64	filters=c(countriesEU, "B1G", "CP_MEUR", industriesEU)	date_filter=seq(starttime, endtime)
+0.20.6	id=env_ac_pefasu	filters=c(countriesEU, "USE", industriesEU, energy_sources)	date_filter=seq(starttime, endtime)
+0.20.6	id=SBS_NA_SCA_R2	filters=c(countriesEU, industriesEUfull, sbs_vars)	date_filter=seq(starttime, endtime)
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")	name=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")	label=TRUE	name=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_GDP	filters=c("AT", "B1GQ", "D1", "B2A3G", "D2X3", "SCA", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NAMA_10_A64
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

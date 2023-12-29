@@ -1,0 +1,90 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.14.1	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M3")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M3")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M1")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M1")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=PRC_HICP_MV12R	filters=list(geo = c("EA"), unit = "RCH_MV12MAVR", coicop = "CP00")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.14.1	id=sdg_03_41	filters=list(icd10 = "TOTAL")
+0.14.1	id=sdg_03_41
+0.14.1	id=https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sdg_03_41?format=JSON
+0.13.3	id=prc_hicp_midx
+0.14.1	id=sdg_03_41
+0.14.1	id=sdg_03_40
+0.14.1	id=sdg_03_41
+0.14.1	id=sdg_03_41	filters=list(ids10 = "TOTAL")
+0.14.1	id=sdg_03_41	filters=icd10
+0.14.1	id=sdg_03_41	filters=icd10	date_filter=2019
+0.14.1	id=sdg_03_41	filters=c("TOTAL")	date_filter=2019
+0.14.1	id=sdg_03_41	filters=c("TOTAL", eu_c2)	date_filter=2019
+0.14.1	id=sdg_03_41	filters=c(eu_c2)	date_filter=2019
+0.14.1	id=sdg_03_41	filters=c(eu_c2)	date_filter=2019-01-01
+0.14.1	id=sdg_03_41	date_filter=2019-01-01
+0.14.1	id=sdg_03_41	date_filter=2019
+0.14.1	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.14.1	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016)	label=TRUE	select_freq=Q	name=FALSE
+0.14.1	id=avia_par_me	exact_match=FALSE	date_filter=c(2016)	label=TRUE	select_freq=Q	name=FALSE
+0.14.1	id=avia_par_me
+0.14.1	id=avia_par_me	exact_match=FALSE	date_filter=c(2016)	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=avia_par_me	exact_match=FALSE	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=avia_par_me	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=avia_par_me	label=TRUE	name=FALSE
+0.14.1	id=avia_par_me	name=FALSE
+0.14.1	id=avia_par_me	name=TRUE
+0.14.1	id=sdg_03_41	date_filter=2019
+0.14.1	id=sdg_03_40	date_filter=2019
+0.14.1	id=sdg_03_10	date_filter=2019
+0.14.1	id=sdg_03_41	date_filter=2019
+0.14.1	id=sdg_03_41	date_filter=c(2018, "2019")
+0.14.1	id=sdg_03_41	date_filter=c(2018)
+0.14.1	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.14.1	id=sdg_03_40	select_freq=A
+0.14.1	id=sdg_03_40	filters=list(sex = "T")
+0.14.1	id=sdg_03_40	filters=list(sex = "TOTAL")
+0.14.1	id=https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/	 data/sdg_03_41?format=JSON
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=sts_inpr_m	filters=c("EU27_2020", "SCA", "I15", "C245")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA_RT1", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=list("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=list("IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(stk_flow = "IMP")	date_filter=>2018-01-01
+0.13.3	id=nama_10_gdp	filters=list(geo = "FI", na_item = "B1GQ", unit = "CLV_I10")
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=TOUR_OCC_NIN2	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=FALSE	name=FALSE
+0.13.3	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=FALSE	name=FALSE
+0.13.3	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=FALSE	name=FALSE
+0.14.1	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.14.1	id=namq_10_a10
+0.14.1	id=id	filters=list(geo = country, sinceTimePeriod = "2015Q1", unit = unit, na_item = na_item, s_adj = s_adj)	cache=FALSE	stringsAsFactors=FALSE	time_format=function (length = 0)  .Internal(vector("raw", length))	type=code	keepFlags=FALSE
+0.14.1	id=namq_10_a10	filters=list(geo = "AT", sinceTimePeriod = "2015Q1", unit = NULL, na_item = NULL, s_adj = s_adj)	cache=FALSE	stringsAsFactors=FALSE	time_format=function (length = 0)  .Internal(vector("raw", length))	type=code	keepFlags=FALSE
+0.14.1	id=namq_10_a10	filters=list(geo = "AT", sinceTimePeriod = "2015Q1", unit = NULL, na_item = NULL, s_adj = s_adj)	time_format=function (length = 0)  .Internal(vector("raw", length))
+0.14.1	id=namq_10_a10	filters=list(geo = "AT", sinceTimePeriod = "2015Q1", unit = NULL, na_item = NULL, s_adj = s_adj)
+0.14.1	id=namq_10_a10	filters=list(geo = "AT", date_filter = "2015:2022", unit = NULL, na_item = NULL, s_adj = s_adj)
+0.14.1	id=namq_10_a10	filters=list(geo = "AT", unit = NULL, na_item = NULL, s_adj = s_adj)	date_filter=2015:2022
+0.14.1	id=namq_10_a10	filters=list(geo = "AT")
+0.14.1	id=namq_10_a10	filters=list(geo = c("AT"))
+0.14.1	id=namq_10_a10	filters=list(GEO = c("AT"))
+0.14.1	id=namq_10_a10	filters=list(geo = c("AT"))
+0.14.1	id=namq_10_a10
+0.14.1	id=namq_10_a10	filters=filters(geo = "AT")
+0.14.1	id=namq_10_a10	filters=list(geo = "AT")
+0.14.1	id=namq_10_a10	data_filter=list(geo = "AT")
+0.14.1	id=namq_10_a10	filters=list(geo = "AT")

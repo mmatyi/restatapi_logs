@@ -1,0 +1,13 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=PRC_HICP_AIND	filters=c(geo = "LU", coicop = "CP07112")
+0.13.3	id=PRC_HICP_AIND	filters=c(geo = "LU", coicop = "CP07112", unit = "INX_A_AVG")
+0.13.3	id=PRC_HICP_AIND	filters=c(geo = "LU", coicop = "CP07112", unit = "INX_A_AVG")
+0.13.3	id=nama_10_gdp
+0.13.3	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV15_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021

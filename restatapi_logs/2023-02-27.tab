@@ -1,0 +1,121 @@
+0.20.3	id=agr_r_milkpr	filters=get("cc", envir = .restatapi_env)$EU27	date_filter=2021
+0.20.3	id=agr_r_milkpr	filters=get("cc", envir = .restatapi_env)$EU27_2020	date_filter=2021
+0.20.3	id=agr_r_milkpr	filters=get("cc", envir = .restatapi_env)$NMS10	date_filter=2021
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, ".")	date_filter=2021
+0.13.3	id=prc_hicp_midx
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.14.1	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	label=TRUE	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.20.3	id=tgs00052	stringsAsFactors=FALSE
+0.20.3	id=tgs00047	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=demo_r_d3dens	stringsAsFactors=FALSE
+0.20.3	id=demo_r_d3area	stringsAsFactors=FALSE
+0.20.3	id=reg_area3	stringsAsFactors=FALSE
+0.14.1	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=reg_pop3	stringsAsFactors=FALSE
+0.20.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.20.3	id=tgs00052	stringsAsFactors=FALSE
+0.20.3	id=reg_area3	stringsAsFactors=FALSE
+0.20.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.20.3	id=tgs00052	stringsAsFactors=FALSE
+0.20.3	id=tgs00047	stringsAsFactors=FALSE
+0.20.3	id=reg_area3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.20.3	id=tgs00052	stringsAsFactors=FALSE
+0.20.3	id=tgs00047	stringsAsFactors=FALSE
+0.20.3	id=reg_area3	stringsAsFactors=FALSE
+0.20.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=tgs00052	stringsAsFactors=FALSE
+0.20.3	id=tgs00047	stringsAsFactors=FALSE
+0.20.3	id=reg_area3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3gdp	stringsAsFactors=FALSE
+0.20.3	id=tgs00052	stringsAsFactors=FALSE
+0.20.3	id=tgs00047	stringsAsFactors=FALSE
+0.20.3	id=reg_area3	stringsAsFactors=FALSE
+0.20.3	id=demo_r_pjangrp3	stringsAsFactors=FALSE
+0.20.3	id=bd_size_r3	stringsAsFactors=FALSE
+0.20.3	id=edat_lfse_04	stringsAsFactors=FALSE
+0.20.3	id=isoc_r_iuse_i	stringsAsFactors=FALSE
+0.20.3	id=nama_10r_3empers	stringsAsFactors=FALSE
+0.13.3	id=ERT_EFF_IC_Q
+0.13.3	id=ERT_EFF_IC_Q
+0.20.3	id=agr_r_milkpr	filters=^BE$	date_filter=c(2002, "2008", 2015:2017)
+0.20.3	id=agr_r_milkpr	filters=BE	date_filter=c(2008, "2002", 2015:2017)
+0.20.3	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-05")	label=TRUE	select_freq=A	cflags=TRUE	verbose=FALSE
+0.20.3	id=avia_par_me	date_filter=c(2016, "2017-03", "2017-05", "2017-07-01:2017-09-30")	select_freq=Q	cflags=TRUE
+0.20.3	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.20.3	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2017-07-01")	label=TRUE	stringsAsFactors=FALSE
+0.20.3	id=avia_par_me	filters=c("ZHULIANY", "BUDAPEST", "Quarterly", "Monthly")	exact_match=FALSE	date_filter=c("2016-08", "2017-07-01")	name=TRUE
+0.20.3	id=avia_par_me	filters=BE$	date_filter=c("2017-03", 2016, "2017-07-01:2017-09-30", 2012:2014)	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.20.3	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=2017	select_freq=M	cflags=TRUE
+0.20.3	id=avia_par_me	filters=list(freq = "Q", airp_pr = c("ME_LYPG_HU_LHBP", "ME_LYTV_UA_UKKK"))	date_filter=c("2017")	select_freq=M	cflags=TRUE
+0.20.3	id=avia_par_ee	select_freq=Q
+0.20.3	id=avia_par_ee	select_freq=Q
+0.20.3	id=avia_par_is	filters=Monthly	exact_match=FALSE	date_filter=c("<2018-07-01")	label=TRUE	select_freq=A	name=FALSE
+0.20.3	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.3	id=ei_bsfs_q	keep_flags=TRUE	verbose=TRUE
+0.20.3	id=ei_bsfs_q	stringsAsFactors=FALSE	verbose=TRUE
+0.20.3	id=ei_bsfs_q	keep_flags=TRUE	verbose=FALSE
+0.20.3	id=avia_par_mk	stringsAsFactors=FALSE
+0.20.4	id=agr_r_milkpr	filters=^BE$	date_filter=c(2002, "2008", 2015:2017)
+0.20.4	id=agr_r_milkpr	filters=BE	date_filter=c(2008, "2002", 2015:2017)
+0.20.4	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-05")	label=TRUE	select_freq=A	cflags=TRUE	verbose=FALSE
+0.20.4	id=avia_par_me	date_filter=c(2016, "2017-03", "2017-05", "2017-07-01:2017-09-30")	select_freq=Q	cflags=TRUE
+0.20.4	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.20.4	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2017-07-01")	label=TRUE	stringsAsFactors=FALSE
+0.20.4	id=NAMA_10_GDP
+0.20.4	id=avia_par_me	filters=c("ZHULIANY", "BUDAPEST", "Quarterly", "Monthly")	exact_match=FALSE	date_filter=c("2016-08", "2017-07-01")	name=TRUE
+0.20.4	id=avia_par_me	filters=BE$	date_filter=c("2017-03", 2016, "2017-07-01:2017-09-30", 2012:2014)	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.20.4	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.20.4	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=2017	select_freq=M	cflags=TRUE
+0.20.4	id=avia_par_me	filters=list(freq = "Q", airp_pr = c("ME_LYPG_HU_LHBP", "ME_LYTV_UA_UKKK"))	date_filter=c("2017")	select_freq=M	cflags=TRUE
+0.20.4	id=avia_par_ee	select_freq=Q
+0.20.4	id=avia_par_ee	select_freq=Q
+0.20.4	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.20.4	id=avia_gonc	select_freq=A	cache=FALSE
+0.20.4	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.20.4	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.20.4	id=avia_par_is	filters=Monthly	exact_match=FALSE	date_filter=c("<2018-07-01")	label=TRUE	select_freq=A	name=FALSE
+0.20.4	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.4	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.20.4	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.20.4	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.20.4	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.20.4	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.20.4	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.4	id=ei_bsfs_q	keep_flags=TRUE	verbose=TRUE
+0.20.4	id=ei_bsfs_q	stringsAsFactors=FALSE	verbose=TRUE
+0.20.4	id=ei_bsfs_q	keep_flags=TRUE	verbose=FALSE
+0.20.4	id=avia_par_mk	stringsAsFactors=FALSE

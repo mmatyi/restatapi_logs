@@ -1,0 +1,66 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.14.1	id=bop_c6_q	filters=list(partner = "Rest of the world")
+0.14.1	id=bop_c6_q	filters=list(partner = "Rest of the world", geo = "FI")
+0.14.1	id=bop_c6_q	filters=list(geo = "FI", stk_flow = "CRE", sectpart = "S1")
+0.14.1	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.14.1	id=agr_r_milkpr	filters=c("^HU..")	date_filter=2017-05-19<	cflags=TRUE	perl=TRUE
+0.14.1	id=avia_par_me	select_freq=A	cache=FALSE
+0.14.1	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q
+0.13.3	id=gov_10q_ggnfa
+0.13.3	id=nasq_10_f_bs
+0.13.3	id=prc_hicp_midx
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q
+0.13.3	id=NASA_10_KI
+0.13.3	id=NASA_10_KI
+0.13.3	id=NASA_10_KI
+0.13.3	id=NASA_10_KI
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=nrg_bal_c	filters=.PPRD.TOTAL.KTOE	date_filter=c(2000:2022)
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.13.3	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	exact_match=FALSE	date_filter=2012:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.13.3	id=gov_10q_ggnfa
+0.13.3	id=gov_10q_ggnfa
+0.13.3	id=nasq_10_f_bs
+0.13.3	id=prc_hicp_midx
+0.14.1	id=demo_r_d2jan	filters=list(time = 2021)
+0.14.1	id=demo_r_d2jan	filters=sprintf("%s$", as.character(country))	cache=TRUE
+0.14.1	id=demo_r_d2jan	filters=sprintf("%s$", as.character(country))	cache=TRUE
+0.13.3	id=prc_hicp_midx
+0.14.1	id=edat_lfs_9901	filters=sprintf("%s$", as.character(country))	cache=TRUE
+0.13.3	id=prc_hicp_midx
+0.14.1	id=demo_pjan	filters=as.character(country)	cache=TRUE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.14.1	id=demo_r_d2jan	filters=sprintf("%s$", as.character(country))	cache=TRUE
+0.14.1	id=demo_r_d2jan	filters=sprintf("%s$", as.character(country))	cache=TRUE
+0.13.3	id=prc_hicp_midx
+0.14.1	id=edat_lfs_9901	filters=sprintf("%s$", as.character(country))	cache=TRUE
+0.14.1	id=demo_pjan	filters=as.character(country)	cache=TRUE
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE

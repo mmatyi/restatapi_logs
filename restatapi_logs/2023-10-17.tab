@@ -1,0 +1,27 @@
+0.22.1	id=ext_st_eu27_2020sitc	verbose=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.22.1	id=ilc_mdes09
+0.22.1	id=ilc_mdes09
+0.22.1	id=ilc_mdes09
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

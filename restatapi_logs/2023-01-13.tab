@@ -1,0 +1,177 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.14.0	id=rd_e_berdcostr2	filters=list(UNIT = "MIO_EUR", GEO = EU27)	date_filter=2021	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=FALSE
+0.14.0	id=rd_e_berdcostr2	filters=list(NACE_R2 = c("A01", "C10-C12", "C20", "C21"), EXPEND = "CUR_LC")	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=FALSE
+0.14.0	id=rd_e_berdcostr2	filters=list(NACE_R2 = c("A", "C10-C12", "C20", "C21"), EXPEND = "CUR_LC")	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=FALSE
+0.14.0	id=rd_e_berdcostr2	filters=list(NACE_R2 = c("A", "C10-C12", "C20", "C21"), EXPEND = "CUR_LC", UNIT = "MIO_EUR")	cache=FALSE	stringsAsFactors=FALSE	cflags=FALSE	verbose=FALSE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=ILC_LVHO02	filters=list(incgrp = "TOTAL", tenure = c("OWN", "RENT"), time = "2021", hhtyp = "TOTAL")
+0.13.3	id=ILC_LVHO02	filters=list(incgrp = "TOTAL", tenure = c("OWN", "RENT"), time = "2021", hhtyp = "TOTAL", geo = countries)
+0.13.3	id=ILC_LVHO02	filters=list(incgrp = "TOTAL", tenure = c("OWN"), time = "2021", hhtyp = "TOTAL", geo = countries)
+0.13.3	id=ILC_LVHO02	filters=list(incgrp = "TOTAL", tenure = c("OWN"), time = "2021", hhtyp = "TOTAL", geo = countries)
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q	filters=HR	date_filter=1999-10-01<
+0.13.3	id=gov_10q_ggnfa	filters=HR	date_filter=1999-10-01<
+0.13.3	id=nasq_10_f_bs	filters=HR	date_filter=1999-10-01<
+0.13.3	id=prc_hicp_midx	filters=HR	date_filter=1999-12-01<
+0.13.3	id=sts_copi_q	filters=HR	date_filter=1999-12-01<
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=EXT_ST_EA19SITC
+0.13.3	id=ILC_LVHO02	filters=list(incgrp = "TOTAL", tenure = c("OWN"), time = "2021", hhtyp = "TOTAL", geo = countries)
+0.13.3	id=demo_r_magec
+0.13.3	id=demo_r_magec
+0.13.3	id=hlth_rs_bdsrg
+0.13.3	id=hlth_rs_prsrg
+0.13.3	id=demo_r_d2jan
+0.13.3	id=demo_r_pjangroup
+0.13.3	id=demo_r_d3dens
+0.13.3	id=demo_r_magec
+0.13.3	id=hlth_rs_bdsrg
+0.13.3	id=hlth_rs_prsrg
+0.13.3	id=demo_r_pjangroup
+0.13.3	id=demo_r_d3dens
+0.13.3	id=demo_r_magec
+0.13.3	id=hlth_rs_bdsrg
+0.13.3	id=hlth_rs_prsrg
+0.13.3	id=demo_r_pjangroup
+0.13.3	id=demo_r_d3dens
+0.13.3	id=nama_10r_2gdp
+0.13.3	id=hlth_cd_anr
+0.13.3	id=ilc_li41
+0.13.3	id=demo_r_magec
+0.13.3	id=hlth_rs_bdsrg
+0.13.3	id=hlth_rs_prsrg
+0.13.3	id=demo_r_pjangroup
+0.13.3	id=demo_r_d3dens
+0.13.3	id=nama_10r_2gdp
+0.13.3	id=hlth_cd_anr
+0.13.3	id=ilc_li41
+0.13.3	id=hlth_rs_bdsrg
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.8.6	id=ert_bil_eur_d	stringsAsFactors=FALSE
+0.13.3	id=demo_r_magec
+0.13.3	id=hlth_rs_bdsrg
+0.13.3	id=hlth_rs_prsrg
+0.13.3	id=demo_r_pjangroup
+0.13.3	id=demo_r_d3dens
+0.13.3	id=nama_10r_2gdp
+0.13.3	id=hlth_cd_anr
+0.13.3	id=ilc_li41
+0.13.3	id=demo_r_magec	date_filter=2003:2018
+0.13.3	id=demo_r_magec	date_filter=2003:2018
+0.13.3	id=hlth_rs_bdsrg	date_filter=2003:2018
+0.13.3	id=hlth_rs_prsrg	date_filter=2003:2018
+0.13.3	id=demo_r_pjangroup	date_filter=2003:2018
+0.13.3	id=demo_r_d3dens	date_filter=2003:2018
+0.13.3	id=nama_10r_2gdp	date_filter=2003:2018
+0.13.3	id=hlth_cd_anr	date_filter=2003:2018
+0.13.3	id=ilc_li41	date_filter=2003:2018
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "NG", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "US", "SITC3", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "RU", "SITC3", "IMP")	date_filter=>2018-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EA19", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EA19", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>2000-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EA19", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>2000-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EA19", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>2000-01-01
+0.13.3	id=EI_BSSE_Q_R2	filters=c("EA19", "SA", "BS-FLB1-PC", "BS-FLB2-PC", "BS-FLB3-PC", "BS-FLB4-PC", "BS-FLB5-PC", "BS-FLB6-PC")	date_filter=>2000-01-01
+0.13.3	id=EI_BSSE_Q_R2	filters=c("EA19", "SA", "BS-FLB1-PC", "BS-FLB2-PC", "BS-FLB3-PC", "BS-FLB4-PC", "BS-FLB5-PC", "BS-FLB6-PC")	date_filter=>2000-01-01
+0.13.3	id=EI_BSSE_Q_R2	filters=c("EA19", "SA", "BS-FLB1-PC", "BS-FLB2-PC", "BS-FLB3-PC", "BS-FLB4-PC", "BS-FLB5-PC", "BS-FLB6-PC")	date_filter=>2004-01-01
+0.13.3	id=EI_BSSE_Q_R2	filters=c("EA19", "SA", "BS-FLB1-PC", "BS-FLB2-PC", "BS-FLB3-PC", "BS-FLB4-PC", "BS-FLB5-PC", "BS-FLB6-PC")	date_filter=>2004-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EA19", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>2004-01-01
+0.13.3	id=TEC00118
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2010-Q1:2021-Q4
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2010-Q1:2021-Q4
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2000-Q1:2021-Q4
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2000-Q1:2021-Q4
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2010-Q1:2021-Q4
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2010-Q1:2021-Q4
+0.13.3	id=TIPSHO40
+0.13.3	id=TIPSHO40	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2010:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_Q", geo = c("EE", "LV", "LT"))	date_filter=2010:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2010:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=TIPSHO20
+0.13.3	id=TIPSHO20	filters=list(unit = "INX_A_AVG", geo = c("EE", "LV", "LT"))	date_filter=2005:2021
+0.13.3	id=EI_BSSE_Q_R2	filters=c("CP01", "IGD_NNRG", "NNRG", "SERV")	date_filter=>2001-01-01
+0.13.3	id=PRC_HICP_CTRB	filters=c("CP01", "IGD_NNRG", "NNRG", "SERV")	date_filter=>2001-01-01
+0.13.3	id=PRC_HICP_CTRB	filters=c("FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.13.3	id=PRC_HICP_CTRB	filters=c("FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.13.3	id=PRC_HICP_CTRB	filters=c("FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.13.3	id=PRC_HICP_CTRB	filters=c("FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.13.3	id=PRC_HICP_CTRB	filters=c("FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01

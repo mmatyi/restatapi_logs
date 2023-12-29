@@ -1,0 +1,87 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "US", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "CN_X_HK", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "US", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "CN_X_HK", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "CN_X_HK", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "KR", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "IN", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "ID", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "EXT_EU27_2020", "SITC5", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "US", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=DS-645593	filters=c("EU27_2020", "31", "VALUE_IN_EUROS", "IMPORT")	date_filter=>2018-01-01
+0.13.3	id=DS-645593	filters=c("EU27_2020", "VALUE_IN_EUROS", "IMPORT")	date_filter=>2018-01-01
+0.13.3	id=DS-645593	filters=c("EU27_2020", "31", "VALUE_IN_EUROS", "IMPORT")
+0.13.3	id=DS-645593
+0.13.3	id=DS-645593	check_toc=TRUE
+0.13.3	id=DS-575274	check_toc=TRUE
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "US", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "US", "SITC5", "EXP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC6", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC6", "EXP")	date_filter=>2018-01-01
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=STS_RB_Q	filters=Q.BKRT.P-S_X_S94 B-S_X_O_S94 F G H I B-E J K-N.NSA.I15 PCH_SM.EU27_2020 EA19 NL DE
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC6", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC6", "EXP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC6", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("IVOL_SCA", "EXT_EU27_2020", "SITC6", "EXP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "EXT_EU27_2020", "SITC6", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL", "EXT_EU27_2020", "SITC6", "EXP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "EXT_EU27_2020", "SITC6", "BAL_rT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "EXT_EU27_2020", "SITC6", "BAL_rT")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "EXT_EU27_2020", "SITC6", "BAL_RT")	date_filter=>2018-01-01
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "EXT_EU27_2020", "SITC7", "BAL_RT")	date_filter=>2018-01-01
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_midx	filters=MK
+0.13.3	id=prc_hicp_midx	filters=MK	verbose=TRUE
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "CN_X_HK", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "CN_X_HK", "SITC7", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "CN_X_HK", "SITC6", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "US", "SITC5", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "US", "SITC7", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "US", "SITC6", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "US", "SITC3", "IMP")	date_filter=>2018-01-01
+0.13.3	id=ext_st_eu27_2020sitc	filters=c("TRD_VAL_SCA", "RU", "SITC3", "IMP")	date_filter=>2018-01-01
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.12.8	id=migr_imm3ctb	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=migr_emi3nxt	label=TRUE	cache_dir=/tmp	cflags=FALSE
+0.12.8	id=demo_gind	label=TRUE	cache_dir=/tmp	cflags=TRUE
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15")	date_filter=c("2022-01", "2022-02")
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15")
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15")	date_filter=c(2010:2021)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15")	date_filter=c(2015:2021)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15")	date_filter=c(2020:2021)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15")	date_filter=c(2017:2022)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", "CP0451")	date_filter=c(2017:2022)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)	date_filter=c(2017:2022)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_midx	filters=c("MK", "I15", all_coicop)
+0.13.3	id=prc_hicp_inw

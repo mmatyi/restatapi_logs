@@ -1,0 +1,19 @@
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=HLTH_EHIS_PE9B
+0.20.6	id=hlth_silc_10
+0.20.6	id=hlth_silc_10
+0.20.6	id=hlth_silc_10
+0.20.6	id=HLTH_EHIS_PE9B
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=HLTH_EHIS_PE9B
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

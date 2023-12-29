@@ -1,0 +1,21 @@
+0.20.6	id=hrst_st_nunesex	filters=list("HRSTU", "RT_UNE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_nunesex	filters=list("HRSTU", "RT_UNE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_ENT", size_emp = size)	date_filter=2022:2022
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_ENT", size_emp = size)	date_filter=2022:2022
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_ENT", size_emp = size)	date_filter=2022
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_ENT", size_emp = size)	date_filter=2022:2022
+0.21.2	id=isoc_e_dii	filters=list(geo = countries, unit = "PC_ENT", size_emp = size)	date_filter=2022:2022
+0.20.6	id=bop_fdi6_pos
+0.20.6	id=bop_fdi6_inc
+0.20.6	id=bop_fdi6_flow
+0.20.6	id=bop_fdi6_geo
+0.20.6	id=bop_fdi6_ind
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,123 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.22.1	id=nama_10_a64	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c("PL", "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c("PL", "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=apri_lrnt	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.20.6	id=demo_gind	filters=list(indic_de = "GROWRT", geo = "EU27_2020")	date_filter=2011:2022
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=apri_lrnt	filters=c(geo = "eu$NMS28")	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=c(geo = "AT, CZ, DE")	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=c(geo = "AT, CZ, DE")	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=AT, DE, PL, CZ	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=(geo = c(AT, DE, CZ))	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=(geo = c("AT", "DE", "CZ"))	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=c(geo = "DE")	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=c("DE", "CZ")	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=apri_lrnt	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=apri_lrnt	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.22.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.22.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.22.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.22.1	id=apri_lrnt	filters=eu$NMS28	exact_match=TRUE	label=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=nama_10_pc
+0.22.1	id=nama_10_pc	filters=list(na_item = "B1GQ", unit = "CLV10_EUR_HAB", geo = c("EE", "LV", "LT"))	date_filter=2000:2022

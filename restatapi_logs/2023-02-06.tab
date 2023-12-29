@@ -1,0 +1,28 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=TOUR_OCC_ARM	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=TOUR_CE_OMN12	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=demo_r_mwk_ts	filters=list(sex = c("T", "M", "F"))	date_filter=c("2018", "2019", "2020", "2021", "2022", "2023")	label=TRUE	verbose=TRUE	name=FALSE
+0.13.3	id=PRC_HICP_MANR	filters=list(geo = "SK")	date_filter=c("2022-12")
+0.13.3	id=PRC_HICP_MANR	filters=list(geo = "SK")	date_filter=c("2022-12")
+0.13.3	id=PRC_HICP_MANR	filters=SK	date_filter=c("2022-12")
+0.13.3	id=EI_CPHI_M	filters=list(indic = "CP-HI00", unit = "HICP2015", geo = "DE")
+0.13.3	id=PRC_HICP_MANR	filters=SK	date_filter=c("2022-12")
+0.13.3	id=PRC_HICP_MANR	filters=SK	date_filter=c("2022-12")
+0.13.3	id=EI_CPHI_M	filters=list(indic = "CP-HI00", unit = "HICP2015", geo = "DE")
+0.13.3	id=PRC_HICP_MANR	filters=SK	date_filter=c("2022-12")
+0.13.3	id=EI_CPHI_M	filters=list(indic = "CP-HI00", unit = "HICP2015", geo = "DE")
+0.13.3	id=PRC_HICP_MANR	filters=SK	date_filter=c("2022-12")
+0.14.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	force_local_filter=TRUE	ignore.case=TRUE
+0.14.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")
+0.14.1	id=tus_00age	filters=list("HU", "total", "time spent", "travel")
+0.14.1	id=tus_00age	filters=list("HU", "total", "time spent", "travel")	verbose=TRUE
+0.14.1	id=tus_00age	filters=list(geo = "HU")	verbose=TRUE
+0.13.3	id=TOUR_OCC_NIN2	label=FALSE	stringsAsFactors=FALSE

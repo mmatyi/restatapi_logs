@@ -1,0 +1,7 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2020-01-01
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor

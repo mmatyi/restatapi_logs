@@ -1,0 +1,12 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=	teicp020
+0.13.3	id=teicp020	filters=list(geo = c("EE", "LV", "LT"))	date_filter=2000:2021
+0.13.3	id=tec00133
+0.13.3	id=tec00133	filters=list(na_item = "B5NQ", unit = "CP_MEUR", geo = c("EE", "LV", "LT"))	date_filter=2000:2021

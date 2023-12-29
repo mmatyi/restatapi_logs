@@ -1,0 +1,34 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.13.3	id=EXT_ST_EA19SITC
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=sts_inppd_m	filters=list(geo = c("HR", "EA20"), unit = c("I15", "PCH_PRE", "PCH_SM"), time_format = "raw", indic_bt = "PRIN", s_adj = "NSA")
+0.13.3	id=sts_inppd_m	filters=list(geo = c("HR", "EA20"), unit = c("I15", "PCH_PRE", "PCH_SM"), indic_bt = "PRIN", s_adj = "NSA")
+0.13.3	id=sts_inppd_m	filters=list(geo = c("HR", "EA20"), unit = c("I15", "PCH_PRE", "PCH_SM"), indic_bt = "PRIN", s_adj = "NSA")
+0.13.3	id=sts_inppd_m	filters=list(geo = c("HR", "EA20"), unit = c("I15", "PCH_PRE", "PCH_SM"), indic_bt = "PRIN", s_adj = "NSA")
+0.13.3	id=sts_inppd_m	filters=list(geo = c("HR", "EA20"), unit = c("I15", "PCH_PRE", "PCH_SM"), indic_bt = "PRIN", s_adj = "NSA")
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m	label=TRUE
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=code
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=c("code", "label")
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=c("code", "label")
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=label

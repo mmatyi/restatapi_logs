@@ -1,0 +1,30 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=cToken[3]	filters=list(geo = "EA", coicop = "CP00", unit = "I15")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=cToken[3]	filters=list(geo = "EA", coicop = "CP00", unit = "I15")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=cToken[3]	filters=list(geo = "EA", coicop = "CP00", unit = "I15")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=HLTH_SHA11_HCHP	filters=list(UNIT = "MIO_EUR", GEO = c(EU27, "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=naio_10_cp16	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "NO"))	date_filter=2014:2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=naio_10_cp16	filters=list(INDUSE = "Q86", PROD_NA = c("CPA_J61", "CPA_J62_63"), UNIT = "MIO_EUR", GEO = c(EU27, "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020", "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020", "NO"))	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", GEO = "DE")	date_filter=2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=naio_10_cp15	filters=list(UNIT = "MIO_EUR", GEO = c(EU27, "EU27_2020", "NO"))	date_filter=2020	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = c(EU27, "EU27_2020", "NO"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = c(EU27, "EU27_2020"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = c(EU27, "EU27_2020"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = "DE", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = "DE", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2019	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = "DE", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2018	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = "DE", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = c(Einsteller, nace_selection), GEO = c(EU27, "EU27_2020"), NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(NACE_R2 = unique(substr(nace_selection, 1, 1)), GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "DK", NA_ITEM = c("P1"), UNIT = "CP_MEUR")	date_filter=2020:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.22.1	id=nama_10_a64	filters=list(GEO = "NO", NA_ITEM = "P1", UNIT = "CP_MEUR")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE

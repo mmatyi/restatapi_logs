@@ -1,0 +1,49 @@
+0.20.6	id=env_ac_pefa04	filters=c("CH", "NETDOM_EUSE")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE")
+0.20.6	id=nama_10_a64	filters=c("CH", "B1G", "CP_MEUR")
+0.20.6	id=lfsa_egan22d	filters=c("Y15-64", "CH", "T")
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_28, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_28, s_adj = "SA")	date_filter=2023-04
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_28, s_adj = "SA")	date_filter=2020-02
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = c("BS-CCI-BAL", "BS-ICI-BAL", "BS-RCI-BAL", "BS-CSMCI-BAL", "BS-SCI-BAL"), geo = geo_28, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = c("BS-EEI-I"), unit = "INX", geo = geo_27, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", unit = "INX", geo = geo_27, s_adj = "SA")	date_filter=2023-04
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", unit = "INX", geo = geo_27, s_adj = "SA")	date_filter=2020-02
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = c("BS-IEME-BAL", "BS-CEME-BAL", "BS-REM-BAL", "BS-SEEM-BAL"), unit = "BAL", geo = geo_27, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsci_m_r2	filters=list(indic = "BS-BCI", geo = "EA20", s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsco_m	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsco_q	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bsin_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsin_q_r2	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bsbu_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsbu_q_r2	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bsrt_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsse_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsse_q_r2	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_28, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_28, s_adj = "SA")	date_filter=2023-04
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_28, s_adj = "SA")	date_filter=2020-02
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = c("BS-CCI-BAL", "BS-ICI-BAL", "BS-RCI-BAL", "BS-CSMCI-BAL", "BS-SCI-BAL"), geo = geo_28, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = c("BS-EEI-I"), unit = "INX", geo = geo_27, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", unit = "INX", geo = geo_27, s_adj = "SA")	date_filter=2023-04
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", unit = "INX", geo = geo_27, s_adj = "SA")	date_filter=2020-02
+0.20.3	id=ei_bsee_m_r2	filters=list(indic = c("BS-IEME-BAL", "BS-CEME-BAL", "BS-REM-BAL", "BS-SEEM-BAL"), unit = "BAL", geo = geo_27, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsci_m_r2	filters=list(indic = "BS-BCI", geo = "EA20", s_adj = "SA")	date_filter=2023-05
+0.20.3	id=ei_bsco_m	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsco_q	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bsin_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsin_q_r2	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bsbu_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsbu_q_r2	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.3	id=ei_bsrt_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsse_m_r2	filters=list(geo = geo_29)	date_filter=2023-05
+0.20.3	id=ei_bsse_q_r2	filters=list(geo = geo_29)	date_filter=2023-04:2023-06
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

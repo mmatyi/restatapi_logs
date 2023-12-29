@@ -1,0 +1,115 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.14.1	id=hlth_rs_bdsrg	lang=en	type=both
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.14.1	id=demo_r_pjangrp3	cache=TRUE	cache_dir=data/	stringsAsFactors=FALSE
+0.14.1	id=demo_pjan	cache=TRUE	cache_dir=./data	stringsAsFactors=FALSE
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=label
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=label
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=label
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE	type=label
+0.13.3	id=sts_inppd_m	stringsAsFactors=FALSE
+0.13.3	id=sts_inppd_m	label=TRUE	stringsAsFactors=FALSE
+0.14.1	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.14.1	id=irt_lt_mcby_d	filters=c(EAn)
+0.14.1	id=irt_lt_mcby_d	filters=c("BE")
+0.14.1	id=irt_lt_mcby_d	filters=c("BE$")
+0.14.1	id=irt_lt_mcby_d	filters=c("AT", "BE", "CY", "DE", "EE", "EL", "ES", "FI", "FR", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PT", "SI", "SK", "EA")	date_filter=c("1998-01-01", "2022-12-31")	select_freq=function (expr, name)  .External(C_doD, expr, name)
+0.14.1	id=irt_lt_mcby_d	filters=c("AT", "BE", "CY", "DE", "EE", "EL", "ES", "FI", "FR", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PT", "SI", "SK", "EA")	date_filter=c("1998-01-01", "2022-12-31")	select_freq=function (expr, name)  .External(C_doD, expr, name)
+0.14.1	id=irt_lt_mcby_d
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=sts_inpr_m
+0.14.1	id=sts_inpr_m
+0.14.1	id=sts_inpr_m
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.14.1	id=sts_inpr_m
+0.14.1	id=sts_inpr_m
+0.14.1	id=sts_inpr_m
+0.14.1	id=sts_inpr_m
+0.14.1	id=sts_inpr_m
+0.14.1	id=une_rt_m
+0.14.1	id=une_rt_m
+0.14.1	id=une_rt_m
+0.14.1	id=prc_hicp_midx
+0.14.1	id=ert_eff_ic_m
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=sts_inpr_m
+0.14.1	id=une_rt_m
+0.14.1	id=prc_hicp_midx
+0.14.1	id=ert_eff_ic_m
+0.14.1	id=namq_10_gdp
+0.14.1	id=namq_10_gdp
+0.14.1	id=namq_10_gdp
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.14.1	id=gov_10q_ggdebt
+0.14.1	id=gov_10q_ggnfa
+0.14.1	id=irt_lt_mcby_d
+0.14.1	id=sts_inpr_m
+0.14.1	id=une_rt_m
+0.14.1	id=prc_hicp_midx
+0.14.1	id=ert_eff_ic_m
+0.14.1	id=namq_10_gdp
+0.14.1	id=gov_10q_ggdebt
+0.14.1	id=gov_10q_ggnfa
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=bd_hgnace2_r3
+0.13.3	id=nama_10r_3gdp	nuts_level=3
+0.13.3	id=nama_10r_3popgdp
+0.13.3	id=rd_e_gerdreg	nuts_level=2

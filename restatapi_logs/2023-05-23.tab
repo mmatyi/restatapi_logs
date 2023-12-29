@@ -1,0 +1,26 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_aind	filters=c("AT", "RCH_A_AVG", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=prc_hicp_aind	filters=c("AT", "RCH_A_AVG", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015
+0.20.6	id=prc_hicp_aind	filters=c("AT", "RCH_A_AVG", "FOOD", "IGD_NNRG", "NRG", "SERV", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")
+0.20.6	id=prc_hicp_aind	filters=c("AT", "RCH_A_AVG", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_aind	filters=c("AT", "RCH_A_AVG", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=isoc_ci_in_h	filters=list(geo = "EU28", unit = "PC_HH", hhtyp = "TOTAL")	date_filter=2008:2018
+0.20.6	id=sbs_sc_ovw	filters=list(geo = "EU27_20", indic_sbs = "TUR_GPW_MEUR")	date_filter=2021
+0.20.6	id=sbs_sc_ovw	filters=list(geo = "EU27_2020", indic_sbs = "TUR_GPW_MEUR")	date_filter=2021
+0.20.6	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2022
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2020-01-01
+0.20.6	id=prc_hicp_midx	filters=c("EA", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2020-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("DE", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

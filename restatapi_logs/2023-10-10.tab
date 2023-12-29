@@ -1,0 +1,24 @@
+0.20.6	id=NAMA_10_A64	filters=c("AT", "TOTAL", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "I", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.22.1	id=NAMA_10_A64	filters=c("AT", "I", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.21.2	id=nama_10_co3_p3	filters=list(geo = geo.scope, coicop = coicop.scope, unit = "CP_MEUR")	date_filter=time.scope	stringsAsFactors=FALSE	mode=csv
+0.21.2	id=nama_10_co3_p3	filters=list(geo = "PT", coicop = coicop.scope, unit = "CP_MEUR")	date_filter=time.scope	stringsAsFactors=FALSE	mode=csv
+0.20.6	id=NAMA_10_A64	filters=c("AT", "C", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "D", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "F", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "A", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "S94", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE	name=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	name=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE	name=FALSE
+0.20.6	id=NAMA_10_A64	filters=c("AT", "B1G", "D1", "B2A3N", "D29X39", "P51C", "CP_MEUR", "CLV15_MEUR", "PD15_NAC")	label=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

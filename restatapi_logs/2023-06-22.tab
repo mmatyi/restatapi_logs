@@ -1,0 +1,7 @@
+0.20.6	id=EI_BSIN_M_R2	filters=c("AT", "BS-ISPE", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSSE_M_R2	filters=c("AT", "BS-PE3M", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSBU_M_R2	filters=c("AT", "BS-CPE-BAL", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSCO_M	filters=c("AT", "BS-PT-NY", "SA")	date_filter=>2015-01-01
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE

@@ -1,0 +1,26 @@
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2015-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=ilc_peps03n
+0.20.6	id=ilc_peps03n
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

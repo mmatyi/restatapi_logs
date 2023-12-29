@@ -1,0 +1,95 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=sbs_sc_sca_r2	filters=list(geo = "EU27_2020", indic_sb = "V12110")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evaln2	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=isoc_ec_evals	filters=list(geo = "EU27_2020", indic_is = "E_ETURN", unit = "PC_TURN")	date_filter=2019:2020
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "TOTAL", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "TOTAL", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "TOTAL", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "TOTAL", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "TOTAL", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "TOTAL", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MA", "TN", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MA", "TN", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MA", "TN", "LY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MA", "TN", "LY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "NG", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "NG", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MA", "TN", "LY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "RU", "UA", "BY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "NO", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "NG", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "DZ", "MA", "TN", "LY", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "US", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_ti_gasm	filters=c("EU27_2020", "QA", "NG", "MIO_M3", "G3000")	date_filter=>2018-01-01
+0.13.3	id=nrg_bal_c
+0.13.3	id=nrg_bal_c
+0.13.3	id=nama_10_a10
+0.13.3	id=tec00133
+0.13.3	id=tec00013

@@ -1,0 +1,24 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=ert_bil_eur_d	filters=c("CHF", "USD", "GBP")	date_filter=c("2022-12", "2023-6")
+0.20.6	id=SDG_16_50
+0.20.6	id=SDG_16_40
+0.20.6	id=ert_bil_eur_d	filters=c("CHF", "USD", "GBP")	date_filter=c("2022-12", "2023-6")
+0.20.6	id=IRT_EURYLD_Q
+0.20.6	id=PRC_HICP_MIDX
+0.20.6	id=EI_HPPI_Q
+0.20.6	id=EI_LMHR_M
+0.20.6	id=EI_BSSE_Q_R2
+0.20.6	id=ert_bil_eur	label=TRUE	name=FALSE
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=prc_hpi_ooq	date_filter=c("2020-01", "2022-6")
+0.20.6	id=prc_hpi_ooq
+0.20.6	id=prc_hpi_ooq	filters=c("Q", "IT")
+0.20.6	id=ert_bil_eur_d	filters=c("CHF", "USD", "GBP")	date_filter=c("2022-12", "2023-6")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

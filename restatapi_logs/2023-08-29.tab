@@ -1,0 +1,51 @@
+0.21.2	id=apro_mt_lspig
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.21.0	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NAMA_10_GDP	filters=c("AT", "B1GQ", "D1", "B2A3G", "D2X3", "SCA", "CP_MEUR", "CLV15_MEUR", "PD15_EUR")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=NASA_10_NF_TR	filters=c("AT", "PAID", "CP_MEUR", "S1", "S11", "S12", "S13", "S14_S15", "B1GQ", "P51G")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

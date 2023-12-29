@@ -1,0 +1,87 @@
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "B3G", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", industrie)	date_filter=2019
+0.20.6	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.20.6	id=ert_bil_eur	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.20.6	id=ert_bil_eur	label=TRUE	name=FALSE
+0.20.6	id=aert_bil_eur_q	date_filter=c("2016-08", "2020-07-01")
+0.20.6	id=aert_bil_eur_q
+0.20.6	id=aert_bil_eur_q	filters=CHF	date_filter=c("2020-01", "2022-6")
+0.20.6	id=namq_10_ma	date_filter=c("2020-01", "2022-6")
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=prc_hpi_ooq
+0.20.6	id=prc_hpi_ooq	filters=c("go", "IT")	date_filter=c("2020-01", "2022-6")
+0.20.6	id=prc_hpi_ooq	filters=c("geo", "IT")	date_filter=c("2020-01", "2022-6")
+0.20.6	id=prc_hpi_ooq	date_filter=c("2020-01", "2022-6")
+0.20.6	id=prc_hpi_ooq
+0.20.6	id=prc_hpi_ooq	filters=Austria	date_filter=c("2020-01", "2022-6")
+0.20.6	id=prc_hpi_ooq	filters=Austria
+0.20.6	id=prc_hpi_ooq	filters=c("DW_OWN", "Austria")
+0.20.6	id=prc_hpi_ooq	filters=c("DW_OWN", name = "Austria")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B1G", "B1N", "D1", "B3G", "B2A3G", "P51C", "D29X39", "NSA", "S11", "CP_MEUR")
+0.20.6	id=NASQ_10_NF_TR	filters=c("AT", "PAID", "B3G", "D1", "B2A3G", "NSA", "S1", "CP_MEUR")
+0.20.6	id=prc_hpi_ooq	code=Q	name=Austria
+0.20.6	id=prc_hpi_ooq	code=Q	name=Austria
+0.20.6	id=prc_hpi_ooq	code=Q	geo=IT
+0.20.6	id=prc_hpi_ooq	filters=c("Q", "IT")
+0.20.6	id=prc_hpi_ooq	filters=c("CHF", "USD", "GBP")	date_filter=c("2022-12", "2023-6")
+0.20.6	id=ert_bil_eur_d	filters=c("CHF", "USD", "GBP")	date_filter=c("2022-12", "2023-6")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", industrie)	date_filter=2019
+0.20.6	id=PRC_HPI_Q	filters=c("geo", "Italy")	date_filter=c("2022-12", "2023-6")
+0.20.6	id=PRC_HPI_Q	filters=c("geo", "Italy")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", industrie)	date_filter=2019
+0.20.6	id=prc_hicp_manr	filters=c("DE", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("DE", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP00")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP00")
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", industrie)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", industrie)	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", primaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)	date_filter=2010:2019
+0.20.6	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", primaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer)	date_filter=2010:2019
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE", "HH")	date_filter=2010:2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.20.6	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.20.6	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", primaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer)	date_filter=2019
+0.20.6	id=env_ac_pefasu	filters=c(laender, "USE", "HH")	date_filter=2019
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

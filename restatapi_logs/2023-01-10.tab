@@ -1,0 +1,45 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.14.0	id=enps_nama_a10	type=label	time_format=num
+0.13.3	id=NAMA_10_GDP
+0.13.3	id=nama_10_gdp	update_cache=TRUE	check_toc=TRUE
+0.13.3	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.13.3	id=nama_10_gdp	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.13.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.13.3	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.13.3	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)	label=TRUE
+0.13.3	id=migr_asyappctzm	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c(2013:2018)	label=TRUE
+0.13.3	id=migr_asytpfq	date_filter=TRUE	label=TRUE
+0.13.3	id=migr_asytpfq	date_filter=TRUE	label=TRUE
+0.13.3	id=migr_asytpfq	date_filter=TRUE	label=TRUE
+0.13.3	id=migr_asytpfq	date_filter=c("2022-03", "2022-11-01")	label=TRUE
+0.13.3	id=migr_asytpfq	date_filter=c("2022-03-01", "2022-11-01")	label=TRUE
+0.13.3	id=migr_asytpfq	date_filter=c("2022-07-01", "2022-04-01")	label=TRUE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M3")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M6")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M1")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=PRC_HICP_MV12R	filters=list(geo = c("EA"), unit = "RCH_MV12MAVR", coicop = "CP00")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=STS_INPR_M	filters=list(geo = c("EA19"), s_adj = "SCA", unit = c("I15"), indic_bt = "PROD", nace_r2 = "B-D_F")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=STS_INPR_M	filters=list(geo = c("EA19"), s_adj = "CA", unit = c("PCH_SM"), indic_bt = "PROD", nace_r2 = "B-D_F")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M3")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M6")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=IRT_ST_M	filters=list(geo = c("EA"), int_rt = "IRT_M1")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=PRC_HICP_MV12R	filters=list(geo = c("EA"), unit = "RCH_MV12MAVR", coicop = "CP00")	exact_match=TRUE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=STS_INPR_M	filters=list(geo = c("EA19"), s_adj = "SCA", unit = c("I15"), indic_bt = "PROD", nace_r2 = "B-D_F")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE
+0.13.3	id=STS_INPR_M	filters=list(geo = c("EA19"), s_adj = "CA", unit = c("PCH_SM"), indic_bt = "PROD", nace_r2 = "B-D_F")	exact_match=FALSE	date_filter=2002:2019	label=FALSE	select_freq=M	verbose=FALSE	name=FALSE

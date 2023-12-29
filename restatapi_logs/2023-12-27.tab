@@ -1,0 +1,11 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.22.1	id=EXT_ST_EU27_2020SITC 	filters=c("RU", "TRD_VAL", "SITC33", "IMP", "O4600")	date_filter=>2018-01-01

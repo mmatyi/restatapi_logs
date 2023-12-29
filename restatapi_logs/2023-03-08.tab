@@ -1,0 +1,44 @@
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=namq_10_gdp
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_exi
+0.13.3	id=une_rt_q
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "ASS", na_item = "F", sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.13.3	id=NASA_10_KI
+0.20.3	id=bd_hgnace2_r3
+0.20.3	id=nama_10r_3gdp	nuts_level=2
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=rd_e_gerdreg	nuts_level=2
+0.13.3	id=NASA_10_KI
+0.20.3	id=bd_hgnace2_r3
+0.20.3	id=nama_10r_3gdp	nuts_level=3
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=rd_e_gerdreg	nuts_level=2
+0.20.3	id=bd_hgnace2_r3
+0.20.3	id=nama_10r_3gdp	nuts_level=3
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=rd_e_gerdreg	nuts_level=2
+0.20.3	id=bd_hgnace2_r3
+0.20.3	id=nama_10r_3gdp	nuts_level=3
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=rd_e_gerdreg	nuts_level=2
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_hgnace2_r3
+0.20.3	id=nama_10r_3gdp	nuts_level=3
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=rd_e_gerdreg	nuts_level=2
+0.20.3	id=bd_size_r3

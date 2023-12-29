@@ -1,0 +1,9 @@
+0.13.3	id=prc_hicp_midx
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2020
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2020
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2020	label=TRUE
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2020
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021	label=TRUE
+0.20.3	id=agr_r_milkpr	filters=paste0("^", countrycode, "..")	date_filter=2021
+0.20.3	id=agr_r_milkpr	date_filter=2021

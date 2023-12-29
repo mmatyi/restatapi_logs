@@ -1,0 +1,40 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=gov_10dd_edpt1	filters=list(na_item = "GD", sector = "S13", geo = c("EU27_2020"), unit = "PC_GDP")	label=TRUE	name=FALSE
+0.13.3	id=lfsa_ugan	filters=list(age = "Y15-74", citizen = "TOTAL", geo = "SI", sex = "T", unit = "THS")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=ext_st_eu27_2020sitc	filters=list(indic_et = "TRD_VAL", partner = "EXT_EU27_2020", geo = c("EU27_2020"), sitc06 = "TOTAL", stk_flow = "IMP")	label=TRUE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", unit = "CLV15_MNAC")	label=FALSE	name=FALSE
+0.13.3	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SA", geo = c("SK"), unit = "CLV15_MNAC")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "CA", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "BAL", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=bop_gdp6_q	filters=list(freq = "Q", bop_item = "FA__NENDI", geo = c("SI"), partner = "WRL_REST", unit = "PC_GDP", stk_flow = "N_LE", s_adj = "NSA")	label=TRUE	name=FALSE
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = "HR")
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU-27"))
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU-27"))
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU-27"), unit = "I15")
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU-27"), unit = "I15")
+0.13.3	id=prc_hicp_midx
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=sts_inppd_m	filters=list(unit = "I15", nace_r2 = "B-E36", s_adj = "NSA", geo = c("AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "EL", "ES", "FI", "FR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL", "PT", "RO", "SI", "SK"), indic_bt = "PRIN")	date_filter=paste0("<", args$month_year, "-01")
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU"), unit = "I15")
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU"), unit = "I15")
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU"), unit = "I15", sd = "2015")
+0.13.3	id=prc_hicp_midx	filters=list(coicop = coicop, geo = c("HR", "EU"), unit = "I15", sd = "2015-01-01")
+0.13.3	id=NRG_TI_OILM	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>2018-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "RU", "O4100_TOT", "O4300", "O4600")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EU27_2020", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>1990-01-01

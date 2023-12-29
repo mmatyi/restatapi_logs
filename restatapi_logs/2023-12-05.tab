@@ -1,0 +1,55 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.13.3	id=edat_lfs_9903	label=TRUE
+0.13.3	id=edat_lfse_04	label=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "THS")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=demo_r_pjanaggr3	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", sex = "T", age = "Total", unit = "NR")	exact_match=FALSE	date_filter=2000:2020
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=eurostat_weekly_dx
+0.22.1	id=eurostat_weekly_dx
+0.22.1	id=demo_r_mwk_05
+0.22.1	id=demo_r_mwk_05

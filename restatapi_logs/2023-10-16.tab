@@ -1,0 +1,49 @@
+0.20.6	id=rd_p_persocc	filters=list(unit = "HC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=inn_cis12_bas
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2	filters=list(time = "2020")
+0.20.6	id=sbs_r_nuts06_r2	filters=list(time = "2020-01-01")
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=sbs_r_nuts06_r2
+0.22.1	id=nama_10_a64_e	filters=list(NA_ITEM = "EMP_DC", UNIT = "THS_PER")	date_filter=2014:2021	cache=FALSE	stringsAsFactors=FALSE	cflags=TRUE	verbose=TRUE
+0.20.6	id=sbs_r_nuts06_r2
+0.20.6	id=NAMQ_10_A10_E	label=FALSE
+0.20.6	id=NAMQ_10_A10_E
+0.20.6	id=NAMQ_10_A10	label=FALSE
+0.20.6	id=NAMQ_10_A10_E	label=FALSE
+0.20.6	id=STS_INPR_Q	label=FALSE
+0.20.6	id=STS_SEPR_Q	label=FALSE
+0.20.6	id=sts_selb_q 	label=FALSE
+0.20.6	id=STS_SELB_Q 	label=FALSE
+0.20.6	id=STS_SELB_Q 	label=FALSE
+0.20.6	id=STS_TTLB_Q 	label=FALSE
+0.20.6	id=STS_TRLB_Q 	label=FALSE
+0.20.6	id=Table	label=FALSE
+0.20.6	id=SBS_SC_IND_R2	label=FALSE
+0.22.1	id=ds059322	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=ds059322	verbose=TRUE
+0.22.1	id=ds059322	filters=xml	verbose=TRUE
+0.22.1	id=ext_lt_intratrd	filters=xml	verbose=TRUE
+0.22.1	id=ext_lt_intratrd	verbose=TRUE
+0.22.1	id=ds059322	verbose=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

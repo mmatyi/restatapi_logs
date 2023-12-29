@@ -1,0 +1,56 @@
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=educ_uoe_grad02
+0.20.6	id=educ_uoe_grad02	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(sex = "F", isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"))
+0.20.6	id=educ_uoe_grad02	filters=list(sex = "F", isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"))	label=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(sex = "F", isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"))	label=TRUE	cflags=TRUE	keepflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(sex = "F", isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"))	label=TRUE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(sex = "F", isced11 = "ED8", time = c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020"))	label=TRUE	keep_flags=TRUE	cflags=TRUE
+0.20.6	id=PRC_HICP_MANR	filters=c("EA19", "CP041", "SERV")	date_filter=>2000-01-01
+0.20.6	id=PRC_HICP_MANR	filters=c("AT", "CP041", "SERV")	date_filter=>2000-01-01
+0.20.6	id=PRC_HICP_CTRB	filters=c("FOOD", "IGD_NNRG", "NRG", "SERV")	date_filter=>2001-01-01
+0.20.6	id=HLTH_EHIS_CD1C
+0.20.6	id=HLTH_CD_ARO
+0.20.6	id=nama_10_co3_p3
+0.20.6	id=nasa_10_nf_tr
+0.20.6	id=nama_10_co3_p3
+0.20.6	id=nasa_10_nf_tr
+0.20.6	id=ilc_peps03n
+0.20.6	id=prc_ppp_ind
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=earn_mw_cur
+0.20.6	id=ilc_peps03n
+0.20.6	id=ilc_peps03n
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_ppp_ind
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

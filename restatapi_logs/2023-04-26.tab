@@ -1,0 +1,92 @@
+0.20.6	id=t_nama10
+0.20.6	id=met_10r_3pgdp	filters=list(code = "*MC")
+0.20.6	id=met_10r_3pgdp	filters=list(code = "*MC")
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = "*MC")
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = "*MC", time > 2010)
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = "*MC")	date_filter=2010:
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = "*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = "$MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = "*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3pgdp
+0.20.6	id=met_10r_3pgdp
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=nama_10r_3popgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=met_10r_3pgdp	filters=list(metroreg = ".*MC")	date_filter=2010:2025
+0.20.6	id=met_10r_3gdp	filters=list(metroreg = ".*MC", unit = ".*PPS.*")	date_filter=2010:2050
+0.20.6	id=met_10r_3emp	filters=list(metroreg = ".*MC", wstatus = "EMP")	date_filter=2010:2050
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(geo = "EU27_2020")	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(geo = "EU27_2020")	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(geo = filters_list_geo)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp
+0.20.6	id=nama_10r_3popgdp	filters=list(geo = filters_list_geo)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(filters_list)	date_filter=2010:2025
+0.20.6	id=nama_10r_3popgdp	filters=list(geo = filters_geo)	date_filter=2010:2025
+0.20.6	id=ei_c~
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	filters=EA
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=c("2010-01", Sys.Date())
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=c("2010-01", "2023-03")
+0.20.6	id=prc_hicp_midx	filters=EA
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=<2010-01
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=>2010-01
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2010-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2010-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2010-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2010-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2020-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2020-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2020-01<
+0.20.6	id=prc_hicp_midx	filters=EA	date_filter=2015-01<
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx
+0.20.6	id=nama_10r_3popgdp	date_filter=2010:2025
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "MIO_PPS_EU27_2020")	date_filter=2010:2025
+0.20.6	id=nama_10r_3empers	filters=list(wstatus = "EMP")	date_filter=2010:2025
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

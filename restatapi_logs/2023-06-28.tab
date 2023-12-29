@@ -1,0 +1,58 @@
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=NAMA_10_GDP
+0.20.6	id=ENV_AC_PEFA04
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F073", "F071", "F072", "F061", "F051", "F052", "F054", "F053"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=nama_10_a64_e	filters=DE
+0.20.6	id=env_ac_pefa04	filters=CHE
+0.20.6	id=env_ac_pefa04	filters=CH	exact_match=NETDOM_EUSE
+0.20.6	id=env_ac_pefa04	filters=CH
+0.20.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.20.6	id=env_ac_pefa04	filters=c("CH", "DE")
+0.20.6	id=env_ac_pefa04	filters=c("CH", "IT")
+0.20.6	id=env_ac_pefa04	filters=c("CH", "IT", "netdom_euse")
+0.20.6	id=env_ac_pefa04	filters=c("CH", "netdom_euse")
+0.20.6	id=env_ac_pefa04	filters=c("CH", "NETDOM_EUSE")
+0.20.6	id=nama_10_a64	filters=CH
+0.20.6	id=nama_10_a64
+0.20.6	id=nama_10_a64	filters=c("CH", "DE")
+0.20.6	id=nama_10_a64	filters=DE
+0.20.6	id=nama_10_a64	filters=DE
+0.20.6	id=env_ac_pefa04	filters=c("CH", "NETDOM_EUSE")
+0.20.6	id=nama_10_a64	filters=CH
+0.20.6	id=nama_10_a64	filters=CH
+0.20.6	id=nama_10_a64
+0.20.6	id=env_ac_pefa04	filters=c("CH", "NETDOM_EUSE")
+0.20.6	id=nama_10_a64_e	filters=CH
+0.20.6	id=nama_10_a64_e	filters=c("CH", "THS_PER")
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=lc_nnum1_r2	filters=c("CH", "TOTAL", "SAL")
+0.20.6	id=nama_10_a64	filters=c("CH", "B1G")
+0.20.6	id=nama_10_a64	filters=c("CH", "B1G", "CP_MEUR")
+0.20.6	id=educ_uoe_grad02	filters=list(isced11 = c("ED8", "ED6", "ED7"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=educ_uoe_ent02	filters=list(isced11 = c("ED8", "ED6"), iscedf13 = c("F08", "F02", "F04", "F01", "F07", "F09", "F06", "F05", "F10", "F03", "TOTAL"))	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_aind
+0.20.6	id=lfsq_egan22d	filters=c("Y15-64", "TOTAL")
+0.20.6	id=lfsq_egan22d	filters=Y15-64
+0.20.6	id=env_ac_pefa04	filters=c("CH", "NETDOM_EUSE")
+0.20.6	id=nama_10_a64	filters=c("CH", "B1G", "CP_MEUR")
+0.20.6	id=lfsq_egan22d	filters=Y15-64
+0.20.6	id=lfsa_egan22d	filters=c("Y15-64", "CH", "TOTAL")
+0.20.6	id=lfsa_egan22d	filters=c("Y15-64", "CH", "T")
+0.20.6	id=env_ac_pefa	filters=c("CH", "USE_END")
+0.20.6	id=env_ac_pefa	filters=c("CH", "USE_END")
+0.20.6	id=env_ac_pefa	filters=CH
+0.20.6	id=env_ac_pefa
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE_END")
+0.20.6	id=env_ac_pefasu	filters=c("CH", "USE")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

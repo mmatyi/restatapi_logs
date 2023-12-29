@@ -1,0 +1,25 @@
+0.22.0	id=table_code	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.22.0	id=tus_00age	filters=c("HU", "total", "time spent", "travel")	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.22.0	id=htec_cis3	date_filter=2000	label=TRUE	cflags=TRUE
+0.22.0	id=htec_cis3	filters=c("expenditure", "low-technology")	exact_match=FALSE	date_filter=2000	label=TRUE	cflags=TRUE	ignore.case=TRUE
+0.22.0	id=htec_cis3	filters=c("expenditure", "^low-technology")	exact_match=FALSE	date_filter=2000	label=TRUE	cflags=TRUE	ignore.case=TRUE
+0.22.0	id=htec_cis3	filters=c("expenditure", "^low-technology")	exact_match=FALSE	date_filter=2000	label=FALSE	cflags=TRUE	ignore.case=TRUE
+0.22.0	id=htec_cis3	filters=c("expenditure", "^low-technology")	exact_match=FALSE	date_filter=2000	label=TRUE	cflags=TRUE	ignore.case=TRUE
+0.22.0	id=sbs_sc_ind_r2	filters=Austria	keep_flags=TRUE
+0.22.0	id=sbs_sc_ind_r2	filters=Austria	keep_flags=TRUE	force_local_filter=TRUE
+0.22.0	id=sbs_sc_ind_r2	filters=Austria	keep_flags=TRUE
+0.22.0	id=sbs_sc_ind_r2	filters=Austria	keep_flags=TRUE	force_local_filter=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=hrst_st_nunesex	filters=list("HRSTU", "RT_UNE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.21.2	id=demo_r_mweek3	filters=c("AT", "BE")	keep_flags=TRUE
+0.21.2	id=demo_r_mweek3	filters=Austria	keep_flags=TRUE	force_local_filter=TRUE
+0.21.2	id=demo_r_mweek3	keep_flags=TRUE
+0.21.2	id=demo_r_mweek3
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,71 @@
+0.13.3	id=prc_hicp_midx
+0.13.3	id=prc_hicp_midx	label=TRUE
+0.13.3	id=prc_hicp_manr
+0.13.3	id=prc_hicp_manr	label=TRUE
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor	label=TRUE
+0.13.3	id=prc_hicp_inw
+0.13.3	id=prc_hicp_inw	label=TRUE
+0.13.3	id=EI_BSIN_Q_R2	filters=c("EA19", "SA", "BS-FLP1-PC", "BS-FLP2-PC", "BS-FLP3-PC", "BS-FLP4-PC", "BS-FLP5-PC", "BS-FLP6-PC")	date_filter=>2004-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EU27_2020", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EA19", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EA19", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EA19", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2017-01-01
+0.13.3	id=STS_INPR_M	filters=c("EA19", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2019-01-01
+0.13.3	id=PRC_HICP_MANR	filters=c("EA19", "IGD_NNRG_SD", "CP07111", "CP07112")	date_filter=>2018-01-01
+0.13.3	id=PRC_HICP_MANR	filters=c("EA19", "IGD_NNRG_SD", "CP07111", "CP07112")	date_filter=>2018-01-01
+0.13.3	id=PRC_HICP_MANR	filters=c("EA19", "IGD_NNRG_SD", "CP07111", "CP07112")	date_filter=>2018-01-01
+0.13.3	id=PRC_HICP_MANR	filters=c("EA19", "IGD_NNRG_D", "CP07111", "CP07112")	date_filter=>2018-01-01
+0.13.3	id=PRC_HICP_MANR	filters=c("EA19", "CP041", "SERV")	date_filter=>2000-01-01
+0.13.3	id=PRC_HICP_MANR	filters=c("EA19", "CP041", "SERV")	date_filter=>2000-01-01
+0.13.3	id=STS_SETU_Q	filters=c("EA19", "PCH_CM", "CA", "H-N_STS")	date_filter=>2000-01-01
+0.13.3	id=STS_SETU_Q	filters=c("EA19", "PCH_SM", "CA", "H-N_STS")	date_filter=>2000-01-01
+0.13.3	id=STS_SETU_Q	filters=c("EA19", "PCH_SM", "CA", "H-N_STS")	date_filter=>2000-01-01
+0.13.3	id=STS_SETU_Q	filters=c("EA19", "PCH_SM", "CA", "H-N_STS")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("EA19", "PCH_SM", "CA", "G47_X_G373")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("EA19", "PCH_SM", "CA", "G47_X_G373")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOTV", "EA19", "PCH_SM", "CA", "G47_X_G373")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOTV", "EA19", "PCH_SM", "CA", "G47_X_G373")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOTV", "EA19", "PCH_SM", "CA", "G47_X_G473")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOTV", "EA19", "PCH_SM", "CA", "G47_X_G473")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOTV", "EA19", "PCH_SM", "CA", "G47_X_G473")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOVT", "EA19", "PCH_SM", "CA", "G47_X_G473")	date_filter=>2000-01-01
+0.13.3	id=STS_TRTU_Q	filters=c("TOVT", "EA19", "PCH_SM", "CA", "G47_X_G473")	date_filter=>2000-01-01
+0.13.3	id=EI_BSEE_M_R2	filters=c("INX")	date_filter=>2006-01-01
+0.13.3	id=EI_BSEE_M_R2	filters=c("INX", "EA19")	date_filter=>2006-01-01
+0.13.3	id=EI_BSEE_M_R2	filters=c("INX", "EA19")	date_filter=>2006-01-01
+0.13.3	id=EI_BSEE_M_R2	filters=c("BAL", "EA19")	date_filter=>2006-01-01
+0.13.3	id=EI_BSEE_M_R2	filters=c("INX", "EA19")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "[B-S]", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=demo_r_magec	date_filter=2003:2018
+0.13.3	id=hlth_rs_bdsrg	date_filter=2003:2018
+0.13.3	id=hlth_rs_prsrg	date_filter=2003:2018
+0.13.3	id=demo_r_pjangroup	date_filter=2003:2018
+0.13.3	id=demo_r_d3dens	date_filter=2003:2018
+0.13.3	id=nama_10r_2gdp	date_filter=2003:2018
+0.13.3	id=hlth_cd_anr	date_filter=2003:2018
+0.13.3	id=ilc_li41	date_filter=2003:2018
+0.13.3	id=LC_LCI_R2_Q	filters=c("SCA", "EA19", "B-S", "D1_D4_MD5", "PCH_SM")	date_filter=>2006-01-01
+0.13.3	id=demo_r_magec	date_filter=2003:2018
+0.13.3	id=hlth_rs_bdsrg	date_filter=2003:2018
+0.13.3	id=hlth_rs_prsrg	date_filter=2003:2018
+0.13.3	id=demo_r_pjangroup	date_filter=2003:2018
+0.13.3	id=demo_r_d3dens	date_filter=2003:2018
+0.13.3	id=nama_10r_2gdp	date_filter=2003:2018
+0.13.3	id=hlth_cd_anr	date_filter=2003:2018
+0.13.3	id=ilc_li41	date_filter=2003:2018

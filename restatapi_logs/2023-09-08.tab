@@ -1,0 +1,15 @@
+0.21.2	id=apro_mt_lspig
+0.21.2	id=GOV_10DD_EDPT1	date_filter=c("2022")	label=TRUE	cache=FALSE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.21.2	id=apro_mt_lspig
+0.21.2	id=agr_r_animal
+0.21.2	id=apro_mt_sloth
+0.21.2	id=demo_pjan
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

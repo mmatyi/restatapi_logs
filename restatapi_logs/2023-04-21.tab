@@ -1,0 +1,24 @@
+0.20.3	id=NAMQ_10_GDP	filters=c("CP_MNAC", "CP_MEUR", "B1GQ", "D11", "NSA")	date_filter=c(2014:2022)
+0.20.3	id=PRC_HICP_MANR	filters=c("AP")	date_filter=c(2014:2022)
+0.20.3	id=TEIBS020
+0.20.3	id=EI_BSCO_M
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_co3_p3
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_EUR", time >= baseYear)	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=nama_10_gdp	filters=list(na_item = "B1GQ", unit = "CP_MEUR")	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,26 @@
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.20.6	id=EI_BSIN_M_R2	filters=c("AT", "BS-ISPE", "SA")	date_filter=>2019-01-01
+0.20.6	id=EI_BSSE_M_R2	filters=c("AT", "BS-PE3M", "SA")	date_filter=>2019-01-01
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2020-01-01
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

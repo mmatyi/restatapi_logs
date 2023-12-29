@@ -1,0 +1,48 @@
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	verbose=TRUE
+0.20.6	id=env_ac_egss2	update_cache=TRUE	stringsAsFactors=FALSE	verbose=TRUE
+0.20.6	id=env_ac_egss1	filters=list(nace_r2 == "TOTAL", ty == "TOT_EGSS")	date_filter=(paste0(baseYear, ":", refYear))	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	filters=list(nace_r2 == "TOTAL", ty == "TOT_EGSS")	date_filter=paste0(baseYear, ":", refYear)	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	filters=list(ty == "TOT_EGSS")	date_filter=paste0(baseYear, ":", refYear)	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	date_filter=paste0(baseYear, ":", refYear)	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = timeframe, nace_r2 = "TOTAL", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = timeframe, nace_r2 = "TOTAL", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = 2015:2019, cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = as.character(c(2015:2019)), cpa08 = "Total CPA products", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "EXP", geo = country, time = timeframe, nace_r2 = "TOTAL", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=ext_tec05	filters=list(unit = "THS_EUR", sizeclas = "TOTAL", stk_flow = "IMP", geo = country, time = timeframe, nace_r2 = "TOTAL", partner = "WORLD")	label=TRUE	stringsAsFactors=FALSE
+0.20.6	id=lfst_r_lfe2emp
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

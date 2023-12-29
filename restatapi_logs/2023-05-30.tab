@@ -1,0 +1,65 @@
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.20.3	id=EI_BSFS_Q
+0.20.3	id=ei_bsfs_q	update_cache=TRUE	check_toc=TRUE
+0.20.3	id=ei_bsfs_q	cache_dir=/tmp	cflags=TRUE	stringAsFactors=FALSE
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=migr_imm8	filters=c("BE$", "Hungary")	date_filter=2019:2020	keep_flags=TRUE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "EA20"), s_adj = "SA")	date_filter=2023-05-01	label=TRUE	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "EA20"), s_adj = "SA")	date_filter=<2023-05-01	label=TRUE	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "EA20"), s_adj = "SA")	date_filter=2023 - 5 - 1	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "EA20"), s_adj = "SA")	date_filter=>2023-05-01	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "EA20"), s_adj = "SA")	date_filter=2023-05-01	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=>2023-05-01	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	lastNObservations=1	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter==2023-05-01	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=2023M05	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=2023-05-01:2023-05-01	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=startDate=2023-05-01
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=c * ("2023-05-01")	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=2023-05-01	local_filter=FALSE	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA", time = 2023)	date_filter=2023-05-01	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA", time = "2023-05-01")	name=FALSE
+0.20.6	id=migr_imm8	filters=c("BE$", "Hungary")	date_filter=2019:2020	keep_flags=TRUE
+0.20.6	id=EI_BSIN_M_R2	filters=c("AT", "BS-ISPE", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSIN_M_R2	filters=c("AT", "BS-ISPE", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSIN_M_R2	filters=c("AT", "BS-ISPE", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSSE_M_R2	filters=c("AT", "BS-PE3M", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSBU_M_R2	filters=c("AT", "BS-CPE-BAL", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSCO_M	filters=c("AT", "BS-PT-NYL", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSCO_M	filters=c("AT", "BS-PT-NYL", "SA")	date_filter=>2015-01-01
+0.20.6	id=EI_BSCO_M	filters=c("AT", "BS-PT-NY", "SA")	date_filter=>2015-01-01
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=>2023-05-01	select_freq=M	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=2023-05-01	select_freq=M	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=c(">2023-04-01", "<2023-06-01")	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=c("2023-05")	name=FALSE
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=c("2023-05")
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = geo_29, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.3	id=ei_bssi_m_r2	filters=list(indic = c("BS-CCI-BAL", "BS-ICI-BAL", "BS-RCI-BAL", "BS-CSMCI-BAL", "BS-SCI-BAL"), geo = geo_29, s_adj = "SA")	date_filter=2023-05
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

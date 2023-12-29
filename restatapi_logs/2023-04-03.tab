@@ -1,0 +1,25 @@
+0.20.3	id=bd_hgnace2_r3
+0.20.3	id=nama_10r_3gdp	nuts_level=3
+0.20.3	id=nama_10r_3popgdp
+0.20.3	id=rd_e_gerdreg	nuts_level=2
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_size_r3
+0.20.3	id=bd_hgnace2_r3
+0.14.1	id=demo_pjan	filters=country_abbrev	date_filter=2022	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=demo_pjan	filters=HR	date_filter=2022	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=tgs00096	filters=HR	date_filter=2022	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=tgs00096	filters=HR$	date_filter=2022	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=tgs00096	date_filter=2022	label=TRUE	select_freq=A	name=FALSE
+0.14.1	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE

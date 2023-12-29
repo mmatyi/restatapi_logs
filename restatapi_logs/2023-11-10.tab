@@ -1,0 +1,140 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2024	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2024	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=1995:2024	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=1995:2022	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=1995:2022	label=TRUE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[1]	filters=c(country, "CP_MNAC", "CLV15_MNAC")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[2]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "B1G", "P1", "P2")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[3]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA")	date_filter=starting_year:latest_year	label=TRUE
+0.22.1	id=tables[4]	filters=c(country, "CP_MNAC", "CLV15_MNAC", "NSA", "B1G")	date_filter=starting_year:latest_year	label=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = eu_zemlje, s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = eu_zemlje, s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = c(agregati, pojedinacno), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = c(agregati, pojedinacno), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = c(agregati, pojedinacno), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = c(agregati, pojedinacno), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.1	id=namq_10_gdp	filters=list(na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = eu_zemlje, s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-RCI-BAL", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-RCI-BAL", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CCI-BAL", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-SCI-BAL", s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", s_adj = "SA", freq = "M", unit = "INX")	date_filter=2000-01<
+0.22.1	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", s_adj = "SA", freq = "M", unit = "INX")	date_filter=2000-01<
+0.22.1	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", s_adj = "SA", freq = "M", unit = "INX")	date_filter=2000-01<
+0.22.1	id=ei_bsee_m_r2	filters=list(indic = "BS-EEI-I", s_adj = "SA", freq = "M", unit = "INX")	date_filter=2000-01<

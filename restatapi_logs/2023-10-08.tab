@@ -1,0 +1,13 @@
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "P3_P5", "CLV_I15", "SCA")	date_filter=(2010:2023)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "CP_MEUR", "D1", "SCA")	date_filter=(2009:2023)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "CP_MEUR", "D1", "SCA")	date_filter=(2009:2023)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "CP_MEUR", "D1", "SCA")	date_filter=(2009:2023)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "CP_MEUR", "D1", "SCA")	date_filter=(2009:2023)
+0.20.6	id=NAMQ_10_GDP	filters=c("AT", "CP_MEUR", "D1", "SCA")	date_filter=(2009:2023)
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE

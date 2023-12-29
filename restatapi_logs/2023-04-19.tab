@@ -1,0 +1,30 @@
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=env_ac_egss1	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=env_ac_egss2	stringsAsFactors=FALSE	cflags=TRUE
+0.20.6	id=ext_tec01	filters=list(sizeclas = "TOTAL", nace_r2 = "TOTAL", unit = "THS_EUR", stk_flow = "EXP", partner = "WORLD")	stringsAsFactors=FALSE
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T", age = "Y20-64")	date_filter=2010:2023
+0.12.3	id=hbs_exp_t111
+0.12.3	id=ilc_di01
+0.12.3	id=ilc_li02
+0.20.6	id=lfst_r_lfe2emp	filters=list(sex = "T")	date_filter=2000:2023
+0.20.6	id=lfst_r_lfe2emp	date_filter=2000:2023
+0.12.3	id=ilc_di01
+0.12.3	id=ilc_li02
+0.12.3	id=hbs_exp_t111
+0.12.3	id=hbs_exp_t121
+0.12.3	id=ilc_di01
+0.12.3	id=ilc_li02
+0.12.3	id=ilc_li02
+0.12.3	id=hbs_exp_t111
+0.14.1	id=sts_inppd_m	filters=list(nace_r2 = cat, geo = c("HR", "EU27_2020"), unit = "I15")	date_filter=c(">2015-01")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,60 @@
+0.21.2	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")	date_filter=seq(starttime, endtime)
+0.20.6	id=hrst_st_ncat	filters=list("THS_PER", "Y25-64", "HRSTE", "HRSTC")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.21.2	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", primaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", "HH", "N00_P00_R00")	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", primaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", "HH", "N00_P00_R00")	date_filter=2019
+0.21.2	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "B1GQ")	date_filter=seq(starttime, endtime)
+0.21.2	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", primaer)	date_filter=seq(starttime, endtime)
+0.21.2	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", sekundaer)	date_filter=seq(starttime, endtime)
+0.21.2	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", tertiaer)	date_filter=seq(starttime, endtime)
+0.21.2	id=nama_10_gdp	filters=c("CH", "CLV15_MEUR", "P31_S14")	date_filter=seq(starttime, endtime)
+0.21.2	id=env_ac_pefasu	filters=c("CH", "USE", primaer, "N00_P00_R00")	date_filter=seq(starttime, endtime)
+0.21.2	id=env_ac_pefasu	filters=c("CH", "USE", sekundaer, "N00_P00_R00")	date_filter=seq(starttime, endtime)
+0.21.2	id=env_ac_pefasu	filters=c("CH", "USE", tertiaer, "N00_P00_R00")	date_filter=seq(starttime, endtime)
+0.21.2	id=env_ac_pefasu	filters=c("CH", "USE", "HH", "N00_P00_R00")	date_filter=seq(starttime, endtime)
+0.21.2	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "B1GQ")	date_filter=2019
+0.21.2	id=nama_10_gdp	filters=c(laender, "CLV15_MEUR", "P31_S14")	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", primaer)	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", sekundaer)	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", tertiaer)	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", primaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", sekundaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", tertiaer, "N00_P00_R00")	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", "HH", "N00_P00_R00")	date_filter=2019
+0.21.2	id=nama_10_A64	filters=c("CH", "B1G", "CLV15_MEUR", industrie)	date_filter=seq(starttime, endtime)
+0.21.2	id=env_ac_pefasu	filters=c("CH", "USE", industrie, "N00_P00_R00")	date_filter=seq(starttime, endtime)
+0.21.2	id=nama_10_A64	filters=c(laender, "B1G", "CLV15_MEUR", industrie)	date_filter=2019
+0.21.2	id=env_ac_pefasu	filters=c(laender, "USE", industrie, "N00_P00_R00")	date_filter=2019
+0.20.6	id=htec_kia_emp2	filters=("PC_EMP")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(citizen = "TOTAL", age = "Y25-64")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_agan	filters=list(citizen = "TOTAL", age = "Y25-64")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_egan	filters=list(citizen = "TOTAL", age = "Y25-64", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "HRSTC", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=lfsa_egan	filters=list(citizen = "TOTAL", age = "Y25-64", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "HRSTC", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=hrst_st_ncat	filters=list(unit = "THS_PER", age = "Y25-64", category = "SE", geo = "EU27_2020")	date_filter=c("2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021")	label=TRUE	keep_flags=FALSE	cflags=TRUE
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE

@@ -1,0 +1,13 @@
+0.13.3	id=edat_lfs_9903	label=TRUE
+0.13.3	id=edat_lfse_04	label=TRUE
+0.13.3	id=STS_INPR_M	filters=c("DE", "ES", "FR", "TR", "IT", "SCA", "C291", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("DE", "ES", "FR", "TR", "IT", "SCA", "C291", "I15")	date_filter=>2018-01-01
+0.13.3	id=STS_INPR_M	filters=c("EA19", "SCA", "C291", "C2931", "C2932", "I15")	date_filter=>2019-01-01
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr	label=TRUE
+0.20.3	id=prc_hicp_mmor
+0.20.3	id=prc_hicp_mmor	label=TRUE
+0.20.3	id=prc_hicp_inw
+0.20.3	id=prc_hicp_inw	label=TRUE
