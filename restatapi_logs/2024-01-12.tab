@@ -1,0 +1,44 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.2	id=fats_activ
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=accident
+0.22.2	id=fats_activ
+0.22.2	id=accommod
+0.22.2	id=accomsize
+0.22.2	id=fats_activ
+0.22.2	id=accommod
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.5	id=prc_hicp_inw
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.22.5	id=prc_hicp_inw

@@ -1,0 +1,166 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=nama_10_a64_e	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=default.stringsAsFactors()	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	verbose=FALSE
+0.22.5	id=nama_10_a64_e	verbose=TRUE
+0.22.5	id=nama_10_a64_e	verbose=TRUE
+0.22.5	id=nama_10_a64_e	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=default.stringsAsFactors()	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	verbose=FALSE
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.6	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.5	id=prc_hicp_manr
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=namq_10_gdp	filters=list(geo = "FR", na_item = c("B1G"), unit = "CLV10_MNAC", s_adj = "SCA")
+0.22.5	id=une_rt_q
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.5	id=prc_hicp_midx	filters=list(geo = "PL", coicop = "CP00", unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(geo = "PL", coicop = "CP00", unit = "I15")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE	cache_dir=cache_path
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=TRUE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=nama_10_a64_e	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=default.stringsAsFactors()	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	verbose=FALSE
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64_e
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=nama_10_a64_e
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=nama_10_a64_e
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64
+0.22.6	id=crim_gen_reg	filters=EL$	label=TRUE	name=TRUE
+0.22.6	id=crim_gen_reg	filters=EL
+0.22.6	id=crim_gen_reg	filters=(substr(geo, 1, 2) == "EL")
+0.22.6	id=demo_r_gind3	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.6	id=demo_r_gind3	stringsAsFactors=FALSE	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.6	id=demo_r_gind3	stringsAsFactors=FALSE	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.6	id=demo_r_gind3	stringsAsFactors=FALSE	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.6	id=demo_r_gind3	stringsAsFactors=FALSE	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.6	id=crim_gen_reg	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.6	id=crim_gen_reg	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }

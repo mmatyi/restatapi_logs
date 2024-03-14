@@ -1,0 +1,208 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=namq_10_gdp
+0.22.5	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=TRUE	name=FALSE
+0.22.5	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1G", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1G", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE
+0.22.5	id=UNE_RT_Q	filters=list(geo = c("ES", "FR"), s_adj = "SA", sex = "T", unit = "PC_ACT", age = "Y15-74")	exact_match=TRUE	date_filter=2011-10:2020	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=une_rt_m	filters=list(geo = c("DE", "FR", "IT", "ES"), s_adj = "SCA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=namq_10_a10
+0.21.2	id=apro_mt_lspig
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_exi
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=une_rt_q
+0.22.5	id=nasq_10_f_bs
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=prc_hicp_midx
+0.22.5	id=sts_copi_q
+0.22.5	id=gov_10q_ggnfa
+0.22.5	id=gov_10q_ggnfa
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=une_rt_m	filters=list(geo = "DE", s_adj = "SCA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "DE", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "DE", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "FR", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "IT", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "ES", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "ES", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "ES", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "ES", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "IT", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "FR", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.5	id=une_rt_m	filters=list(geo = "DE", s_adj = "SA", freq = "M", sex = "T", unit = "PC_ACT")	date_filter=2010<
+0.22.2	id=namq_10_exi
+0.22.2	id=naio_10_cp16
+0.22.2	id=naio_10_cp1610
+0.22.2	id=naio_10_cp1620
+0.22.2	id=naio_10_cp1630
+0.22.2	id=naio_10_cp1700
+0.22.2	id=naio_10_pyp15
+0.22.2	id=naio_10_pyp16
+0.22.2	id=nasq_10_f_bs
+0.22.2	id=nasq_10_f_tr
+0.22.2	id=nasq_10_f_oc
+0.22.2	id=nasq_10_f_cp
+0.22.2	id=naida_10_gdp
+0.22.2	id=naida_10_a10
+0.22.2	id=naida_10_pe
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=naidsq_10_f_bs
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.2	id=naidsq_10_f_tr
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.2	id=ert_eff_ic_q
+0.22.2	id=ert_eff_ic_m
+0.22.5	id=namq_10_a10_e
+0.22.2	id=demo_mexrt
+0.22.2	id=migr_asytpspop
+0.22.5	id=namq_10_a10_e
+0.22.2	id=migr_asytpfpop
+0.22.2	id=trng_aes_121
+0.22.2	id=trng_aes_189
+0.22.5	id=ei_lmlc_q
+0.22.2	id=trng_aes_101
+0.22.2	id=trng_aes_201
+0.22.5	id=ei_bsin_m_r2
+0.22.2	id=trng_aes_183
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.2	id=trng_aes_147
+0.22.2	id=trng_aes_196
+0.22.2	id=trng_aes_177
+0.22.2	id=trng_aes_180
+0.22.2	id=trng_aes_193
+0.22.2	id=edat_aes_l22
+0.22.2	id=edat_aes_l32
+0.22.2	id=edat_aes_l52
+0.22.2	id=ilc_pecs01
+0.22.2	id=sts_intvd_a
+0.22.2	id=sts_intvnd_a
+0.22.2	id=sts_inpi_a
+0.22.2	id=sts_copi_m
+0.22.2	id=sts_cobp_m
+0.22.2	id=road_eqs_mopeds
+0.22.2	id=road_eqs_carmot
+0.22.2	id=road_eqs_carpda
+0.22.2	id=road_eqs_carhab
+0.22.2	id=road_eqs_busveh
+0.22.2	id=road_eqs_busmot
+0.22.2	id=nrg_cb_oil
+0.22.2	id=nrg_stk_oil
+0.22.2	id=nrg_ti_oil
+0.22.2	id=nrg_te_oil
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "DE", s_adj = "SA", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "DE", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "DE", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lci_r2_q	filters=list(geo = "DE", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "DE", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "FR", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "IT", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "ES", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "EA", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "I20")	date_filter=2010<
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=nasa_10_nf_tr
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SCA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ICI-BAL", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-SCI-BAL", geo = c("EA20", "FR", "DE", "IT"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ext_st_27_2020msbec	filters=list(bclas_bec = "TOTAL", indic_et = "TRD_VAL", partner = "WORLD", geo = c("FR", "DE", "IT"), stk_flow = "EXP", freq = "M")	date_filter=2000-01<
+0.22.5	id=ext_st_eabec	filters=list(bclas_bec = "TOTAL", indic_et = "TRD_VAL", partner = "EXT_EA20", geo = "EA20", stk_flow = "EXP", freq = "M")	date_filter=2000-01<
+0.22.5	id=ext_st_27_2020msbec	filters=list(bclas_bec = "TOTAL", indic_et = "TRD_VAL", partner = "WORLD", geo = c("FR", "DE", "IT"), stk_flow = "IMP", freq = "M")	date_filter=2000-01<
+0.22.5	id=ext_st_eabec	filters=list(bclas_bec = "TOTAL", indic_et = "TRD_VAL", partner = "EXT_EA20", geo = "EA20", stk_flow = "IMP", freq = "M")	date_filter=2000-01<
+0.22.5	id=une_rt_m	filters=list(age = "TOTAL", sex = "T", s_adj = "SA", geo = c("EA20", "FR", "DE", "IT"), unit = "PC_ACT", freq = "M")	date_filter=2000-01<
+0.22.5	id=sts_trtu_m	filters=list(indic_bt = "TOVV", nace_r2 = "G47", s_adj = "CA", geo = c("EA20", "FR", "DE", "IT"), unit = "I15", freq = "M")	date_filter=2000-01<
+0.22.5	id=namq_10_gdp	filters=list(na_item = "B1GQ", geo = "EA20", s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2000-01<
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=migr_acq
+0.22.5	id=migr_acq
+0.22.5	id=migr_acq
+0.22.5	id=migr_acq
+0.22.5	id=migr_acq
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "EA", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "PCH_SM")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "ES", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "PCH_SM")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "IT", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "PCH_SM")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "DE", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "PCH_SM")	date_filter=2010<
+0.22.5	id=lc_lci_r2_q	filters=list(geo = "FR", s_adj = "SCA", lcstruct = "D1_D4_MD5", freq = "Q", unit = "PCH_SM")	date_filter=2010<
+0.22.5	id=migr_acq
+0.22.5	id=migr_acq

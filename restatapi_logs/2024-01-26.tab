@@ -1,0 +1,176 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=nama_10_an6	filters=list(geo = "EA", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=nama_10_an6	filters=list(geo = "EA20", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "EA20", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "ES", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "DE", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "FR", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "IT", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_I15")	date_filter=2010<
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=2013:2023	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.2	id=reg_area3
+0.22.2	id=met_deaths
+0.22.2	id=urt_deaths
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_an6
+0.22.2	id=nama_10_co3_p3
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_lp_a21
+0.22.2	id=ert_bil_eur_m
+0.22.2	id=bop_euins6_m
+0.22.2	id=bop_euins6_iip
+0.22.2	id=migr_asytpspop
+0.22.2	id=migr_asytpfpop
+0.22.2	id=migr_asyumtpfm
+0.22.2	id=migr_asyumtpsm
+0.22.2	id=migr_asyumtpwq
+0.22.2	id=migr_asytpfm
+0.22.2	id=migr_asytpsm
+0.22.2	id=migr_asytpwq
+0.22.2	id=migr_asyumacta
+0.22.2	id=migr_asyumwita
+0.22.2	id=migr_asyumwitm
+0.22.2	id=migr_asyumaccm
+0.22.2	id=migr_asyappctza
+0.22.2	id=migr_asywitha
+0.22.2	id=migr_asywithm
+0.22.2	id=demo_r_mweek3
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.6	id=nama_10r_gdp	filters=list(unit = "MIO_PPS_EU27_2020")	date_filter=2000:2022
+0.20.6	id=nama_10r_gdp	filters=list(unit = "MIO_PPS_EU27_2020")	date_filter=2000:2022
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_an6	filters=list(geo = "EA20", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "EA20", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_TOT")	date_filter=2010<
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=namq_10_an6	filters=list(geo = "EA20", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_PCH_SM")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "ES", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "ES", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_TOT")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "ES", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_PCH_SM")	date_filter=2010<
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_an6	filters=list(geo = "DE", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "DE", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_TOT")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "DE", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_PCH_SM")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "FR", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "FR", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_TOT")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "FR", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_PCH_SM")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "IT", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "IT", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "PC_TOT")	date_filter=2010<
+0.22.5	id=namq_10_an6	filters=list(geo = "IT", asset10 = c("N11G", "N11KG", "N111G", "N112G", "N11MG", "N117G"), s_adj = "SCA", freq = "Q", unit = "CLV_PCH_SM")	date_filter=2010<
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.2	id=nama_10_a10
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=2013:2023	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE

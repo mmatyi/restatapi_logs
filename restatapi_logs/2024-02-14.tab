@@ -1,0 +1,55 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.5	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.5	id=nama_10_gdp	filters=c("CP_MEUR", "B1GQ")	date_filter=2022
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2020-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=bop_c6_a	filters=c("IT")	date_filter=c("2021", "2022")	label=TRUE	verbose=TRUE
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2007
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2008
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2009
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2010
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2011
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2012
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2013
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2014
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2015
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2016
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2017
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2018
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2020
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2021
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "SCA", na_item = c("P5G", "B8G", "D41"), unit = "CP_MEUR")	date_filter=2000:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "NSA", na_item = c("P5G", "D41"), unit = "CP_MEUR")	date_filter=2000:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "NSA", na_item = "P5G", unit = "CP_MEUR")	date_filter=2000:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "NSA", na_item = "P5G", unit = "CP_MEUR")	date_filter=1995:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B8G", unit = "CP_MEUR")	date_filter=1995:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B6G", direct = "PAID", unit = "CP_MEUR")	date_filter=1999:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B8G", unit = "CP_MEUR")	date_filter=1995:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "NSA", na_item = "P5G", unit = "CP_MEUR")	date_filter=1995:2019	name=FALSE
+0.22.6	id=nasq_10_nf_tr	filters=list(geo = c("ES"), s_adj = "NSA", na_item = "P5G", unit = "CP_MEUR")	date_filter=1995:2019	name=FALSE

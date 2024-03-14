@@ -1,0 +1,432 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.2	id=fats_activ
+0.22.2	id=aact_ali01
+0.22.2	id=urt_ipr_da
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=hlth_ehis_mh1e	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.2	id=namq_10_gdp
+0.22.2	id=namq_10_fcs
+0.22.2	id=namq_10_exi
+0.22.2	id=namq_10_a10
+0.22.2	id=namq_10_an6
+0.22.2	id=namq_10_a10_e
+0.22.2	id=nama_10_gdp
+0.22.2	id=demo_r_deaths
+0.22.2	id=demo_r_mweek3
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.2	id=demo_r_magec3
+0.22.2	id=demo_r_magec
+0.22.2	id=demo_r_minf
+0.22.2	id=rd_p_persreg
+0.22.2	id=rd_e_gerdreg
+0.22.2	id=htec_emp_reg2
+0.22.2	id=htec_emp_risco2
+0.22.2	id=htec_emp_risced2
+0.22.2	id=hrst_st_rcat
+0.22.2	id=hrst_st_rsex
+0.22.2	id=hrst_st_rage
+0.22.2	id=hrst_st_rsec2
+0.22.2	id=tour_occ_arn2
+0.22.2	id=tour_occ_nin2
+0.22.2	id=tour_cap_nuts2
+0.22.2	id=tour_cap_nuts2dc
+0.22.2	id=lfst_r_lfsd2pwn
+0.22.2	id=lfst_r_lfsd2pwc
+0.22.2	id=lfst_r_lfsd2pop
+0.22.2	id=lfst_r_lfp2act
+0.22.2	id=lfst_r_lfp2actrtn
+0.22.2	id=lfst_r_lfp2actrc
+0.22.2	id=lfst_r_lfp2actrt
+0.22.2	id=lfst_r_lfp2acedu
+0.22.2	id=lfst_r_lfe2emp
+0.22.2	id=lfst_r_lfe2en2
+0.22.2	id=lfst_r_lfe2estat
+0.22.2	id=lfst_r_lfe2eftpt
+0.22.2	id=lfst_r_lfe2eedu
+0.22.2	id=lfst_r_lfe2ecomm
+0.22.2	id=lfst_r_egad
+0.22.2	id=lfst_r_lfe2emprtn
+0.22.2	id=lfst_r_lfe2emprc
+0.22.2	id=lfst_r_lfe2emprt
+0.22.2	id=lfst_r_lfe2ehour
+0.22.2	id=lfst_r_lfu3pers
+0.22.2	id=lfst_r_lfu3rt
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.2	id=lfst_r_lfu2ltu
+0.22.2	id=lfst_r_lfu2gac
+0.22.2	id=lfst_r_lfur2gac
+0.22.2	id=lfst_r_lfu2gan
+0.22.2	id=lfst_r_lfur2gan
+0.22.2	id=lfst_r_sla_ga
+0.22.2	id=isoc_r_iacc_h
+0.22.2	id=isoc_r_broad_h
+0.22.2	id=isoc_r_cux_i
+0.22.2	id=isoc_r_iuse_i
+0.22.2	id=isoc_r_gov_i
+0.22.2	id=isoc_r_blt12_i
+0.22.2	id=isoc_r_iumd_i
+0.22.2	id=ilc_peps11n
+0.22.2	id=ilc_li41
+0.22.2	id=ilc_lvhl21n
+0.22.2	id=ilc_mdsd18
+0.22.2	id=crim_gen_reg
+0.22.2	id=met_deaths
+0.22.2	id=met_crim_gen
+0.22.2	id=urt_deaths
+0.22.2	id=urt_crim_gen
+0.22.2	id=tour_cap_natdc
+0.22.2	id=hlth_silc_18
+0.22.2	id=hlth_silc_19
+0.22.2	id=hlth_silc_20
+0.22.2	id=hlth_silc_21
+0.22.2	id=hlth_silc_22
+0.22.2	id=ilc_pw02
+0.22.2	id=ilc_peps13
+0.22.2	id=ilc_peps13n
+0.22.2	id=ilc_li43
+0.22.2	id=ilc_li48
+0.22.2	id=ilc_di17
+0.22.2	id=ilc_di23
+0.22.2	id=ilc_lvhl01
+0.22.2	id=ilc_lvhl23
+0.22.2	id=ilc_lvho01
+0.22.2	id=ilc_lvho04d
+0.22.2	id=ilc_lvho05d
+0.22.2	id=ilc_lvho50d
+0.22.2	id=ilc_lvho07d
+0.22.2	id=ilc_lvho29
+0.22.2	id=ilc_lvho08b
+0.22.2	id=ilc_mdsd09
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.2	id=ilc_mddd23
+0.22.2	id=lfst_r_erednu
+0.22.2	id=lfst_r_eredcobu
+0.22.2	id=lfst_r_arednu
+0.22.2	id=lfst_r_aredcobu
+0.22.2	id=lfst_r_ergau
+0.22.2	id=lfst_r_egadu
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.2	id=lfst_r_e2pgaedcu
+0.22.2	id=lfst_r_e2pgaednu
+0.22.2	id=lfst_r_e2sgacu
+0.22.2	id=lfst_r_e2sganu
+0.22.2	id=lfst_r_e2tgaedcu
+0.22.2	id=lfst_r_e2tgaednu
+0.22.2	id=lfst_r_urgau
+0.22.2	id=lfst_r_lfu2gacu
+0.22.2	id=lfst_r_lfur2gacu
+0.22.2	id=lfst_r_lfu2ganu
+0.22.2	id=lfst_r_lfur2ganu
+0.22.2	id=lfst_r_pgauwsn
+0.22.2	id=lfst_r_pgauwsc
+0.22.2	id=lfsa_pgauws
+0.22.2	id=lfsq_pgauws
+0.22.2	id=tour_cap_natdc
+0.22.2	id=tour_cap_nuts2dc
+0.22.2	id=isoc_ci_it_h
+0.22.2	id=isoc_ci_dev_i
+0.22.2	id=isoc_ci_im_i
+0.22.2	id=isoc_ci_cm_h
+0.22.2	id=isoc_ci_id_h
+0.22.2	id=isoc_pibi_rni
+0.22.2	id=isoc_ci_cfp_fu
+0.22.2	id=isoc_ci_in_h
+0.22.2	id=isoc_ci_cfp_cu
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.2	id=sdg_06_30
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.2	id=sdg_06_30
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=ei_lmlc_q
+0.22.5	id=namq_10_gdp
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3	label=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3	label=TRUE
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=nama_10_co3_p3	label=TRUE
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_lmlc_q
+0.22.5	id=nama_10_co3_p3	label=TRUE
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3	LABEL=TRUE
+0.22.5	id=nama_10_co3_p3	label=TRUE
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_lmlc_q
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_lmlc_q
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=ert_bil_eur_a	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=ert_bil_eur_a	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr

@@ -1,0 +1,185 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=ei_bsco_m
+0.22.5	id=nama_10_a64_e	filters=NULL	exact_match=TRUE	date_filter=NULL	label=FALSE	select_freq=NULL	cache=TRUE	update_cache=FALSE	cache_dir=NULL	compress_file=TRUE	stringsAsFactors=default.stringsAsFactors()	keep_flags=FALSE	cflags=FALSE	check_toc=FALSE	verbose=FALSE
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.22.5	id=prc_hicp_manr
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=nama_10_a64_e	verbose=TRUE
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10_a64_e	verbose=TRUE
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_manr
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_manr
+0.22.5	id=nama_10_a64_e	verbose=TRUE
+0.22.5	id=nama_10_a64
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.20.6	id=nama_10_lp_a21	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "I15", "EUR", "C", "RLPR_HW", "NULC_HW", "D1_SAL_HW")	date_filter=>2011-01-01	label=TRUE	name=FALSE
+0.20.6	id=namq_10_lp_ulc	filters=c("AT", "DE", "EA20", "IT", "BE", "NL", "I15", "NSA", "RLPR_HW", "NULC_HW")	date_filter=>2010-01-01	label=TRUE	name=FALSE
+0.20.6	id=NAMQ_10_A10_E	filters=c("AT", "DE", "EA20", "IT", "NL", "THS_HW", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "NL", "CLV15_MEUR", "B1G", "NSA", "C")	label=TRUE	name=FALSE
+0.20.6	id=namq_10_a10	filters=c("AT", "DE", "EA20", "IT", "NL", "CP_MEUR", "D1", "NSA", "C")	label=TRUE	name=FALSE
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.1	id=ilc_pw03	keep_flags=TRUE
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_manr	filters=list(coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_manr	filters=list(coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr	filters=list(geo = c("EA", "PL"), coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = c("EA", "PL"), coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = c("EA", "PL"), coicop = "CP00", unit = "RCH_A")

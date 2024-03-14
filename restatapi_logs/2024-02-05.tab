@@ -1,0 +1,102 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=demo_pjan
+0.13.3	id=edat_lfs_9903	label=TRUE
+0.13.3	id=edat_lfse_04	label=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2018
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=index_cpi
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=une_rt_q
+0.22.5	id=nasq_10_f_bs
+0.22.5	id=prc_hicp_midx
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=function (x)  {     UseMethod("year") }
+0.22.5	id=prc_hicp_manr
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=function (x)  {     UseMethod("year") }
+0.22.5	id=sts_copi_q
+0.22.5	id=prc_hicp_inw
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.20.3	id=ei_bsco_m
+0.22.5	id=gov_10q_ggnfa
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2018
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2018
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2018
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=prc_hicp_inw
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2016
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2016
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.6	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "PC")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.6	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.6	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw

@@ -1,0 +1,108 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=demo_pjan
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.6	id=demo_r_pjanind3	filters=PC_FM	exact_match=FALSE	date_filter=2010	label=TRUE	ignore.case=TRUE
+0.22.6	id=demo_r_pjanind3	exact_match=FALSE	date_filter=c(2021:2022)	label=TRUE	ignore.case=TRUE
+0.22.6	id=demo_r_pjanind3	filters=c("PC_FM", "PC")	exact_match=FALSE	date_filter=c(2021:2022)	label=TRUE	ignore.case=TRUE
+0.22.6	id=demo_r_pjanind3	filters=c("PC_FM", "PC")	exact_match=FALSE	date_filter=c(2021:2022)	label=FALSE	ignore.case=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.6	id=demo_r_pjanind3	filters=c("PC_FM", "PC")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE	ignore.case=TRUE
+0.22.6	id=demo_r_pjanind3	filters=c("PC_FM", "PC")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE	ignore.case=TRUE
+0.22.5	id=prc_hicp_midx
+0.22.6	id=demo_r_pjanind3	filters=c("PC_FM", "PC")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE	ignore.case=TRUE
+0.20.6	id=nama_10_gdp
+0.22.5	id=lfsi_neet_a
+0.22.5	id=lfsi_neet_a
+0.22.5	id=lfsi_neet_a
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=lfsi_neet_a
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=lfsi_neet_a
+0.22.5	id=lfsi_neet_a
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.6	id=NAMA_10_A64_E	filters=c("THS_HW", "SAL_DC", "EMP_DC")	label=TRUE
+0.20.6	id=NAMA_10_A64	filters=c("CP_MEUR", "D1", "B1G")	label=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=lfsi_neet_a
+0.22.6	id=demo_r_pjanind3	filters=c("PC_FM", "PC")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.20.6	id=NAMQ_10_GDP
+0.20.6	id=NAMA_10_GDP
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=sts_inpr_m
+0.20.6	id=NAMQ_10_GDP
+0.20.6	id=nama_10_gdp
+0.20.6	id=toc_text$code[60]
+0.20.6	id=toc_txt$code[60]
+0.20.6	id=toc_text$code[42]
+0.20.6	id=toc_txt$code[42]
+0.20.6	id=toc_txt$code[45]
+0.22.5	id=sts_inpr_m
+0.22.6	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2019	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp
+0.22.6	id=namq_10_gdp	verbose=TRUE
+0.22.6	id=namq_10_gdp	select_freq=Q
+0.22.6	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2023	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(s_adj = "SCA", na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2023	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	exact_match=FALSE	date_filter=1995:2023	label=FALSE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(na_item = "B1GQ", unit = "CLV10_MEUR")	exact_match=FALSE	date_filter=1995:2023	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(na_item = c("D1", "B2A3G"), unit = "CLV10_MEUR", s_adj = "NSA")	exact_match=FALSE	date_filter=1995:2023	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=c("D1", "B2A3G", "NSA")
+0.22.5	id=apri_pi15_outq
+0.22.6	id=namq_10_gdp	filters=c("D1", "B2A3G", "NSA", "ES")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT")	date_filter=c("2015<")
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	exact_match=FALSE	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT")	date_filter=c("2020<")
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	exact_match=FALSE	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	exact_match=FALSE	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(geo = "EA", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(geo = "DE", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.6	id=namq_10_gdp	filters=list(geo = "DE", na_item = c("D1", "B2A3G", "D2X3", "B1GQ"), unit = c("CP_MEUR", "CLV_I15"), s_adj = "NSA")	label=TRUE	select_freq=Q	verbose=FALSE	name=FALSE
+0.22.5	id=sts_inlb_q
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=sts_inlb_q
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=prc_hicp_midx

@@ -1,0 +1,43 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=nama_10r_2gdp	label=TRUE
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=nama_10r_2gdp	label=TRUE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_3gva
+0.22.5	id=nama_10r_3gva
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching

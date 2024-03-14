@@ -1,0 +1,1668 @@
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_mdsd18	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC")	date_filter=2015:2023
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_mdsd11	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_mdsd18	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_mdsd11	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_mdsd18	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_mdsd11	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_mdsd18	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_mdsd11	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_lvhl21n	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_lvhl11n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_lvhl21n	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_lvhl11n	filters=list(freq = "A", unit = "PC", age = "Y_LT65", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=prc_hicp_midx
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.7	id=avia_par_me	filters=HU	date_filter=2017-03	label=TRUE	select_freq=Q
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.22.7	id=NAMA_10_GDP
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=nama_10_a64
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.6	id=NAMA_10_GDP
+0.22.6	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.6	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.6	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.6	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.6	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.6	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.6	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.6	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.6	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.6	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.6	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	verbose=TRUE	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.22.5	id=migr_acq
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=sbs_r_nuts06_r2	label=FALSE	cache=TRUE	verbose=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2010:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2015:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), time = "2015:2017", stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	verbose=TRUE	name=FALSE
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=demo_pjan
+0.22.5	id=nama_10_a64_e
+0.22.5	id=nama_10_a64
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_mmor
+0.20.6	id=namq_10_a10
+0.22.5	id=prc_hicp_inw
+0.20.6	id=namq_10_a10
+0.22.5	id=prc_hicp_manr
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=migr_acq
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=sbs_r_nuts06_r2	label=FALSE	cache=TRUE	verbose=TRUE
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=une_rt_q
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=nasq_10_f_bs
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=sts_copi_q
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=gov_10q_ggnfa
+0.22.5	id=gov_10q_ggnfa
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.2	id=aact_eaa01 	filters=list(geo = "CH")
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.2	id=aact_eaa01	filters=list(geo = "CH")
+0.22.2	id=aact_eaa01	filters=list(geo = "CH")
+0.22.2	id=aact_eaa01	filters=list(geo = "CH")
+0.22.2	id=aact_eaa01
+0.22.2	id=aact_eaa01
+0.22.2	id=aact_eaa01
+0.22.2	id=aact_eaa01
+0.22.2	id=aact_eaa01
+0.22.5	id=prc_hicp_midx	cflags=TRUE
+0.22.5	id=prc_hicp_inw	cflags=TRUE
+0.22.5	id=prc_hicp_manr	cflags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=prc_hicp_manr
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=prc_hicp_cow
+0.22.5	id=nama_10_gdp
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=prc_hicp_inw
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=ei_bsco_m
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=demo_r_pjanind2	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.7	id=hlth_cd_ysdr2	filters=c("Y_LT65", "RT")	exact_match=TRUE	date_filter=c(2020:2021)	label=FALSE
+0.22.7	id=hlth_cd_ysdr2	filters=c("Y_LT65", "RT")	exact_match=TRUE	date_filter=c(2019:2020)	label=FALSE
+0.22.7	id=demo_r_mlife	filters=c("DEATHRATE", "A")	exact_match=TRUE	date_filter=c(2020:2021)	label=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=demo_r_mlife	filters=c("DEATHRATE", "Y3", "A")	exact_match=TRUE	date_filter=c(2020:2021)	label=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=demo_r_mlife	filters=c("DEATHRATE", "Y3", "A")	exact_match=TRUE	date_filter=c(2019:2020)	label=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=demo_r_pjanind2	filters=c("FMEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2022:2023)	label=FALSE
+0.22.7	id=demo_r_pjanind2	filters=c("PC_FM", "YR")	exact_match=TRUE	date_filter=c(2022:2023)	label=FALSE
+0.22.7	id=demo_r_pjanind2	filters=c("FMEDAGEPOP", "PC")	exact_match=TRUE	date_filter=c(2022:2023)	label=FALSE
+0.22.7	id=demo_r_pjanind2	filters=c("FMEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2022:2023)	label=FALSE
+0.22.7	id=demo_r_gind3	filters=c("JAN", "YR")	exact_match=TRUE	date_filter=c(2022:2023)	label=FALSE
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.7	id=demo_r_gind3	filters=c("JAN")	exact_match=TRUE	date_filter=c(2020:2022)	label=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=prc_hicp_midx	keepFlags=FALSE
+0.22.5	id=prc_hicp_inw	keepFlags=FALSE
+0.22.5	id=prc_hicp_manr	keepFlags=FALSE
+0.22.5	id=prc_hicp_cow	keepFlags=FALSE
+0.22.5	id=naio_10_cp1700
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_manr
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=prc_hicp_midx
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11	filters=list(unit = "PC")
+0.20.6	id=ilc_li02	filters=list(unit = "PC", sex = "T", indic_il = "LI_R_MD60", age = "TOTAL", geo = "EU27_2020")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_peps11N	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_peps01n	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.20.6	id=ilc_mdsd18	filters=list(unit = "PC", freq = "A")	date_filter=2015:2025
+0.20.6	id=ilc_mdsd11	filters=list(freq = "A", unit = "PC", age = "TOTAL", sex = "T", geo = "EU27_2020")
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=NAMA_10_GDP
+0.22.7	id=htec_cis3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.7	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.7	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.7	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.7	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.7	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.7	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.7	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.7	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.7	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.7	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL", time = "2015:2020")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=une_rt_q
+0.22.5	id=nasq_10_f_bs
+0.22.5	id=prc_hicp_midx
+0.22.5	id=sts_copi_q
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=gov_10q_ggnfa
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.5	id=index_cpi
+0.22.5	id=prc_hicp_manr

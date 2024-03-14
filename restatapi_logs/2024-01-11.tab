@@ -1,0 +1,32 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=avia_par_me	filters=c("HU", "Quarterly", "Monthly")	date_filter=c("2016-08", "2014-03-01")	label=TRUE
+0.22.5	id=bop_c6_q	filters=c("IT")	date_filter=c("2021", "2022")	label=TRUE
+0.22.5	id=bop_c6_q	filters=c("IT")	date_filter=c("2021", "2022")	label=TRUE	verbose=TRUE
+0.20.6	id=prc_hicp_aind
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.20.6	id=prc_hicp_aind
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=teiet110
+0.22.5	id=ds-045409
+0.22.5	id=ds-045409	verbose=TRUE
+0.22.5	id=ds-045409$defaultview	verbose=TRUE
+0.22.5	id=ext_go_detail	verbose=TRUE
+0.22.5	id=DS-018995	verbose=TRUE
+0.22.5	id=ext_go_agg	verbose=TRUE
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTO"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTO"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"), unit = c("PC_ACT"), sex = c("T"), s_adj = c("SA"), age = c("TOTAL"))	date_filter=2006-07<	label=TRUE	name=FALSE

@@ -1,0 +1,481 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=PRC_HICP_MANR
+0.22.5	id=prc_hicp_manr
+0.22.5	id=PRC_HICP_MANR
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.5	id=namq_10_gdp
+0.22.2	id=sdg_06_30
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", partner = "EXT_EU27_2020", geo = c("EU27_2020", "HU"), stk_flow = "BAL")	date_filter=2020	label=TRUE	name=FALSE
+0.22.5	id=namq_10_a10_e
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=teiis080	filters=c("DE")	date_filter=c(2010:2030)
+0.22.5	id=teiis080	filters=c("DE")	date_filter=c(2010:2030)
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")	date_filter=c(2010:2030)
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")	date_filter=>2010-10
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")	date_filter=2010-01:2023:12
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")	date_filter=2010-01:2023:12	cache=FALSE
+0.22.5	id=teiis080	filters=c("DE", "I2015_SCA")	date_filter=2010-01:2023:12	cache=FALSE
+0.22.5	id=teicp000	filters=c("DE", "I2015_SCA")	date_filter=2010-01:2023:12	cache=FALSE
+0.22.5	id=teicp000	filters=c("DE", "I15")	date_filter=2010-01:2023:12	cache=FALSE
+0.22.5	id=teicp000	filters=c("DE", "I15")	date_filter=2010	cache=FALSE
+0.22.5	id=teicp000	filters=c("DE", "I15")	date_filter=>2010-01	cache=FALSE
+0.22.5	id=teicp000	filters=c("DE", "I15")	date_filter=<2010-01	cache=FALSE
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=agr_r_milkpr	filters=BE	exact_match=FALSE	date_filter=<2009-07	label=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SA", unit = "CLV_I10")	date_filter=>2000-Q1
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SA", unit = "CLV_I10")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SA", freq = "Q", unit = "CLV_I10", time = ">=2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SA", freq = "Q", time = ">=2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", time = ">=2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CLV_I10", time = ">=2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CLV_MEUR", time = ">=2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR", time = ">=2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR", time = ">= 2010-Q1")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR", time = "2010..")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR", time = "2010")
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR")	date_filter=>=2010
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR")	date_filter=2010>
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SA", freq = "Q", unit = "CP_MEUR")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SA", freq = "Q", unit = "CP_MEUR")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "P3", s_adj = "SA", freq = "Q", unit = "CP_MEUR")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "P3", s_adj = "SA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "P3", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.2	id=sdg_06_30
+0.22.5	id=ds-045409
+0.22.5	id=ds-045409	verbose=TRUE
+0.22.5	id=ds-059268	verbose=TRUE
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ds-059268	verbose=TRUE
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.2	id=sdg_06_30
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=demo_r_pjangrp3	time=c(2008:2019)	unit=NR	sex=TRUE
+0.22.5	id=demo_r_pjangrp3	time=c(2008:2019)	unit=NR	sex=TRUE
+0.22.5	id=demo_r_pjangrp3
+0.22.5	id=demo_r_pjangrp3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=demo_r_pjangrp3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=demo_r_pjangrp3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=demo_r_pjangrp3	update_cache=TRUE	check_toc=TRUE	verbose=TRUE
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.2	id=sdg_06_30
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=nama_10_gdp
+0.22.2	id=nama_10_pc
+0.22.2	id=nama_10_a10
+0.22.2	id=nama_10_nfa_fl
+0.22.2	id=nama_10_nfa_bs
+0.22.2	id=nama_10_lp_ulc
+0.22.2	id=nama_10_cp_a21
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=ert_bil_eur_d
+0.22.2	id=irt_euryld_d
+0.22.2	id=irt_lt_mcby_d
+0.22.2	id=prc_hicp_cind
+0.22.2	id=prc_hicp_cann
+0.22.2	id=prc_hicp_cmon
+0.22.2	id=prc_hicp_apc
+0.22.2	id=prc_hicp_midx
+0.22.2	id=prc_hicp_manr
+0.22.2	id=prc_hicp_mmor
+0.22.2	id=prc_hicp_mv12r
+0.22.2	id=prc_hicp_aind
+0.22.2	id=prc_hicp_ctrb
+0.22.2	id=prc_hicp_fp
+0.22.2	id=prc_ipc_g20
+0.22.2	id=hlth_cd_iap
+0.22.2	id=sts_intv_m
+0.22.2	id=sts_intv_q
+0.22.2	id=sts_intvd_m
+0.22.2	id=sts_intvd_q
+0.22.2	id=sts_intvnd_m
+0.22.2	id=sts_intvnd_q
+0.22.2	id=sts_inpp_m
+0.22.2	id=sts_inppd_m
+0.22.2	id=sts_inppnd_m
+0.22.2	id=sts_inlb_q
+0.22.2	id=sts_inlb_a
+0.22.2	id=sts_colb_q
+0.22.2	id=sts_colb_a
+0.22.2	id=sts_cobp_q
+0.22.2	id=sts_cobp_a
+0.22.2	id=sts_trlb_q
+0.22.2	id=sts_trlb_a
+0.22.2	id=sts_setu_m
+0.22.2	id=sts_setu_q
+0.22.2	id=sts_setu_a
+0.22.2	id=sts_selb_m
+0.22.2	id=sts_selb_q
+0.22.2	id=sts_selb_a
+0.22.2	id=sts_rb_m
+0.22.2	id=nrg_bal_s
+0.22.2	id=nrg_bal_peh
+0.22.2	id=nrg_cb_cosm
+0.22.2	id=nrg_ti_coifpm
+0.22.2	id=sdg_06_30
+0.22.2	id=sts_intv_a
+0.22.2	id=sts_intvd_a
+0.22.2	id=sts_intvnd_a
+0.22.2	id=sts_inpi_m
+0.22.2	id=sts_inlb_m
+0.22.2	id=sts_copr_m
+0.22.2	id=sts_copr_q
+0.22.2	id=sts_copr_a
+0.22.2	id=sts_copi_m
+0.22.2	id=sts_copi_q
+0.22.2	id=sts_cobp_m
+0.22.2	id=sts_trtu_m
+0.22.2	id=sts_trtu_q
+0.22.2	id=sts_trtu_a
+0.22.2	id=sts_sepp_q
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = c("EA", "ES", "DE", "FR", "IT"), na_item = "B1GQ", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_manr
+0.22.2	id=demo_r_mweek3
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=nasq_10_f_bs
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=nasq_10_f_tr
+0.22.2	id=nasq_10_f_oc
+0.22.2	id=nasq_10_f_cp
+0.22.2	id=naidq_10_gdp
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=naidsq_10_f_bs
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=ert_bil_conv_a
+0.22.2	id=ert_bil_conv_q
+0.22.2	id=ert_bil_conv_m
+0.22.2	id=educ_uoe_enra01
+0.22.2	id=avia_eq_arc_typ
+0.22.2	id=avia_eq_arc_age
+0.22.2	id=avia_eq_arc_typreg
+0.22.2	id=avia_eq_arc_agereg
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp	filters=list(geo = "ES", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp	filters=list(geo = "FR", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=ert_bil_conv_a
+0.22.5	id=namq_10_gdp	filters=list(geo = "IT", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.2	id=ert_bil_conv_a
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_mmor

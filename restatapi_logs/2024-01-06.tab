@@ -1,0 +1,16 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.1	id=nama_10_pe__custom_9222554
+0.22.1	id=nama_10_ma
+0.22.1	id=lfst_r_lfur2gac
+0.22.1	id=lfst_r_lfur2gan
+0.22.1	id=lfst_r_lfu3rt
+0.22.1	id=lfst_r_lfu3pers
+0.22.1	id=med_ps12
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)

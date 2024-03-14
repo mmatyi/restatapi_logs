@@ -1,0 +1,228 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.14.1	id=namq_10_gdp
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_midx	cflags=TRUE
+0.22.5	id=prc_hicp_inw	cflags=TRUE
+0.22.5	id=prc_hicp_manr	cflags=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_cow
+0.22.5	id=nama_10_gdp
+0.22.5	id=prc_hicp_inw
+0.22.5	id=ei_bsco_m
+0.14.1	id=NAMA_10_GDP
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "FR", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "FR", s_adj = "SCA", freq = "A", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "FR", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "FR", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "IT", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "IT", s_adj = "SCA", freq = "A", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "IT", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "IT", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "ES", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "ES", s_adj = "SCA", freq = "A", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "ES", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "ES", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA", s_adj = "SCA", freq = "Q", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "EA", s_adj = "SCA", freq = "A", unit = "CON_PPCH_PRE")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA", s_adj = "SCA", freq = "Q", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "EA", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=prc_hicp_manr
+0.22.2	id=namq_10_exi
+0.22.2	id=naio_10_cp16
+0.22.2	id=naio_10_cp1610
+0.22.2	id=migr_asyumtpfm
+0.22.2	id=migr_asyumtpfm
+0.22.2	id=migr_asytpfm
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.2	id=ext_tec10
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2007
+0.22.2	id=migr_asyumtpfm
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp
+0.22.2	id=namq_10_exi
+0.22.2	id=naio_10_cp16
+0.22.2	id=namq_10_exi
+0.22.2	id=naio_10_cp16
+0.22.2	id=naio_10_cp1610
+0.22.2	id=naio_10_cp1620
+0.22.2	id=naio_10_cp1630
+0.22.2	id=naio_10_cp1700
+0.22.2	id=naio_10_pyp15
+0.22.2	id=naio_10_pyp16
+0.22.2	id=nasq_10_f_bs
+0.22.2	id=nasq_10_f_tr
+0.22.2	id=nasq_10_f_oc
+0.22.2	id=nasq_10_f_cp
+0.22.2	id=naida_10_gdp
+0.22.2	id=naida_10_a10
+0.22.2	id=naida_10_pe
+0.22.2	id=naidq_10_a10
+0.22.2	id=naidq_10_pe
+0.22.2	id=naidsq_10_f_bs
+0.22.2	id=naidsq_10_f_tr
+0.22.2	id=ert_eff_ic_q
+0.22.2	id=ert_eff_ic_m
+0.22.2	id=demo_mexrt
+0.22.2	id=migr_asytpspop
+0.22.2	id=migr_asytpfpop
+0.22.2	id=migr_asyumtpfm
+0.22.2	id=migr_asytpfm
+0.22.2	id=migr_asytpsm
+0.22.2	id=trng_aes_121
+0.22.2	id=trng_aes_189
+0.22.2	id=trng_aes_101
+0.22.2	id=trng_aes_201
+0.22.2	id=trng_aes_183
+0.22.2	id=trng_aes_147
+0.22.2	id=trng_aes_196
+0.22.2	id=trng_aes_177
+0.22.2	id=trng_aes_180
+0.22.2	id=trng_aes_193
+0.22.2	id=edat_aes_l22
+0.22.2	id=edat_aes_l32
+0.22.2	id=edat_aes_l52
+0.22.2	id=ilc_pecs01
+0.22.2	id=sts_intv_a
+0.22.2	id=sts_intvd_a
+0.22.2	id=sts_intvnd_a
+0.22.2	id=sts_inpi_a
+0.22.2	id=sts_copi_m
+0.22.2	id=sts_cobp_m
+0.22.2	id=sts_trtu_a
+0.22.2	id=sts_trlb_m
+0.22.2	id=ext_tec01
+0.22.2	id=ext_tec02
+0.22.2	id=ext_tec03
+0.22.2	id=ext_tec04
+0.22.2	id=ext_tec05
+0.22.2	id=ext_tec06
+0.22.2	id=ext_tec07
+0.22.2	id=ext_tec08
+0.22.2	id=ext_tec09
+0.22.2	id=ext_tec10
+0.22.2	id=road_eqs_mopeds
+0.22.2	id=road_eqs_carmot
+0.22.2	id=road_eqs_carpda
+0.22.2	id=road_eqs_carhab
+0.22.2	id=road_eqs_busveh
+0.22.2	id=road_eqs_busmot
+0.22.2	id=nrg_cb_oil
+0.22.2	id=nrg_stk_oil
+0.22.2	id=nrg_ti_oil
+0.22.2	id=nrg_te_oil
+0.20.3	id=NAMQ_10_GDP	filters=c("PL", "CP_MNAC", "B1GQ", "D11", "NSA")	date_filter=c(2017:2022)
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=prc_hicp_mmor
+0.13.3	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.13.3	id=namq_10_gdp
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=prc_hicp_mmor
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp
+0.13.3	id=namq_10_gdp
+0.22.1	id=nama_10r_3gdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), nuts_level = "3", unit = "MIO_PPS_EU27_2020")	exact_match=FALSE	date_filter=2000:2020	stringsAsFactors=FALSE
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), time = 2000:2020, sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.1	id=nama_10r_3popgdp	filters=list(geo = c("AT", "DE", "DK", "FR", "EL", "ES", "IT", "NL", "BE", "IE", "PL", "PT", "NO", "SE", "FI", "CH"), time = 2000:2020, sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE
+0.22.1	id=kode_for_average_annual_population	filters=list(...)
+0.22.1	id=kode_for_average_annual_population	filters=list(...)
+0.22.1	id=sam	filters=list(sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE
+0.22.1	id=sam	filters=list(sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE	verbose=TRUE
+0.22.1	id=nama_10r_3popgdp	filters=list(sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE
+0.22.1	id=c("demo_r_pjanaggr3", "demo_r_pjanaggr3")	filters=list(sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE
+0.22.1	id=c("demo_r_pjanaggr3", "demo_r_pjanaggr3")	filters=list(sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE	verbose=TRUE
+0.22.1	id=demo_r_pjanaggr3	filters=list(sex = "T", age = "TOTAL")	exact_match=FALSE	stringsAsFactors=FALSE
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_a10_e
+0.22.5	id=namq_10_a10_e
+0.22.5	id=ei_lmlc_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=TRUE	name=FALSE
+0.22.5	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=TRUE	name=FALSE
+0.22.5	id=NAMA_10_FCS	filters=list(geo = c("ES"), time = "1995:2021", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CP_MEUR")	exact_match=FALSE	date_filter=1995:2021	label=FALSE	select_freq=A	compress_file=FALSE	verbose=TRUE	name=FALSE
+0.22.5	id=namq_10_gdp	filters=list(geo = c("ES", "FR"), s_adj = "SCA", na_item = "B1G", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE

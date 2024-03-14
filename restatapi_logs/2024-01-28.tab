@@ -1,0 +1,93 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tps00001
+0.22.5	id=tps00001
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=tec00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tec00001
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=prc_hicp_midx	label=TRUE
+0.22.5	id=prc_hicp_cann	label=TRUE
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001

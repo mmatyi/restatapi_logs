@@ -1,0 +1,71 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.20.6	id=namq_10_gdp	filters=list(geo = "PL", na_item = NAitems, s_adj = "SCA", unit = c("CP_MNAC", "CLV15_MNAC"))
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "P51G", sector = "S13", s_adj = "SCA", direct = "PAID", unit = c("CP_MNAC"))
+0.20.6	id=namq_10_pe	filters=list(geo = "PL", na_item = "EMP_DC", s_adj = "SA", unit = "THS_PER")
+0.20.6	id=lfsq_pgacws	filters=list(wstatus = LFSitems, c_birth = "TOTAL", geo = "PL", unit = "THS", sex = "T", age = "Y15-74")
+0.20.6	id=lfsq_egaps	filters=list(wstatus = "SAL", geo = "PL", sex = "T", age = "Y15-74")
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "B3G", s_adj = "NSA", sector = "S1", direct = "PAID", unit = "CP_MNAC")
+0.20.6	id=namq_10_gdp	filters=list(geo = "PL", na_item = VAitems, s_adj = "SCA", unit = "CP_MNAC")
+0.20.6	id=namq_10_gdp	filters=list(geo = "EA19", na_item = "B1GQ", s_adj = "SCA", unit = c("CP_MEUR", "CLV15_MEUR"))
+0.20.6	id=bop_c6_q	filters=list(geo = "PL", bop_item = CAitems, currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", stk_flow = "BAL")
+0.20.6	id=bop_iip6_q	filters=list(geo = "PL", bop_item = "FA", currency = "MIO_NAC", partner = "WRL_REST", geo = "PL", sector10 = "S1", sectpart = "S1", stk_flow = "N_LE")
+0.20.6	id=prc_hicp_midx	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=prc_hicp_inw	filters=list(geo = "PL", coicop = HICPitems, unit = "I15")
+0.20.6	id=irt_st_m	filters=list(geo = "PL", int_rt = "IRT_M3")
+0.20.6	id=irt_st_m	filters=list(geo = "EA", int_rt = "IRT_M3")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "PL")
+0.20.6	id=irt_lt_mcby_q	filters=list(geo = "EA")
+0.20.6	id=ert_bil_eur_q	filters=list(currency = "PLN", statinfo = "AVG")
+0.20.6	id=ert_bil_eur_q	filters=list(currency = "USD", statinfo = "AVG")
+0.20.6	id=ert_eff_ic_q	filters=list(geo = "PL", exch_rt = "NEER_EA19")
+0.20.6	id=gov_10q_ggdebt	filters=list(geo = "PL", na_item = "GD", sector = "S13", unit = "MIO_NAC")
+0.20.6	id=gov_10q_ggnfa	filters=list(geo = "PL", na_item = FISitems, sector = "S13", unit = "MIO_NAC", s_adj = "SCA")
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = PYNitems, s_adj = "SCA", unit = "CP_MNAC", sector = "S14_S15", direct = c("PAID", "RECV"))
+0.20.6	id=nasq_10_nf_tr	filters=list(geo = "PL", na_item = "D1", sector = "S13", s_adj = "NSA", direct = "PAID", unit = c("CP_MNAC"))
+0.22.1	id=apro_cpsh1
+0.22.2	id=NAMA_10_GDP
+0.20.6	id=demo_r_d3dens	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.20.6	id=demo_r_pjanind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.20.6	id=demo_r_gind3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.20.6	id=demo_r_pjanaggr3	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.20.6	id=nama_10r_3gdp	filters=list(geo = c("IT"))	exact_match=FALSE	label=TRUE	cache=FALSE	keep_flags=FALSE	name=TRUE
+0.22.2	id=nama_10_gdp
+0.22.5	id=NAMA_10_GDP
+0.22.5	id=htec_cis3	update_cache=TRUE	check_toc=TRUE
+0.22.5	id=agr_r_milkpr	cache_dir=/tmp	cflags=TRUE
+0.22.5	id=avia_gonc	select_freq=A	cache=FALSE
+0.22.5	id=agr_r_milkpr	date_filter=2008	keep_flags=TRUE
+0.22.5	id=avia_par_me	filters=BE$	exact_match=FALSE	date_filter=c(2016, "2017-03", "2017-07-01")	label=TRUE	select_freq=Q	name=FALSE
+0.22.5	id=agr_r_milkpr	filters=c("BE$", "Hungary")	date_filter=2007-06<	keep_flags=TRUE
+0.22.5	id=nama_10_a10_e	filters=c("Annual", "EU28", "Belgium", "AT", "Total", "EMP_DC", "person")	date_filter=c("2008", 2002, 2013:2018)
+0.22.5	id=vit_t3	filters=c("EU28", eu$EA15, "HU$")	date_filter=c("2015", 2007)
+0.22.5	id=avia_par_me	filters=Q...ME_LYPG_HU_LHBP ME_LYTV_UA_UKKK	date_filter=c("2016-08", "2017-07-01")	select_freq=M
+0.22.5	id=htec_cis3	filters=lu	ignore.case=TRUE
+0.22.5	id=bop_its6_det	filters=list(bop_item = "SC", currency = "MIO_EUR", partner = "EXT_EU28", geo = c("EU28", "HU"), stk_flow = "BAL")	date_filter=2010:2012	label=TRUE	select_freq=A	name=FALSE
+0.22.2	id=road_go_cta7gtt
+0.22.2	id=road_go_cta7gtt
+0.22.2	id=mar_go_am_be
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.1	id=prc_hpi_a
+0.22.1	id=prc_hpi_a
+0.22.1	id=prc_hpi_a
+0.22.1	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=apro_cpsh1
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a
+0.22.5	id=prc_hpi_a

@@ -1,0 +1,195 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=demo_pjan
+0.22.7	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "PD15_EUR")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "PD15_EUR")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "CP_MEUR")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CP_MEUR")	date_filter=2010<
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=namq_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "Q", unit = "PYP_MEUR")	date_filter=2010<
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.22.5	id=toc_m_codes[i]
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=toc_m_codes[i]	check_toc=TRUE
+0.22.5	id=toc_m_codes[i]	check_toc=TRUE
+0.22.5	id=toc_m_codes[i]	check_toc=TRUE
+0.22.5	id=toc_m_codes[i]	check_toc=TRUE
+0.22.5	id=toc_m_codes[i]	check_toc=TRUE
+0.22.5	id=toc_m_codes[5]	check_toc=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=sbs_r_nuts06_r2	label=FALSE	cache=TRUE	verbose=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=demo_r_pjangrp3	label=FALSE	cache=TRUE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CLV15")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CLV15_MEUR")	date_filter=2010<
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", s_adj = "SCA", freq = "A", unit = "CLV_PCH_PRE")	date_filter=2010<
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.7	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.1	id=ilc_pw01	keep_flags=TRUE
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", )
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL")
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_cow
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nama_10_gdp
+0.22.5	id=prc_hicp_inw
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.7	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2022:2023)	label=FALSE
+0.22.7	id=t_na10	filters=list(geo = c("IT"), s_adj = "SCA", na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2023	name=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.7	id=t_nama_10_aux	filters=list(geo = c("IT"), s_adj = "SCA", na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2023	name=FALSE
+0.22.7	id=t_nama_10_aux	filters=list(geo = c("IT"), na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2023	name=FALSE
+0.22.7	id=t_nama_10_aux	filters=list(geo = c("IT"), na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2023	name=TRUE
+0.22.7	id=t_nama_10_aux	filters=list(geo = c("IT"), na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2022	name=FALSE
+0.22.7	id=nama_10_pc	filters=list(geo = c("IT"), na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2022	name=FALSE
+0.22.7	id=nama_10_pc	filters=list(geo = c("IT"), na_item = "sdg_08_10", unit = "CLV10_EUR_HAB")	date_filter=2000:2022	name=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=nasa_10_f_bs	filters=list(geo = country, co_nco = "CO", unit = unit2, finpos = "LIAB", na_item = na_item2, sector = sector2)	label=FALSE	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp	filters=list(s_adj)
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", s_adj = "NSA", unit = "CP_MNAC", na_iteam = "B1GQ")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", s_adj = "NSA", na_item = "BGQQ", unit = "CP_MNAC")
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", s_adj == "NSA", na_item == "B1GQ", unit == "CP_MNAC")
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", s_adj = "NSA", na_item = "B1GQ", unit = "CP_MNAC")
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", s_adj = "NSA", na_item = "B1GQ", unit = "CP_MNAC")
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", s_adj = "NSA", na_item = "B1GQ", unit = "CP_MNAC")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=namq_10_gdp	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_manr	filters=list(geo = "PL", coicop = "CP00", unit = "RCH_A")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = cnt, unit = "I15")
+0.22.5	id=namq_10_gdp	filters=list(geo = c("PT"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_mv12r
+0.22.5	id=prc_hicp_aind
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_aind
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_aind
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_aind
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_aind
+0.22.5	id=sbs_r_nuts06_r2	label=FALSE	cache=TRUE	verbose=TRUE
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE

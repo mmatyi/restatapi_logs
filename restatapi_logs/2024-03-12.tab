@@ -1,0 +1,319 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=demo_pjan
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.8	id=NAMA_10_FCS	filters=list(geo = c("SK"), time = "1995:2022", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CLV15_MEUR")	exact_match=FALSE	date_filter=1995:2022	label=FALSE	select_freq=A	compress_file=FALSE	verbose=TRUE	name=FALSE
+0.22.8	id=NAMA_10_FCS	filters=list(geo = c("SK"), time = "1995:2022", times_adj = "SCA", na_item = c("P311_S14", "P312_S14", "P313_S14"), unit = "CLV15_MEUR")	exact_match=FALSE	date_filter=1995:2022	label=FALSE	select_freq=A	compress_file=FALSE	verbose=TRUE	name=FALSE
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=nasq_10_ki	filters=list(geo = c("EA20", "DE", "FR", "IT", "ES"), s_adj = "SCA", na_item = "SRG_S14_S15", sector = "S14_S15", freq = "Q", unit = "PC")	date_filter=2010<
+0.22.5	id=prc_hicp_manr
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_aind
+0.20.3	id=prc_hicp_cow
+0.20.3	id=prc_hicp_midx
+0.20.3	id=prc_hicp_aind
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=namq_10_gdp	filters=list(geo = c("ES"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE
+0.22.5	id=namq_10_gdp	filters=list(geo = c("BE"), s_adj = "SCA", na_item = "B1GQ", unit = "CLV_PCH_PRE")	date_filter=2012:2020	name=FALSE
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.20.6	id=fn	filters=NULL	date_filter=NULL	keep_flags=TRUE
+0.20.6	id=proj_19rp3	filters=NULL	date_filter=NULL	keep_flags=TRUE
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.8	id=namq_10_gdp	filters=list(geo = c("SK"), s_adj = "SCA", na_item = "P31_S14", unit = "CP_MEUR")	date_filter=1999:2023	name=FALSE
+0.22.8	id=nasq_10_nf_tr	filters=list(geo = c("SK"), s_adj = "SCA", na_item = "B6G", sector = "S1", direct = "PAID", unit = "CP_MEUR")	date_filter=1999:2023	name=FALSE
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.5	id=paste0("apri_pi", year, "_outq")
+0.22.8	id=namq_10_gdp	filters=list(geo = c("SK"), s_adj = "SCA", na_item = "P31_S14", unit = "CP_MEUR")	date_filter=1999:2023	name=FALSE
+0.22.8	id=nasq_10_nf_tr	filters=list(geo = c("SK"), s_adj = "SCA", na_item = "B6G", sector = "S1", direct = "PAID", unit = "CP_MEUR")	date_filter=1999:2023,3	name=FALSE
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.22.8	id=namq_10_gdp	filters=list(geo = c("SK"), s_adj = "SCA", na_item = "P31_S14", unit = "CP_MEUR")	date_filter=1999:2023	name=FALSE
+0.22.8	id=nasq_10_nf_tr	filters=list(geo = c("SK"), s_adj = "SCA", na_item = "B6G", sector = "S1", direct = "PAID", unit = "CP_MEUR")	date_filter=1999:2023	name=FALSE
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "Q", unit = "CLV_I10")	date_filter=2010<
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.22.5	id=ei_bsco_m
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.20.6	id=proj_19rp3	filters=NULL	date_filter=NULL	keep_flags=TRUE
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.22.1	id=ilc_mdes01	keep_flags=TRUE
+0.20.6	id=proj_19rp3
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "Q", unit = "PD15_EUR")	date_filter=2010<
+0.22.5	id=ei_bsco_m
+0.22.5	id=ei_bsco_q
+0.22.5	id=ei_bsin_m_r2
+0.22.5	id=ei_bsin_q_r2
+0.22.5	id=ei_bsbu_m_r2
+0.22.5	id=ei_bsbu_q_r2
+0.22.5	id=ei_bsse_m_r2
+0.22.5	id=ei_bsse_q_r2
+0.22.5	id=ei_bsrt_m_r2
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=rd_e_gerdreg
+0.22.5	id=nama_10r_2gdp
+0.22.5	id=rd_e_gerdreg
+0.22.5	id=nama_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "A", unit = "PD15_EUR")	date_filter=2010<
+0.20.6	id=demo_gind	filters=list(indic_de = "GROWRT", geo = "EU27_2020")	date_filter=2011:2025
+0.20.6	id=demo_gind	date_filter=2011:2025
+0.20.6	id=demo_gind	date_filter=NULL
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "Q", unit = "PC_GDP")	date_filter=2010<
+0.20.6	id=demo_gind	date_filter=NULL
+0.20.6	id=demo_gind	date_filter=NULL
+0.20.6	id=demo_gind	date_filter=NULL	keep_flags=FALSE
+0.20.6	id=demo_gind	date_filter=NULL	keep_flags=TRUE
+0.20.6	id=demo_gind	date_filter=NULL	keep_flags=TRUE
+0.20.6	id=demo_gind	date_filter=NULL	keep_flags=TRUE
+0.22.5	id=nama_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "A", unit = "PC_GDP")	date_filter=2010<
+0.22.5	id=namq_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "Q", unit = "CP_MEUR")	date_filter=2010<
+0.22.5	id=prc_hicp_midx	cflags=TRUE
+0.22.5	id=prc_hicp_inw	cflags=TRUE
+0.22.5	id=prc_hicp_manr	cflags=TRUE
+0.20.6	id=edat_lfs_9913	date_filter=2000:2022	keep_flags=TRUE
+0.20.6	id=edat_lfs_9913	date_filter=2000:2022	keep_flags=TRUE
+0.22.5	id=nama_10_gdp	filters=list(geo = "EA20", s_adj = "SCA", freq = "A", unit = "CP_MEUR")	date_filter=2010<
+0.20.6	id=edat_lfs_9913	date_filter=2000:2022	keep_flags=TRUE
+0.22.5	id=nama_10_gdp	filters=list(geo = "EA", s_adj = "SCA", freq = "A", unit = "CLV_I10")	date_filter=2010<
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.22.8	id=namq_10_gdp	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.8	id=gov_10q_ggnfa	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.8	id=lfsq_pganws	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.8	id=gov_10q_ggdebt	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.22.8	id=eilm010	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.8	id=teilm010	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.8	id=teilm020	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.8	id=ei_lmhr_m	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.22.8	id=une_rt_m	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.20.6	id=une_rt_m	date_filter=2000:2022	keep_flags=TRUE
+0.20.6	id=une_rt_m	date_filter=c("2000m1:2010m12")	keep_flags=TRUE
+0.20.6	id=une_rt_m	date_filter=c("2000m01:2010m12")	keep_flags=TRUE
+0.20.6	id=une_rt_m	date_filter=("2000m01:2010m12")	keep_flags=TRUE
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.20.6	id=une_rt_a	date_filter=2000:2022	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=une_rt_a	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=lfsa_pgauws
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.22.8	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.22.8	id=demo_r_pjanind3	filters=c("MEDAGEPOP", "YR")	exact_match=TRUE	date_filter=c(2021:2022)	label=FALSE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE
+0.20.6	id=met_lfe3emprt	keep_flags=TRUE

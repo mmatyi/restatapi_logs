@@ -1,0 +1,129 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=2013:2023	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=nama_10r_3gdp
+0.22.5	id=nama_10r_3nlp
+0.22.5	id=demo_r_d3dens
+0.22.5	id=bd_enace2_r3
+0.22.5	id=crim_gen_reg
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=bd_size_r3
+0.22.5	id=bd_size_r3
+0.22.5	id=sbs_sc_ovw
+0.20.6	id=bop_fdi6_pos	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=sbs_sc_ovw
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_inw	date_filter=2015<=	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_inw	date_filter=2015<	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=prc_hicp_inw	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_cow
+0.22.5	id=prc_hicp_cow	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_cow	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_cow
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	date_filter=2015:2020	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=sprt_pcs_hbs	date_filter=2015:2020	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=sprt_pcs_qnt	date_filter=2015:2020	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=hbs_exp_t121	filters=list(coicop = c("CP01", "CP04"))	date_filter=2020	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=sprt_pcs_hbs	date_filter=2015:2020	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=inn_cis12_pf_co
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=sbs_r_nuts06_r2
+0.22.5	id=sbs_r_nuts06_r2
+0.22.5	id=bd_size_r3
+0.22.5	id=bd_size_r3
+0.22.5	id=bd_size_r3
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE

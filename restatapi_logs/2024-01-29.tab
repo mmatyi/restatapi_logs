@@ -1,0 +1,197 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=ert_bil_eur_a
+0.22.5	id=nama_10_co3_p3
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")
+0.20.6	id=prc_hicp_mmor	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP11", "CP0722", "SERV")	date_filter=>2021-01-01
+0.20.6	id=prc_hicp_manr	filters=c("EA", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2019-01-01
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.6	id=prc_hicp_midx	filters=c("EA", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2019-01-01
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_mmor
+0.22.5	id=prc_hicp_manr
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_manr
+0.22.5	id=prc_hicp_midx	label=TRUE
+0.22.5	id=nasa_10_f_bs
+0.22.5	id=nama_10_nfa_bs
+0.22.5	id=tps00001
+0.22.5	id=tec00001
+0.22.5	id=prc_hicp_cann	label=TRUE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SCA", unit = "PCHSM")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SCA", unit = "PCH_SM")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")
+0.20.6	id=bop_fdi6_pos	stringsAsFactors=FALSE	keep_flags=TRUE	cflags=TRUE
+0.22.5	id=sts_trtu_m	filters=list(geo = "EA20", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "FRA", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "FRA", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "FRA", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "FR", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "FR", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "DE", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "DE", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "IT", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "IT", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=sts_trtu_m	filters=list(geo = "ES", indic_bt = "TOVT", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=sts_trtu_m	filters=list(geo = "ES", indic_bt = "TOVV", s_adj = "SCA", unit = "I15")	date_filter=2010<
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=ilc_mdes09	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.6	id=prc_hicp_manr	filters=c("EA", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.20.6	id=prc_hicp_manr	filters=c("AT")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT")
+0.20.6	id=prc_hicp_manr	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")	date_filter=>2021-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("AT", "CP00", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV")
+0.20.6	id=prc_hicp_manr	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")	date_filter=>2019-01-01
+0.20.6	id=PRC_HICP_INW	filters=c("EA", "FOOD", "IGD_NNRG", "CP045", "CP0722", "CP11", "SERV", "CP00")
+0.20.6	id=prc_hicp_midx	filters=c("AT", "I15", "TOT_X_NRG_FOOD", "CP00", "FOOD", "IGD_NNRG", "NRG", "SERV", "CP11", "CP1111", "CP07112", "CP0511")	date_filter=>2019-01-01
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE

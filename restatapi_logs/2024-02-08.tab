@@ -1,0 +1,164 @@
+0.20.6	id=nama_10r_2gfcf	filters=list(currency = "MIO_EUR", NACE_R2 = "TOTAL")	date_filter=2015:2023
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "MIO_EUR")	date_filter=2015:2023
+0.20.6	id=nama_10r_2gfcf	filters=list(currency = "MIO_EUR", NACE_R2 = "TOTAL")	date_filter=2015:2023
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "MIO_EUR")	date_filter=2015:2023
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "PPS_HAB_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "PPS_HAB_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "PPS_HAB_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "PPS_HAB_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "PPS_HAB_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "PPS_HAB_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "MIO_PPS_EU27_2020")
+0.20.6	id=nama_10r_3gdp	filters=list(unit = "MIO_PPS_EU27_2020")	date_filter=2015:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U"))	date_filter=2015:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U"))	date_filter=2015:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U"))	date_filter=2015:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U"))	date_filter=2015:2023
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U", "TOTAL"))	date_filter=2015:2023
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U"))	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = c("A", "B-E", "F", "G-J", "K-N", "O-U"))	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "A")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "A")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "A")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "A")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "B-E")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "F")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "G-J")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "K-N")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = "MIO_EUR", NACE_R2 = "O-U")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = "TOTAL")	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.20.6	id=nama_10r_3gva	filters=list(currency = currencyVar, NACE_R2 = nace[i])	date_filter=2018:2023
+0.21.2	id=demo_pjan
+0.21.2	id=org_aprod
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=org_lstspec
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.22.5	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.22.5	id=prc_hicp_midx	label=TRUE
+0.20.3	id=prc_hicp_manr
+0.22.5	id=prc_hicp_midx
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx	verbose=TRUE
+0.22.5	id=prc_hicp_midx	verbose=TRUE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=prc_hicp_midx
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_inw
+0.22.5	id=prc_hicp_midx
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=prc_fsc_idx
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=fats_out2_r2	filters=list(indic_bp = "TUR", partner = "CN_X_HK", geo = c("EU27_2020", "EU28", "EU27_2007"))	date_filter=2010:2020	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_midx
+0.22.5	id=apri_pi15_outq
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT")	date_filter=c("2020<")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT")	date_filter=c("2000<")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT")	date_filter=c("2021<")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT", padj = "NI")	date_filter=c("2021<")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT", padj = "NI")	date_filter=c("2021<")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT", padj = "NI")	date_filter=c("2021<")
+0.22.5	id=apri_pi15_outq	filters=list(product = "010000", geo = "AT", padj = "NI")	date_filter=c("2021<")
+0.22.5	id=apri_pi15_outq

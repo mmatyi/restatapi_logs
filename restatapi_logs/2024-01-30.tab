@@ -1,0 +1,179 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_lp_ulc I15	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q", unit = "I15")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc I15	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q", unit = "I15")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q", unit = "I15")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "NSA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_r_mwk3_20	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=namq_10_lp_lprod	filters=list(geo = "ES", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ES", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ES", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ES", s_adj = "NSA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ES", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "NSA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "EA20", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "DE", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "DE", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "DE", s_adj = "NSA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "DE", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "FR", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "FR", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "FR", s_adj = "NSA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "FR", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ITL", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "IT", s_adj = "SCA", na_item = "RLPR_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ITL", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "IT", s_adj = "SCA", na_item = "RLPR_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "IT", s_adj = "NSA", na_item = "NULC_HW", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "ITL", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.22.5	id=namq_10_lp_ulc	filters=list(geo = "IT", s_adj = "NSA", na_item = "NULC_PER", freq = "Q")	date_filter=2010<
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.20.3	id=ei_bsco_m	label=TRUE
+0.20.3	id=ei_bsco_q	label=TRUE
+0.20.3	id=ei_bsin_m_r2	label=TRUE
+0.20.3	id=ei_bsin_q_r2	label=TRUE
+0.20.3	id=ei_bsbu_m_r2	label=TRUE
+0.20.3	id=ei_bsbu_q_r2	label=TRUE
+0.20.3	id=ei_bsrt_m_r2	label=TRUE
+0.20.3	id=ei_bssi_m_r2	label=TRUE
+0.20.3	id=ei_bsse_m_r2	label=TRUE
+0.20.3	id=ei_bsse_q_r2	label=TRUE
+0.20.3	id=ei_bsci_m_r2	label=TRUE
+0.20.3	id=ei_bsfs_m	label=TRUE
+0.20.3	id=ei_bsfs_q	label=TRUE
+0.20.3	id=ei_bsee_m_r2	label=TRUE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=migr_pop2ctz
+0.22.5	id=migr_pop2ctz
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTO"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"), unit = c("PC_ACT"), sex = c("T"), s_adj = c("SA"), age = c("TOTAL"))	date_filter=2006-07<	label=TRUE	name=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTO"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"), unit = c("PC_ACT"), sex = c("T"), s_adj = c("SA"), age = c("TOTAL"))	date_filter=2006-07<	label=TRUE	name=FALSE
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2006
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_code)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = c("RCH_A_AVG", "INX_A_AVG"), coicop = c("CP00", "CP0911", "CP0913", "CP0914", "CP0942", "CP0951", "CP0952"))	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=namq_10_a10_e	filters=list(s_adj = "NSA", geo = c("FR"), unit = c("THS_PER", "THS_JOB"), na_item = "EMP_DC")
+0.22.5	id=demo_r_deaths	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.20.6	id=demo_gind	filters=list(indic_de = "GROWRT", geo = "EU27_2020")	date_filter=2011:2022
+0.20.6	id=nama_10_gdp
+0.20.6	id=fn	keep_flags=TRUE
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.5	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.5	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.1	id=sts_copi_q	filters=list(geo = c("PL"), indic_bt = c("CSTO"), unit = c("I15"))	date_filter=2006-05<	label=TRUE	name=FALSE
+0.22.1	id=une_rt_m	filters=list(geo = c("PL"), unit = c("PC_ACT"), sex = c("T"), s_adj = c("SA"), age = c("TOTAL"))	date_filter=2006-07<	label=TRUE	name=FALSE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_code)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=ist(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.20.6	id=fn	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	filters=function (.x, .p, ...)  {     every(.x, negate(.p), ...) }	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.20.6	id=nama_10_gdp	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=TRUE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.1	id=sts_inpr_m	filters=list(indic_bt = "PROD", geo = c("AT", "DE", "IT", "HU", "SI"), s_adj = "NSA", nace_r2 = "B-D", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-ESI-I", geo = c("EU27_2020", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=ei_bssi_m_r2	filters=list(indic = "BS-CSMCI-BAL", geo = c("EA20", "HR"), s_adj = "SA", freq = "M")	date_filter=2000-01<
+0.22.1	id=prc_hicp_midx	filters=list(coicop = "CP00", geo = "HR", freq = "M", unit = "I15")	date_filter=2000-01<
+0.22.1	id=sts_inppd_m	filters=list(indic_bt = "PRIN", geo = "HR", nace_r2 = "B-E36", freq = "M", unit = "I15")	date_filter=2000-01<	stringsAsFactors=FALSE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.20.3	id=sts_ind_prod
+0.20.3	id=sts_ind_prod
+0.20.3	id=sts_ind_prod
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE
+0.22.5	id=prc_hicp_aind	filters=list(unit = unit_HICP, coicop = coicop_codes)	date_filter=starting_year:ending_year	label=FALSE	update_cache=TRUE	keep_flags=TRUE

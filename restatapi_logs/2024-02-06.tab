@@ -1,0 +1,99 @@
+0.20.6	id=prc_hicp_midx
+0.20.6	id=prc_hicp_midx	label=TRUE
+0.20.6	id=prc_hicp_manr
+0.20.6	id=prc_hicp_manr	label=TRUE
+0.20.6	id=prc_hicp_mmor
+0.20.6	id=prc_hicp_mmor	label=TRUE
+0.20.6	id=prc_hicp_inw
+0.20.6	id=prc_hicp_inw	label=TRUE
+0.21.2	id=demo_pjan
+0.21.2	id=org_aprod
+0.21.2	id=apro_mt_pwgtm
+0.21.2	id=org_lstspec
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=une_rt_q
+0.22.5	id=lfsi_neet_a
+0.22.5	id=lfsi_neet_a
+0.22.5	id=nasq_10_f_bs
+0.22.5	id=sts_inpr_m
+0.22.5	id=sts_inlb_q
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=tgs00096	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gdp	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_2gvagr	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=nama_10r_3gva	label=FALSE	cache=TRUE	cache_dir=C:/Users/BORNADA/OneDrive - European Union Intellectual Property Office (EUIPO)/R Programming and Data/Data Caching
+0.22.5	id=prc_hicp_manr
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=prc_fsc_idx
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.20.3	id=prc_hicp_midx	cflags=TRUE
+0.20.3	id=prc_hicp_inw	cflags=TRUE
+0.20.3	id=prc_hicp_manr	cflags=TRUE
+0.20.3	id=prc_hicp_manr
+0.20.3	id=prc_hicp_cow
+0.20.3	id=nama_10_gdp
+0.20.3	id=prc_hicp_inw
+0.20.3	id=ei_bsco_m
+0.22.5	id=educ_uoe_fine06
+0.22.5	id=educ_uoe_fine06
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", time = "2010")
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", time = "2020")
+0.22.5	id=prc_fsc_idx
+0.22.5	id=nama_10_gdp	filters=list(geo = "DE", time = "2020")
+0.22.5	id=nama_10_gdp	filters=list(geo = "BE", time = "2020")
+0.22.5	id=sts_copi_q
+0.20.6	id=paste0(cToken[1], freq)	filters=list(currency = curr, statinfo = stat)
+0.22.5	id=demo_gind	filters=c("AVG", country)	date_filter=2019
+0.22.5	id=prc_fsc_idx
+0.22.5	id=prc_fsc_idx
+0.22.1	id=LMP_EXPME	filters=c("SK")
+0.22.1	id=LMP_EXPME
+0.22.1	id=MP_EXPME__custom_391
+0.22.1	id=BOP_GDP6_Q	time_format=function (x, ..., sigfig = NULL, digits = NULL, label = NULL, scale = NULL, notation = c("fit", "dec", "sci", "eng", "si"), fixed_exponent = NULL, extra_sigfig = NULL)  {     stopifnot(is.numeric(x))     stopifnot(is.null(digits) || is_integerish(digits))     check_dots_empty()     x[] <- as.numeric(x)     if (missing(notation)) {         notation <- NULL     }     out <- set_num_opts(x, sigfig = sigfig, digits = digits, label = label, scale = scale, notation = notation, fixed_exponent = fixed_exponent, extra_sigfig = extra_sigfig)     new_class <- c("pillar_num", "pillar_vctr", "vctrs_vctr", "double")     class(out) <- new_class     out }
+0.22.1	id=LMP_EXPME$SK
+0.22.1	id=LMP_EXPME
+0.22.1	id=STS_INPR_M
+0.22.1	id=LMP_EXPME
+0.22.1	id=LMP_EXPME	verbose=TRUE
+0.22.1	id=LMP_EXPME	verbose=TRUE
+0.22.1	id=LMP_PARTME	verbose=TRUE
+0.22.1	id=LMP_PARTME	label=TRUE	verbose=TRUE
+0.21.2	id=apro_mt_ppighq
+0.21.2	id=apro_mt_pwgtm
+0.22.5	id=namq_10_gdp	filters=HR	date_filter=1999-10-01<
+0.22.5	id=namq_10_exi
+0.22.5	id=une_rt_q
+0.22.5	id=nasq_10_f_bs
+0.22.5	id=prc_fsc_idx
+0.22.5	id=gov_10q_ggnfa
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=prc_hicp_midx
+0.22.5	id=apri_pi15_outq
+0.22.5	id=apri_pi15_outq
