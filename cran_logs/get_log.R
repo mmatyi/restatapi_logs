@@ -19,24 +19,27 @@ dlog<-function(date){
            },
            warning = function(w) {
              if (verbose){message("Warning by the download the log file:",'\n',paste(unlist(w),collapse="\n"))}
+             tbc<-FALSE
            })
-  if (tbc & (file.info(temp)$size>0)){
-    tryCatch({gz<-gzfile(temp,open="rt")},
-             error = function(e) {
-               if (verbose){message("Error by the opening the downloaded gz file:",'\n',paste(unlist(e),collapse="\n"))}
-               tbc<-FALSE
-             },
-             warning = function(w) {
-               if (verbose){message("Warning by the opening the downloaded gz file:",'\n',paste(unlist(w),collapse="\n"))}
-             })
-    if(max(utils::sessionInfo()$otherPkgs$data.table$Version,utils::sessionInfo()$loadedOnly$data.table$Version)>"1.11.7"){
-      logs<-data.table::fread(text=readLines(gz),sep=',',colClasses='character',header=TRUE,stringsAsFactors=F)
-    } else{
-      logs<-data.table::fread(paste(readLines(gz),collapse="\n"),sep=',',colClasses='character',header=TRUE,stringsAsFactors=F)
-    }
-    close(gz)
-    unlink(temp)
-    logs[package=="restatapi"]
+  if (tbc & !is.na(file.info(temp)$size)){
+    if (file.info(temp)$size>0){
+      tryCatch({gz<-gzfile(temp,open="rt")},
+               error = function(e) {
+                 if (verbose){message("Error by the opening the downloaded gz file:",'\n',paste(unlist(e),collapse="\n"))}
+                 tbc<-FALSE
+               },
+               warning = function(w) {
+                 if (verbose){message("Warning by the opening the downloaded gz file:",'\n',paste(unlist(w),collapse="\n"))}
+               })
+      if(max(utils::sessionInfo()$otherPkgs$data.table$Version,utils::sessionInfo()$loadedOnly$data.table$Version)>"1.11.7"){
+        logs<-data.table::fread(text=readLines(gz),sep=',',colClasses='character',header=TRUE,stringsAsFactors=F)
+      } else{
+        logs<-data.table::fread(paste(readLines(gz),collapse="\n"),sep=',',colClasses='character',header=TRUE,stringsAsFactors=F)
+      }
+      close(gz)
+      unlink(temp)
+      logs[package=="restatapi"]
+    } 
   }  
 }
 # rlogs<-dlog(date)
