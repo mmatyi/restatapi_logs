@@ -48496,3 +48496,5 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2025-06-02	20:51:55	238656	4.5.0	x86_64	mingw32	restatapi	0.24.2		3
 2025-06-02	10:21:09	73592				restatapi	0.24.2	US	524
 2025-06-02	10:26:13	73592				restatapi	0.24.2	US	524
+2025-06-03	12:21:18	200694				restatapi	0.13.1	US	15852
+2025-06-03	09:10:43	238611				restatapi	0.24.2		7
