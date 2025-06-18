@@ -48680,3 +48680,17 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2025-06-15	02:11:07	238182				restatapi	0.24.2	CA	54830
 2025-06-15	07:50:01	73615				restatapi	0.24.2	US	10051
 2025-06-15	12:04:15	238407				restatapi	0.24.2	CA	15250
+2025-06-16	12:57:11	73542	4.5.0	x86_64	linux-gnu	restatapi	0.24.2	US	182
+2025-06-16	16:45:55	233875				restatapi	0.23.1	US	17540
+2025-06-16	14:02:57	73533	4.5.0	x86_64	linux-gnu	restatapi	0.24.2	US	182
+2025-06-16	07:47:36	73616				restatapi	0.24.2	US	669
+2025-06-16	13:13:31	73544	4.5.0	x86_64	linux-gnu	restatapi	0.24.2		3
+2025-06-16	07:25:53	73612				restatapi	0.24.2	US	669
+2025-06-16	07:30:28	73615				restatapi	0.24.2	US	669
+2025-06-16	11:02:42	73533	4.5.0	x86_64	linux-gnu	restatapi	0.24.2	US	182
+2025-06-16	14:28:02	73537	4.5.0	x86_64	linux-gnu	restatapi	0.24.2	US	182
+2025-06-16	07:31:50	234171	4.3.2	x86_64	mingw32	restatapi	0.24.2	PL	31192
+2025-06-16	07:34:09	73615				restatapi	0.24.2	US	669
+2025-06-16	21:19:39	238851	4.5.0	x86_64	mingw32	restatapi	0.24.2	BR	88070
+2025-06-16	09:46:15	73583	4.4.1	x86_64	linux-gnu	restatapi	0.24.2	AT	1268
+2025-06-16	13:23:03	73528	4.5.0	x86_64	linux-gnu	restatapi	0.24.2		3
