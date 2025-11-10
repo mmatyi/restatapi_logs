@@ -52815,3 +52815,8 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2025-11-07	21:31:56	73503				restatapi	0.24.2		13
 2025-11-07	12:51:32	238687	4.5.1	x86_64	mingw32	restatapi	0.24.2	PL	1786
 2025-11-07	14:50:08	238687	4.5.1	x86_64	mingw32	restatapi	0.24.2	PL	1786
+2025-11-08	10:58:56	73592				restatapi	0.24.2	US	1009
+2025-11-08	10:48:46	73589				restatapi	0.24.2	US	1009
+2025-11-08	11:43:29	73592				restatapi	0.24.2	US	1009
+2025-11-08	11:34:18	73589				restatapi	0.24.2	US	1009
+2025-11-08	19:06:10	238381	4.5.1	aarch64	darwin20	restatapi	0.24.2	US	21441
