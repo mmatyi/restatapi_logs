@@ -54144,3 +54144,32 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2026-01-21	02:57:35	234012				restatapi	0.24.2	MX	121535
 2026-01-21	17:05:09	200699				restatapi	0.13.1	US	40
 2026-01-21	17:05:09	200700				restatapi	0.13.1	US	40
+2026-01-22	22:40:11	53930				restatapi	0.8.6	US	25
+2026-01-22	00:12:51	73584	4.4.3	x86_64	linux-gnu	restatapi	0.24.2	DE	393
+2026-01-22	14:33:32	61141				restatapi	0.10.3	US	3286
+2026-01-22	10:20:39	238379	4.5.1	x86_64	mingw32	restatapi	0.24.2	CH	12509
+2026-01-22	09:00:08	73612	4.5.2	aarch64	linux-musl	restatapi	0.24.2		4
+2026-01-22	08:56:54	73591				restatapi	0.24.2	US	660
+2026-01-22	17:07:59	73529	4.5.0	x86_64	linux-gnu	restatapi	0.24.2	AT	4943
+2026-01-22	07:52:39	73616	4.4.3	aarch64	linux-gnu	restatapi	0.24.2	CH	5988
+2026-01-22	05:56:40	31904				restatapi	0.1.6	US	12645
+2026-01-22	13:01:25	238923	4.5.2	x86_64	mingw32	restatapi	0.24.2	NO	87925
+2026-01-22	01:02:53	73613	4.5.2	x86_64	linux-musl	restatapi	0.24.2	DE	393
+2026-01-22	07:33:49	43860				restatapi	0.6.2	US	1285
+2026-01-22	10:11:26	64888				restatapi	0.13.1	US	4401
+2026-01-22	14:21:32	73419				restatapi	0.23.1	US	4453
+2026-01-22	14:34:17	34501				restatapi	0.3.6	US	11816
+2026-01-22	09:17:25	45006				restatapi	0.7.3	US	2705
+2026-01-22	10:54:44	73592				restatapi	0.24.2	US	660
+2026-01-22	11:19:46	34401				restatapi	0.3.5	US	7966
+2026-01-22	14:34:41	58070				restatapi	0.9.8	US	2766
+2026-01-22	09:03:22	73615	4.4.3	aarch64	linux-gnu	restatapi	0.24.2	CH	5988
+2026-01-22	10:36:51	73613	4.4.3	x86_64	linux-gnu	restatapi	0.24.2	DE	393
+2026-01-22	20:49:28	45920				restatapi	0.7.5	US	29747
+2026-01-22	07:29:37	73613	4.4.3	x86_64	linux-gnu	restatapi	0.24.2	DE	393
+2026-01-22	10:43:21	73589				restatapi	0.24.2	US	660
+2026-01-22	06:16:37	73583	4.5.2	aarch64	linux-musl	restatapi	0.24.2		4
+2026-01-22	09:51:13	73612	4.4.3	aarch64	linux-gnu	restatapi	0.24.2	CH	5988
+2026-01-22	09:52:27	73615	4.4.3	x86_64	linux-gnu	restatapi	0.24.2	DE	393
+2026-01-22	08:55:19	73583				restatapi	0.24.2	US	660
+2026-01-22	06:07:47	73613	4.5.2	x86_64	linux-musl	restatapi	0.24.2	DE	393
