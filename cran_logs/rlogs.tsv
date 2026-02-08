@@ -54473,3 +54473,29 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2026-02-05	17:29:06	538				restatapi	0.13.1	US	2654
 2026-02-05	01:23:07	238372	4.5.1	aarch64	darwin20	restatapi	0.24.2	ES	23570
 2026-02-05	11:28:45	245589				restatapi	0.24.5	US	2654
+2026-02-06	08:50:59	200769				restatapi	0.13.1	US	11188
+2026-02-06	16:24:21	233709				restatapi	0.24.2	DE	108
+2026-02-06	13:48:20	239794	4.4.3	x86_64	mingw32	restatapi	0.24.5	BG	9496
+2026-02-06	08:06:44	238298	4.5.1	aarch64	darwin20	restatapi	0.24.2	SE	35680
+2026-02-06	06:36:02	73725	4.5.2	aarch64	linux-musl	restatapi	0.24.5		1
+2026-02-06	06:40:50	73729	4.5.2	x86_64	linux-musl	restatapi	0.24.5	DE	879
+2026-02-06	07:17:26	239926				restatapi	0.24.5	MX	143
+2026-02-06	02:13:14	73726	4.5.2	x86_64	linux-musl	restatapi	0.24.5	DE	879
+2026-02-06	12:41:42	238305	4.5.1	aarch64	darwin20	restatapi	0.24.2	SE	35680
+2026-02-06	08:00:34	238303	4.5.1	aarch64	darwin20	restatapi	0.24.2	SE	35680
+2026-02-06	10:03:23	73728	4.4.3	x86_64	linux-gnu	restatapi	0.24.5	DE	879
+2026-02-06	10:04:02	73727	4.5.2	aarch64	linux-musl	restatapi	0.24.5		1
+2026-02-06	09:26:08	73725	4.4.3	aarch64	linux-gnu	restatapi	0.24.5	CH	7265
+2026-02-06	03:38:54	238336	4.5.1	aarch64	darwin20	restatapi	0.24.2	JP	47920
+2026-02-06	15:08:32	239862				restatapi	0.24.5	US	4377
+2026-02-06	11:40:19	239700	4.5.1	x86_64	mingw32	restatapi	0.24.5	AT	14760
+2026-02-06	08:50:58	200700				restatapi	0.13.1	US	26174
+2026-02-06	13:01:14	73616				restatapi	0.24.5	DE	14681
+2026-02-06	00:35:00	73697	4.4.3	x86_64	linux-gnu	restatapi	0.24.5	DE	879
+2026-02-06	09:26:13	73726	4.4.3	aarch64	linux-gnu	restatapi	0.24.5	CH	7265
+2026-02-06	07:11:11	238189	4.5.0	aarch64	darwin20	restatapi	0.24.2	US	61068
+2026-02-06	10:09:53	239808				restatapi	0.24.5	KR	27393
+2026-02-06	17:34:56	238189	4.5.0	aarch64	darwin20	restatapi	0.24.2	US	61068
+2026-02-06	18:30:36	73726	4.4.3	x86_64	linux-gnu	restatapi	0.24.5	DE	879
+2026-02-06	10:19:05	73728	4.4.3	aarch64	linux-gnu	restatapi	0.24.5	CH	7265
+2026-02-06	10:02:57	73726	4.4.3	x86_64	linux-gnu	restatapi	0.24.5	DE	879
