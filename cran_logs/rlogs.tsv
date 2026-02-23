@@ -54832,3 +54832,11 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2026-02-20	15:29:47	200700				restatapi	0.13.1	US	16
 2026-02-20	09:08:11	73696				restatapi	0.24.5	US	943
 2026-02-20	11:59:10	239568	4.4.2	x86_64	mingw32	restatapi	0.24.5		3
+2026-02-21	00:25:00	234822				restatapi	0.24.5	ID	1240
+2026-02-21	00:25:06	234822				restatapi	0.24.5	US	1244
+2026-02-21	10:49:19	73702				restatapi	0.24.5	US	5957
+2026-02-21	08:56:47	73696				restatapi	0.24.5	US	5957
+2026-02-21	17:57:39	234347	4.3.1	x86_64	darwin20	restatapi	0.24.2	IT	43461
+2026-02-21	10:59:18	73705				restatapi	0.24.5	US	5957
+2026-02-21	08:58:21	73704				restatapi	0.24.5	US	5957
+2026-02-21	10:37:09	73629	4.5.1	x86_64	linux-gnu	restatapi	0.24.5	CN	22045
