@@ -57604,3 +57604,13 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2026-06-12	09:29:30	73592				restatapi	0.25.0	US	21040
 2026-06-12	17:01:09	238436				restatapi	0.25.0	US	12478
 2026-06-12	09:56:11	244585	4.6.0	x86_64	mingw32	restatapi	0.25.0	CN	30
+2026-06-13	14:56:37	244584	4.6.0	x86_64	mingw32	restatapi	0.25.0		4
+2026-06-13	12:21:53	244580				restatapi	0.25.0		4
+2026-06-13	00:08:36	73524	4.6.0	aarch64	darwin25.5.0	restatapi	0.25.0	US	5105
+2026-06-13	03:14:10	244604				restatapi	0.25.0		4
+2026-06-13	01:16:30	44977				restatapi	0.7.3	US	749
+2026-06-13	08:35:01	244631				restatapi	0.25.0		4
+2026-06-13	01:25:00	243361	4.6.0	aarch64	darwin25.5.0	restatapi	0.25.0	US	5105
+2026-06-13	00:36:43	243323	4.6.0	aarch64	darwin25.5.0	restatapi	0.25.0	US	5105
+2026-06-13	00:41:56	237630				restatapi	0.24.5	US	8175
+2026-06-13	01:14:09	44746				restatapi	0.7.1	US	7117
