@@ -58728,3 +58728,6 @@ date	time	size	r_version	r_arch	r_os	package	version	country	ip_id
 2026-08-23	13:59:26	238523	4.4.3	x86_64	mingw32	restatapi	0.25.0	PL	32094
 2026-08-23	01:54:06	243219				restatapi	0.25.0	US	2038
 2026-08-23	17:58:38	73510	4.6.1	aarch64	darwin24.6.0	restatapi	0.25.0		1
+2026-08-24	05:53:26	244836				restatapi	0.25.0	US	24825
+2026-08-24	07:29:32	73511	4.5.3	x86_64	linux-gnu	restatapi	0.25.0	DE	27732
+2026-08-24	06:56:49	237142				restatapi	0.25.0	US	629
